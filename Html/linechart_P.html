@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Publication Author</title>
+<link rel="stylesheet" type="text/css" href="../wordcloud/inspector.css">
+<link rel="stylesheet" href="//code.jquery.com/ui/1.13.0/themes/base/jquery-ui.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+  <script src="https://code.jquery.com/ui/1.13.0/jquery-ui.js"></script>
+    <script>
+      $( function() {
+        $( ".widget input[type=submit], .widget a, .widget button" ).button();
+        $( "button, input, a" ).click( function( event ) {
+          event.preventDefault();
+        } );
+      } );
+      </script>
+<head>
+    <div class="widget">
+        <button onclick="location.href='indexA20112011.html'" style="background-color:#D0E3C4">Author Network</button>
+        <button onclick="location.href='indexW20112011.html'" style="background-color:#D0E3C4">Paper Network</button>
+        <button onclick="location.href='indexK20112011.html'" style="background-color:#D0E3C4">Keywork Network</button>
+        <button onclick="location.href='linechart_B.html'" style="background-color:#fef9fb">Betweenness Linechart</button>
+      <button onclick="location.href='linechart_P.html'" style="background-color:#fef9fb">Publication Linechart</button>
+        <!--
+      <button onclick="location.href='indexPA20112011.html'" style="background-color:#D0E3C4">Paper Author Network</button>
+      -->
+        <button onclick="location.href='indexKW20112011.html'" style="background-color:#D0E3C4">Keywork wordcloud</button>
+        <button onclick="location.href='indexKW20082012.html'" style="background-color:#b5d4fd">2008-2012</button>
+        <button onclick="location.href='indexKW20082017.html'" style="background-color:#b5d4fd">2008-2017</button>
+        <button onclick="location.href='indexKW20082022.html'" style="background-color:#b5d4fd">2008-2022</button>
+        <button onclick="location.href='indexKW20082012.html'" style="background-color:#ffbfd9">2008-2012</button>
+        <button onclick="location.href='indexKW20132017.html'" style="background-color:#ffbfd9">2013-2017</button>
+        <button onclick="location.href='indexKW20182022.html'" style="background-color:#ffbfd9">2018-2022</button>
+    </div>
+</head>
+<body  style = "text-align:center;"></body>
+<!-- Load d3.js -->
+<script src="https://d3js.org/d3.v4.js"></script>
+
+<!-- Create a div where the graph will take place -->
+<div id="my_dataviz"></div>
+
+<script>
+
+// set the dimensions and margins of the graph
+var margin = {top: 30, right: 5, bottom: 40, left: 50},
+    width = 650 - margin.left - margin.right,
+    height = 650 - margin.top - margin.bottom;
+
+//Read the data
+d3.csv("../Csv/Pchart.csv", function(data) {
+
+  // group the data: I want to draw one line per group
+  var sumstat = d3.nest() // nest function allows to group the calculation per level of a factor
+    .key(function(d) { return d.name;})
+    .entries(data);
+
+  // What is the list of groups?
+  allKeys = sumstat.map(function(d){return d.key})
+
+  // Add an svg element for each group. The will be one beside each other and will go on the next row when no more room available
+  var svg = d3.select("#my_dataviz")
+    .selectAll("uniqueChart")
+    .data(sumstat)
+    .enter()
+    .append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+      .attr("transform",
+            "translate(" + margin.left + "," + margin.top + ")");
+
+  // Add X axis --> it is a date format
+  var x = d3.scaleLinear()
+    .domain(d3.extent(data, function(d) { return d.year; }))
+    .range([ 0, width ]);
+  svg
+    .append("g")
+    .attr("transform", "translate(0," + height + ")")
+    .call(d3.axisBottom(x).ticks(15))
+    .selectAll("text")  
+    .style("text-anchor", "end")
+    .attr("dx", "-.8em")
+    .attr("dy", "-.50em")
+    .attr("transform", "rotate(-90)" );
+
+  //Add Y axis
+  var y = d3.scaleLinear()
+    .domain([0, d3.max(data, function(d) { return +d.n; })])
+    .range([ height, 0 ]);
+  svg.append("g")
+    .call(d3.axisLeft(y).ticks(15));
+
+  // color palette
+  var color = d3.scaleOrdinal()
+    .domain(allKeys)
+    .range(['#e41a1c','#377eb8','#4daf4a','#984ea3','#ff7f00','#a65628','#f781bf','#999999'])
+
+  // Draw the line
+  svg
+    .append("path")
+      .attr("fill", "none")
+      .attr("stroke", function(d){ return color(d.key) })
+      .attr("stroke-width", 2)
+      .attr("d", function(d){
+        return d3.line()
+          .x(function(d) { return x(d.year); })
+          .y(function(d) { return y(+d.n); })
+          (d.values)
+      })
+
+  // Add titles
+  svg
+    .append("text")
+    .attr("text-anchor", "start")
+    .attr("y", -5)
+    .attr("x", 0)
+    .attr("font-size",25)
+    .text(function(d){ return(d.key)})
+    .style("fill", function(d){ return color(d.key) })
+
+})
+</script>

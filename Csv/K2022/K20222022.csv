@@ -1,0 +1,1037 @@
+source,target
+caadria2022_100,SDG 9
+caadria2022_100,Calibrating
+caadria2022_100,Computational Design
+caadria2022_100,Form-Finding
+caadria2022_100,Optimization
+caadria2022_100,Tensioned Knitted Textiles
+caadria2022_102,SDG 9
+caadria2022_102,SDG 11
+caadria2022_102,Architectural Visualization
+caadria2022_102,Browser Based Modeling
+caadria2022_102,Digital Cultural Heritage
+caadria2022_102,glTF File
+caadria2022_102,Shoei Yoh
+caadria2022_112,SDG 9
+caadria2022_112,SDG 12
+caadria2022_112,Free-Form Concrete
+caadria2022_112,Reusable Formwork
+caadria2022_112,Robotic Fabrication
+caadria2022_112,Topology Optimization
+caadria2022_114,SDG 11
+caadria2022_114,Big Data Analysis
+caadria2022_114,Correlation Analysis
+caadria2022_114,Deep Learning
+caadria2022_114,Generative Adversarial Networks
+caadria2022_114,Romance Heatmap
+caadria2022_115,SDG 4
+caadria2022_115,Architecture
+caadria2022_115,Design Cognition
+caadria2022_115,Design Networks
+caadria2022_115,First Occurrence
+caadria2022_115,Immersive Virtual Reality
+caadria2022_115,Natural Language Processing
+caadria2022_115,Studio
+caadria2022_116,SDG 9
+caadria2022_116,SDG 11
+caadria2022_116,Form-Finding
+caadria2022_116,Funicular
+caadria2022_116,Meshes
+caadria2022_116,Shells
+caadria2022_118,SDG 13
+caadria2022_118,Early Design Stages
+caadria2022_118,Life Cycle Assessment
+caadria2022_118,Sensitivity Analysis
+caadria2022_118,Synergy Potential
+caadria2022_118,Uncertainty Analysis
+caadria2022_118,Urban Scale
+caadria2022_120,SDG 3
+caadria2022_120,SDG 11
+caadria2022_120,Architectural Design
+caadria2022_120,Attngan
+caadria2022_120,Computer Vision
+caadria2022_120,Generative Pre-trained Transformer 2
+caadria2022_120,Human Computer Interaction
+caadria2022_120,Natural Language Processing
+caadria2022_120,Post-Carbon
+caadria2022_120,Rhetoric and Writing
+caadria2022_129,SDG 4
+caadria2022_129,SDG 8
+caadria2022_129,Augmented Reality
+caadria2022_129,Digital Heritage
+caadria2022_129,Digital Restoration
+caadria2022_129,Lighting Design
+caadria2022_129,Virtual And Real Worlds
+caadria2022_129,Web System
+caadria2022_130,SDG 11
+caadria2022_130,Diagrammatic Floor Plan
+caadria2022_130,Geometric Forms
+caadria2022_130,L-System
+caadria2022_130,Pattern Language
+caadria2022_130,Turtle Graphics
+caadria2022_139,SDG 10
+caadria2022_139,SDG 11
+caadria2022_139,Digital Participation
+caadria2022_139,Latent Dirichlet Allocation Topic Modeling
+caadria2022_139,Natural Language Processing
+caadria2022_139,Qualitative Urban Data
+caadria2022_139,Sentiment Analysis
+caadria2022_139,Urban Design
+caadria2022_140,SDG 11
+caadria2022_140,Industrial Waterfront Regeneration
+caadria2022_140,Machine Learning
+caadria2022_140,Sustainable Cities
+caadria2022_140,Urban Morphology
+caadria2022_145,SDG 11
+caadria2022_145,SDG 13
+caadria2022_145,Computational Modeling
+caadria2022_145,Digital Design
+caadria2022_145,High-Rises
+caadria2022_145,Machine Learning
+caadria2022_145,Prediction and Evaluation
+caadria2022_145,Simulation
+caadria2022_148,SDG 8
+caadria2022_148,SDG 9
+caadria2022_148,Affordable On-Site Craft
+caadria2022_148,Digital Fabrication
+caadria2022_148,Real-Time Design to Fabrication
+caadria2022_152,SDG 7
+caadria2022_152,SDG 11
+caadria2022_152,Building Energy Performance
+caadria2022_152,Daylight Autonomy
+caadria2022_152,Machine Learning
+caadria2022_152,Synthetic Data-Sets
+caadria2022_153,SDG 9
+caadria2022_153,SDG 11
+caadria2022_153,15-Minute City
+caadria2022_153,Industry Innovation
+caadria2022_153,Infrastructure
+caadria2022_153,Spatial Analysis
+caadria2022_153,Sustainable Cities
+caadria2022_153,Sustainable Communities
+caadria2022_153,Urban Accessibility
+caadria2022_153,Urban Walkability
+caadria2022_157,SDG 9
+caadria2022_157,Low-Tech Construction
+caadria2022_157,Mixed Reality
+caadria2022_157,Non-Standard Architecture
+caadria2022_157,Solar Decathlon Competition
+caadria2022_166,SDG 8
+caadria2022_166,SDG 9
+caadria2022_166,Architectural Design
+caadria2022_166,Artificial Intelligence
+caadria2022_166,Autocompletion
+caadria2022_166,Floor Plan
+caadria2022_167,SDG 11
+caadria2022_167,Data Mining
+caadria2022_167,Pedestrian Sentiments
+caadria2022_167,Street Level Imagery
+caadria2022_167,Transformers
+caadria2022_167,Transportation Behavior
+caadria2022_167,Urban Sustainability
+caadria2022_169,SDG 11
+caadria2022_169,Building Performance Simulation
+caadria2022_169,Decarbonisation
+caadria2022_169,Parametric Design Generation
+caadria2022_169,Renewable Energy
+caadria2022_169,Urban Building Energy Modeling
+caadria2022_169,Urban Sustainability
+caadria2022_172,SDG 11
+caadria2022_172,3D Computational Fluid Dynamics Prediction
+caadria2022_172,3D U-Net
+caadria2022_172,Machine Learning
+caadria2022_172,Residual Block
+caadria2022_172,Urban Microclimate
+caadria2022_175,SDG 11
+caadria2022_175,SDG 12
+caadria2022_175,SDG 13
+caadria2022_175,SDG 15
+caadria2022_175,Augmented Construction
+caadria2022_175,Bio-Material
+caadria2022_175,Computational Design
+caadria2022_175,Innovative Material Use
+caadria2022_175,Performance Based Design
+caadria2022_176,SDG 3
+caadria2022_176,Gaze Analysis
+caadria2022_176,Japanese Architecture
+caadria2022_176,Oku
+caadria2022_176,Visual Impression
+caadria2022_176,Well-Being
+caadria2022_177,SDG 3
+caadria2022_177,SDG 11
+caadria2022_177,3D Reconstruction
+caadria2022_177,Residential Outdoor Space
+caadria2022_177,Thermal Image
+caadria2022_177,Underlying Surface Temperature
+caadria2022_177,Unmanned Aerial Vehicle
+caadria2022_179,SDG 11
+caadria2022_179,City Digital Twin
+caadria2022_179,Flood Visualization
+caadria2022_179,Occlusion Handling
+caadria2022_179,Virtual And Augmented Realities
+caadria2022_179,Web Based Augmented Reality
+caadria2022_183,SDG 9
+caadria2022_183,SDG 11
+caadria2022_183,SDG 12
+caadria2022_183,Robotic Assembly
+caadria2022_183,Spatial Timber Structures
+caadria2022_183,Timber-Only
+caadria2022_183,Wood Joints
+caadria2022_184,SDG 4
+caadria2022_184,SDG 9
+caadria2022_184,SDG 11
+caadria2022_184,SDG 12
+caadria2022_184,Collaboration
+caadria2022_184,Immersive Virtual Environment
+caadria2022_184,Level of Details
+caadria2022_184,Virtual Reality
+caadria2022_184,Virtual Reality
+caadria2022_193,SDG 12
+caadria2022_193,Digital Fabrication
+caadria2022_193,Elastic Material
+caadria2022_193,Nichrome Wire Sintering
+caadria2022_193,Rapid Prototyping
+caadria2022_194,SDG 10
+caadria2022_194,SDG 11
+caadria2022_194,SDG 13
+caadria2022_194,China
+caadria2022_194,Cultural Heritage
+caadria2022_194,Guangzhou
+caadria2022_194,Multi-Objective Evolutionary Algorithm
+caadria2022_194,Urban Renewal
+caadria2022_194,Village in The City
+caadria2022_194,Xian Village
+caadria2022_195,SDG 9
+caadria2022_195,Digital Twin
+caadria2022_195,Eye-Tracking
+caadria2022_195,Post-Occupancy Evaluation
+caadria2022_195,Signage System Design
+caadria2022_195,Transportation Building
+caadria2022_195,Virtual Reality
+caadria2022_195,Wayfinding
+caadria2022_196,SDG 7
+caadria2022_196,SDG 11
+caadria2022_196,Energy-Driven Urban Design
+caadria2022_196,Knowledge Graph
+caadria2022_196,Semantic Web
+caadria2022_196,SWOT Analysis
+caadria2022_199,SDG 3
+caadria2022_199,SDG 11
+caadria2022_199,SDG 13
+caadria2022_199,Green Perception
+caadria2022_199,Street View Image
+caadria2022_199,Subjective Measure
+caadria2022_199,Urban Ecology
+caadria2022_199,Urban Green Space
+caadria2022_204,SDG 10
+caadria2022_204,SDG 11
+caadria2022_204,Crowdsourcing
+caadria2022_204,Subjective Evaluation
+caadria2022_204,Virtual Reality
+caadria2022_205,SDG 3
+caadria2022_205,SDG 4
+caadria2022_205,SDG 8
+caadria2022_205,SDG 9
+caadria2022_205,Architectural Design Process
+caadria2022_205,Artificial Neural Networks
+caadria2022_205,Data Collection
+caadria2022_205,Design Protocol Studies
+caadria2022_205,Sketching
+caadria2022_208,SDG 3
+caadria2022_208,SDG 8
+caadria2022_208,SDG 12
+caadria2022_208,Artificial Intelligence
+caadria2022_208,Explainability
+caadria2022_208,Explainable Artificial Intelligence
+caadria2022_210,SDG 11
+caadria2022_210,Collective Urbanism
+caadria2022_210,Data Dignity
+caadria2022_210,Game Design
+caadria2022_210,Liquid Democracy
+caadria2022_210,Location Data
+caadria2022_210,Temporal Ownership
+caadria2022_210,Tokenization
+caadria2022_215,SDG 9
+caadria2022_215,3D Modeling
+caadria2022_215,Computer Aided Design Interface
+caadria2022_215,Computer Vision
+caadria2022_215,Data Processing
+caadria2022_215,Industry Innovation
+caadria2022_215,Infrastructure
+caadria2022_215,Open Source Tools
+caadria2022_215,Point Cloud
+caadria2022_215,Quality Education
+caadria2022_220,SDG 4
+caadria2022_220,SDG 9
+caadria2022_220,Digital Twin
+caadria2022_220,Gradient Boosting
+caadria2022_220,Hand-Eye Relationship
+caadria2022_220,Homogeneous Transformation
+caadria2022_220,Human Wearable XR Device
+caadria2022_221,SDG 11
+caadria2022_221,SDG 12
+caadria2022_221,Design Optimization
+caadria2022_221,Optimal Trajectory
+caadria2022_221,User Interface
+caadria2022_221,Virtual Reality
+caadria2022_221,Virtual Reality
+caadria2022_221,WalktAutomatic Walkthroughs
+caadria2022_223,SDG 4
+caadria2022_223,SDG 11
+caadria2022_223,Energy Literacy
+caadria2022_223,Energy Simulation
+caadria2022_223,Green Building Education
+caadria2022_223,Parametric Building Information Modeling
+caadria2022_223,Serious Game
+caadria2022_227,SDG 9
+caadria2022_227,SDG 10
+caadria2022_227,SDG 11
+caadria2022_227,SDG 12
+caadria2022_227,SDG 13
+caadria2022_227,Algorithmic Design
+caadria2022_227,Computer Vision
+caadria2022_227,Environmental Performance
+caadria2022_227,Generative
+caadria2022_227,Multi-Agent System
+caadria2022_227,Visual Character Analysis
+caadria2022_231,SDG 11
+caadria2022_231,3D Dataset
+caadria2022_231,Architectural Archive
+caadria2022_231,Architectural Compositions
+caadria2022_231,Architectural Form
+caadria2022_231,Artificial Intelligence
+caadria2022_231,Deep Learning
+caadria2022_233,SDG 11
+caadria2022_233,Design Methods
+caadria2022_233,Generative Design
+caadria2022_233,Kinetic Facade
+caadria2022_233,Reinforcement Learning
+caadria2022_238,SDG 11
+caadria2022_238,Generative Probabilistic Model
+caadria2022_238,Machine Learning
+caadria2022_238,Natural Language Processing
+caadria2022_238,Thematic Zones
+caadria2022_238,Topic Modeling
+caadria2022_238,Urban Data Modeling
+caadria2022_239,SDG 11
+caadria2022_239,SDG 12
+caadria2022_239,Deep Reinforcement Learning
+caadria2022_239,Energy-Driven Urban Design
+caadria2022_239,Intelligent Generative Design
+caadria2022_239,Rooftop Photovoltaic Power
+caadria2022_242,SDG 11
+caadria2022_242,SDG 12
+caadria2022_242,SDG 15
+caadria2022_242,Bamboo
+caadria2022_242,Digital Fabrication
+caadria2022_242,Glued Laminate Bamboo
+caadria2022_242,Robotic Assembly
+caadria2022_245,SDG 9
+caadria2022_245,Computational Design
+caadria2022_245,In-Situ Fabrication
+caadria2022_245,Mobile Robot
+caadria2022_245,Timber Structures
+caadria2022_255,SDG 11
+caadria2022_255,SDG 13
+caadria2022_255,Local Climate Zone
+caadria2022_255,Openness
+caadria2022_255,Spatial Distribution
+caadria2022_255,Urban Pores
+caadria2022_255,Urban Thermal Environment
+caadria2022_258,SDG 11
+caadria2022_258,Augmented Reality
+caadria2022_258,Interactive Visualization
+caadria2022_258,Landscape Design
+caadria2022_258,Planar Reflection
+caadria2022_258,Real-Time Ray Tracing
+caadria2022_258,Real-Time Rendering
+caadria2022_258,Reflection
+caadria2022_260,SDG 3
+caadria2022_260,SDG 6
+caadria2022_260,SDG 10
+caadria2022_260,SDG 11
+caadria2022_260,SDG 13
+caadria2022_260,Computational Design
+caadria2022_260,Evolutionary Algorithm
+caadria2022_260,Flood Resilience
+caadria2022_260,Jakarta
+caadria2022_260,Kampung Melayu
+caadria2022_260,Sequential Simulation
+caadria2022_260,Urban Growth
+caadria2022_263,SDG 12
+caadria2022_263,Biodesign
+caadria2022_263,Computational Design
+caadria2022_263,Growing Designs
+caadria2022_263,Mycelia
+caadria2022_264,SDG 11
+caadria2022_264,SDG 11
+caadria2022_264,Computational Design
+caadria2022_264,Machine Learning
+caadria2022_264,Machine Learning
+caadria2022_264,Planning Support System
+caadria2022_264,Sustainable Cities
+caadria2022_264,Sustainable Communities
+caadria2022_264,Transit-Oriented Development
+caadria2022_264,TransUrban Planning
+caadria2022_264,Urban Planning
+caadria2022_267,SDG 3
+caadria2022_267,SDG 11
+caadria2022_267,Active Living
+caadria2022_267,Bicycle-Friendly
+caadria2022_267,Computer Vision
+caadria2022_267,Machine Learning
+caadria2022_267,Quality Streetscapes
+caadria2022_267,Visual Assessment
+caadria2022_270,SDG 9
+caadria2022_270,SDG 10
+caadria2022_270,SDG 11
+caadria2022_270,SDG 12
+caadria2022_270,GeGentrification
+caadria2022_270,Mixed-Use
+caadria2022_270,Mixed-Use
+caadria2022_270,Sequential Egentrification
+caadria2022_270,Sequential Evolutionary Simulation
+caadria2022_270,Urban Development
+caadria2022_270,Urban Development
+caadria2022_271,SDG 12
+caadria2022_271,SDG 13
+caadria2022_271,SDG 14
+caadria2022_271,Circular Design
+caadria2022_271,Paste Extrusion Method
+caadria2022_271,Seaweed Biocomposite Material
+caadria2022_271,Water Based Robotic Fabrication
+caadria2022_272,SDG 11
+caadria2022_272,Deep Learning
+caadria2022_272,Generative Adversarial Networks
+caadria2022_272,Generative Design
+caadria2022_272,Morphology Cognition
+caadria2022_272,Urban Fabric
+caadria2022_275,SDG 9
+caadria2022_275,3D Scanning
+caadria2022_275,Computer Vision
+caadria2022_275,Machine Learning
+caadria2022_275,Phycology
+caadria2022_275,Traditional Technique
+caadria2022_276,SDG 13
+caadria2022_276,SDG 15
+caadria2022_276,Arctic
+caadria2022_276,Autonomous Herding
+caadria2022_276,Pingo
+caadria2022_276,Regenerated Landscape
+caadria2022_276,Reindeer
+caadria2022_277,SDG 12
+caadria2022_277,Data Driven Model
+caadria2022_277,Machine Learning
+caadria2022_277,Material Programming
+caadria2022_277,Smart Material
+caadria2022_277,Timber Structures
+caadria2022_278,SDG 11
+caadria2022_278,SDG 12
+caadria2022_278,Computational Optimization
+caadria2022_278,Design for Circular Economy
+caadria2022_278,Design Optimization
+caadria2022_278,Sustainability
+caadria2022_279,SDG 11
+caadria2022_279,Generative Adversarial Networks
+caadria2022_279,Machine Learning
+caadria2022_279,Real-Time
+caadria2022_279,User Interface
+caadria2022_279,Walkability
+caadria2022_281,SDG 11
+caadria2022_281,Generative Design
+caadria2022_281,Multi-Objective Optimization
+caadria2022_281,Sustainable Rating System
+caadria2022_281,Urban Modeling And Simulation
+caadria2022_284,SDG 11
+caadria2022_284,Modularity
+caadria2022_284,Open Building
+caadria2022_284,Participatory Design
+caadria2022_284,Prefabrication
+caadria2022_284,Self-Renewal
+caadria2022_284,User Driven Design
+caadria2022_284,Web Application
+caadria2022_286,SDG 11
+caadria2022_286,Deep Learning
+caadria2022_286,Fluid Dynamics
+caadria2022_286,Grasshopper
+caadria2022_286,Technology Adoption
+caadria2022_286,Urban Microclimate Simulation
+caadria2022_291,SDG 11
+caadria2022_291,Generative Design
+caadria2022_291,Procedural Modeling
+caadria2022_291,Rural Context
+caadria2022_291,Tensor Field
+caadria2022_291,Urban Fabric
+caadria2022_291,Web Based Tools
+caadria2022_292,SDG 9
+caadria2022_292,SDG 12
+caadria2022_292,Automation
+caadria2022_292,Customizable Structures
+caadria2022_292,Digitization
+caadria2022_292,Fiber-Reinforced Plastic Filament Winding
+caadria2022_292,Lightweight
+caadria2022_292,Robotic Technology
+caadria2022_292,Stress Optimized Structures
+caadria2022_292,Sustainable Fabrication
+caadria2022_293,SDG 12
+caadria2022_293,Building Information Modeling
+caadria2022_293,Cast-In-Situ Concrete Structures
+caadria2022_293,Construction Workflow
+caadria2022_293,Laser scanning
+caadria2022_293,Point Cloud
+caadria2022_293,Tolerance Compliance
+caadria2022_294,SDG 12
+caadria2022_294,Error Compensation
+caadria2022_294,Forming Path
+caadria2022_294,Incremental Sheet Forming
+caadria2022_294,Robotic Fabrication
+caadria2022_296,SDG 9
+caadria2022_296,Augmented Reality
+caadria2022_296,Digital Fabrication
+caadria2022_296,Generative Design
+caadria2022_296,Material Simulation
+caadria2022_297,SDG 3
+caadria2022_297,SDG 9
+caadria2022_297,Architectural Usability
+caadria2022_297,Computer Vision
+caadria2022_297,Motion Studies
+caadria2022_297,Pose Estimation
+caadria2022_297,Spatial Evaluation
+caadria2022_299,SDG 12
+caadria2022_299,Generative Design
+caadria2022_299,Hollow Structures
+caadria2022_299,Metallic 3D Printing
+caadria2022_299,Self-Supporting
+caadria2022_299,Topology Optimization
+caadria2022_302,SDG 11
+caadria2022_302,SDG 12
+caadria2022_302,Building Databases
+caadria2022_302,Component Reuse
+caadria2022_302,Google Street View
+caadria2022_302,Machine Learning
+caadria2022_302,Material Banks
+caadria2022_312,SDG 9
+caadria2022_312,SDG 11
+caadria2022_312,Critical Making
+caadria2022_312,Design Theory
+caadria2022_312,Digital Infrastructure
+caadria2022_312,Prototype
+caadria2022_312,Smart City
+caadria2022_312,Speculative Design
+caadria2022_312,Urban Studies
+caadria2022_313,SDG 9
+caadria2022_313,SDG 11
+caadria2022_313,SDG 13
+caadria2022_313,SDG 15
+caadria2022_313,Computational Sustainability
+caadria2022_313,Convolutional Neural Network
+caadria2022_313,Landscape Architecture
+caadria2022_313,Llandscape Sustainability
+caadria2022_313,Machine Learning
+caadria2022_313,Urban Design
+caadria2022_316,SDG 9
+caadria2022_316,Design Intents Disentanglement
+caadria2022_316,Multimodal Machine Learning
+caadria2022_316,Natural Language Processing
+caadria2022_317,SDG 11
+caadria2022_317,Artificial Intelligence
+caadria2022_317,Object Recognition
+caadria2022_317,Social Media
+caadria2022_317,Sustainable Communities
+caadria2022_32,SDG 4
+caadria2022_32,SDG 9
+caadria2022_32,SDG 11
+caadria2022_32,Dougong Joint
+caadria2022_32,Knowledge Graph Visualization
+caadria2022_32,Parametric Design
+caadria2022_32,Space Syntax
+caadria2022_322,SDG 9
+caadria2022_322,Body Posture Recognition
+caadria2022_322,Human Drone Interaction
+caadria2022_322,Natural User Interface
+caadria2022_322,Remote Working
+caadria2022_322,Spatial Presence
+caadria2022_322,Speech Recognition
+caadria2022_322,Virtual Reality
+caadria2022_325,SDG 8
+caadria2022_325,SDG 12
+caadria2022_325,Agglomeration Effect
+caadria2022_325,Big Data Analysis
+caadria2022_325,Business District Hierarchy
+caadria2022_325,Machine Learning
+caadria2022_325,Multi-Scale Geographically Weighted Regression Model
+caadria2022_325,Spatial Variability
+caadria2022_33,SDG 11
+caadria2022_33,SDG 13
+caadria2022_33,City Information Modeling
+caadria2022_33,Digital Twin
+caadria2022_33,Energy Demand Model
+caadria2022_33,Planning Support System
+caadria2022_336,SDG 7
+caadria2022_336,SDG 12
+caadria2022_336,SDG 13
+caadria2022_336,Algorithmic Design
+caadria2022_336,Architecture
+caadria2022_336,Machine Learning
+caadria2022_336,Optimization of Urban Areas
+caadria2022_336,Urban Building Energy Modeling
+caadria2022_337,SDG 9
+caadria2022_337,Architectural Geometry
+caadria2022_337,Computational Design
+caadria2022_337,Industry
+caadria2022_337,Infrastructure
+caadria2022_337,Innovation
+caadria2022_337,Tessellation Mesh Subdivision Modeling
+caadria2022_337,Topology Based Design
+caadria2022_338,SDG 11
+caadria2022_338,Building Information Modeling
+caadria2022_338,Construction
+caadria2022_338,Demolition Waste
+caadria2022_338,Design
+caadria2022_338,Environmental Data
+caadria2022_338,Stakeholder
+caadria2022_344,SDG 3
+caadria2022_344,SDG 11
+caadria2022_344,SDG 13
+caadria2022_344,Building Energy Modeling
+caadria2022_344,Energy Renovation
+caadria2022_344,Life Cycle Assessment
+caadria2022_344,Occupant Health
+caadria2022_344,Vernacular Mimicry
+caadria2022_349,SDG 10
+caadria2022_349,SDG 11
+caadria2022_349,SDG 12
+caadria2022_349,Affordability
+caadria2022_349,Distributed Manufacturing
+caadria2022_349,Local Communities
+caadria2022_349,Mixed Reality
+caadria2022_349,Online Platform
+caadria2022_352,SDG 11
+caadria2022_352,Energy Demand
+caadria2022_352,Indoor Thermal Comfort
+caadria2022_352,Occupancy
+caadria2022_352,Open Source Dataset
+caadria2022_352,Residential Building
+caadria2022_352,Unit Layout Information
+caadria2022_352,Urban Building Energy Modeling
+caadria2022_357,SDG 12
+caadria2022_357,Concrete Composite
+caadria2022_357,Mineral Foam
+caadria2022_357,Robotic 3D-Printing
+caadria2022_357,Stay-In-Place Formwork
+caadria2022_360,SDG 9
+caadria2022_360,SDG 11
+caadria2022_360,SDG 12
+caadria2022_360,Anthropocene
+caadria2022_360,Blockchain
+caadria2022_360,Design
+caadria2022_360,System Design
+caadria2022_360,Value Change
+caadria2022_361,SDG 9
+caadria2022_361,SDG 12
+caadria2022_361,SDG 13
+caadria2022_361,Augmented Reality
+caadria2022_361,Co-Creative Design
+caadria2022_361,Digital Representation and Visualization
+caadria2022_361,Irregular Tree Logs
+caadria2022_361,Mixed Reality
+caadria2022_361,Mixed Reality
+caadria2022_361,User Interface
+caadria2022_361,Wood Construction
+caadria2022_377,SDG 11
+caadria2022_377,Data Analysis
+caadria2022_377,Path Environment
+caadria2022_377,Pedestrian
+caadria2022_377,Route Selection
+caadria2022_377,Sustainable Built Environment
+caadria2022_386,SDG 12
+caadria2022_386,SDG 17
+caadria2022_386,Architectural Education
+caadria2022_386,Digital Collaboration
+caadria2022_386,Integrated Design
+caadria2022_387,SDG 4
+caadria2022_387,Augmented Reality
+caadria2022_387,Cultural Heritage
+caadria2022_387,Hale
+caadria2022_387,Tacit Knowledge
+caadria2022_388,SDG 11
+caadria2022_388,Bird’s Eye View
+caadria2022_388,Citizen Power
+caadria2022_388,Co-Decision
+caadria2022_388,Co-Design
+caadria2022_388,Immersive View
+caadria2022_388,Participatory Planning
+caadria2022_388,Visualization Method
+caadria2022_388,Web Application
+caadria2022_391,SDG 9
+caadria2022_391,Artisan Manufacturing
+caadria2022_391,Augmented Reality
+caadria2022_391,Collaborative Robotic
+caadria2022_391,Fabrication
+caadria2022_391,Hybrid Digital Craft
+caadria2022_393,SDG 11
+caadria2022_393,Computational Tools
+caadria2022_393,Landscape Architecture
+caadria2022_393,Traffic Engineering
+caadria2022_393,Urban Design
+caadria2022_393,Urban Heat Island
+caadria2022_394,SDG 3
+caadria2022_394,SDG 12
+caadria2022_394,Adaptive Facade
+caadria2022_394,Genetic Algorithm
+caadria2022_394,Light Environment
+caadria2022_394,Light Simulation
+caadria2022_394,Machine Learning
+caadria2022_402,SDG 4
+caadria2022_402,SDG 12
+caadria2022_402,SDG 13
+caadria2022_402,Computation
+caadria2022_402,Democratized Technology
+caadria2022_402,Digital Fabrication
+caadria2022_402,Digital Pedagogy
+caadria2022_402,Material Irregularity
+caadria2022_405,SDG 11
+caadria2022_405,SDG 13
+caadria2022_405,3D Remote Sharing
+caadria2022_405,Fast Point Cloud
+caadria2022_405,Instance Segmentation
+caadria2022_405,Mixed Reality
+caadria2022_405,Remote Meeting
+caadria2022_406,SDG 9
+caadria2022_406,SDG 11
+caadria2022_406,SDG 13
+caadria2022_406,3D Concrete Printing
+caadria2022_406,Funicular Spatial Structures
+caadria2022_406,Prestressed Concrete
+caadria2022_406,Robotic Fabrication
+caadria2022_406,Structural Optimization
+caadria2022_411,SDG 9
+caadria2022_411,SDG 12
+caadria2022_411,Artificial Intelligence
+caadria2022_411,Bi-Directional Evolutionary Structural Optimization
+caadria2022_411,Deep Learning
+caadria2022_411,Form-Finding
+caadria2022_411,Generative Adversarial Networks
+caadria2022_411,Topology Optimization
+caadria2022_42,SDG 9
+caadria2022_42,Architectural Dataset
+caadria2022_42,Attributed Adjacency Graph
+caadria2022_42,Ensemble Learning
+caadria2022_42,Floor Plan
+caadria2022_42,Segmentation
+caadria2022_420,SDG 11
+caadria2022_420,Computer Vision Object Detection
+caadria2022_420,Machine Learning
+caadria2022_420,Pedestrian Location Tracking
+caadria2022_420,Public Space Analysis
+caadria2022_421,SDG 7
+caadria2022_421,SDG 11
+caadria2022_421,Distributed Power Generation
+caadria2022_421,Solar Energy
+caadria2022_421,Sudoku Gameplay
+caadria2022_421,Unattended and Smart
+caadria2022_421,Urban System
+caadria2022_424,SDG 11
+caadria2022_424,Augmented Reality
+caadria2022_424,Building Information Modeling
+caadria2022_424,Game Engine
+caadria2022_424,Lighting Performance Simulation
+caadria2022_424,Revit
+caadria2022_424,Unity
+caadria2022_424,Virtual Reality
+caadria2022_427,SDG 11
+caadria2022_427,Architectural Space Environment
+caadria2022_427,Human Emotional Feelings
+caadria2022_427,Physiological Signal
+caadria2022_427,Urban Space
+caadria2022_431,SDG 11
+caadria2022_431,Augmented Reality
+caadria2022_431,Bamboo Material
+caadria2022_431,Digital Construction Method
+caadria2022_431,Multi-Technology Collaboration
+caadria2022_431,Parametric Design System
+caadria2022_435,SDG 9
+caadria2022_435,SDG 12
+caadria2022_435,ABM
+caadria2022_435,Additive Formwork
+caadria2022_435,Agent Based Modeling
+caadria2022_435,Modularity
+caadria2022_435,Prefabrication
+caadria2022_435,Volumetric Modeling
+caadria2022_44,SDG 11
+caadria2022_44,Building Massing
+caadria2022_44,Design Optimization
+caadria2022_44,Evomass
+caadria2022_44,Orientation
+caadria2022_44,Passive Design
+caadria2022_44,Performance Based Design
+caadria2022_45,SDG 11
+caadria2022_45,Cultural Sustainability
+caadria2022_45,Generative Adversarial Networks
+caadria2022_45,Machine Learning
+caadria2022_45,Non-Planned Settlements
+caadria2022_453,SDG 8
+caadria2022_453,SDG 9
+caadria2022_453,SDG 12
+caadria2022_453,Augmented Reality
+caadria2022_453,Cyber-Physical Fabrication
+caadria2022_453,Human Robot Collaboration
+caadria2022_456,SDG 3
+caadria2022_456,SDG 10
+caadria2022_456,SDG 11
+caadria2022_456,Elderly Service Facilities
+caadria2022_456,Machine Learning
+caadria2022_456,Multi-Source Data
+caadria2022_458,SDG 3
+caadria2022_458,SDG 10
+caadria2022_458,SDG 11
+caadria2022_458,Life Circle
+caadria2022_458,Machine Learning
+caadria2022_458,Multi-Source Data
+caadria2022_458,Refined Urban Design
+caadria2022_458,Walkability Indicator
+caadria2022_46,SDG 11
+caadria2022_46,Algorithmic Design
+caadria2022_46,Building Layout
+caadria2022_46,Design Optimization
+caadria2022_46,Parametric Modeling
+caadria2022_46,Performance Based Design
+caadria2022_464,SDG 11
+caadria2022_464,Geographic Information System
+caadria2022_464,Image Segmentation
+caadria2022_464,Machine Learning
+caadria2022_464,Street Quality
+caadria2022_47,SDG 11
+caadria2022_47,Big Data
+caadria2022_47,Bike-Sharing
+caadria2022_47,COVID-19
+caadria2022_47,Geographically Weighted Regression
+caadria2022_47,Land Use
+caadria2022_471,SDG 8
+caadria2022_471,Algorithm
+caadria2022_471,Automatic Extraction
+caadria2022_471,Construction Waste
+caadria2022_471,Parametric Design
+caadria2022_471,Point Cloud
+caadria2022_472,SDG 12
+caadria2022_472,Additive Manufacturing
+caadria2022_472,Catenary Geometry
+caadria2022_472,Material Draping
+caadria2022_472,Physics Simulation
+caadria2022_472,Robotic Fabrication
+caadria2022_474,SDG 9
+caadria2022_474,Design for Disassembly
+caadria2022_474,Error Fitting Algorithm
+caadria2022_474,Motion Capture
+caadria2022_474,Precise Levelling Calibration
+caadria2022_474,Real-Time Monitoring
+caadria2022_476,SDG 9
+caadria2022_476,3D Gypsum Printing
+caadria2022_476,Extrusion Based
+caadria2022_476,Material Modification
+caadria2022_476,Robotic Fabrication Workflow
+caadria2022_476,Set-On-Demand Material
+caadria2022_48,SDG 4
+caadria2022_48,Collaborative Environment
+caadria2022_48,E-Learning
+caadria2022_48,FrameVR
+caadria2022_48,Online Education
+caadria2022_48,Virtual Reality
+caadria2022_486,SDG 11
+caadria2022_486,CloudXR Technology
+caadria2022_486,Digital Heritage
+caadria2022_486,Dissemination
+caadria2022_486,Portable Devices
+caadria2022_486,Preservation
+caadria2022_486,Urban Village
+caadria2022_488,SDG 8
+caadria2022_488,Clay Carving
+caadria2022_488,Crafts Inheritance
+caadria2022_488,Form Algorithm
+caadria2022_488,Robotic Arm
+caadria2022_490,SDG 9
+caadria2022_490,Concrete Fabrication
+caadria2022_490,Material Attributes
+caadria2022_490,Physical Form Finding
+caadria2022_490,Textile Concrete Formwork
+caadria2022_493,SDG 9
+caadria2022_493,Hologram
+caadria2022_493,Metaverse
+caadria2022_493,Metaverse Architectural Framework
+caadria2022_493,Mixed Reality
+caadria2022_496,SDG 3
+caadria2022_496,Body Movement
+caadria2022_496,Capacitive Sensor
+caadria2022_496,Daily Object
+caadria2022_496,Intuitive Interaction Design
+caadria2022_496,Smart Home
+caadria2022_496,Touchless
+caadria2022_497,SDG 4
+caadria2022_497,360 Images
+caadria2022_497,Caravanserais
+caadria2022_497,Digital Heritage
+caadria2022_497,Educational Games
+caadria2022_503,SDG 9
+caadria2022_503,Artificial Intelligence
+caadria2022_503,Artificial Intelligence
+caadria2022_503,Assisted Design Workflows
+caadria2022_503,Deep Learning
+caadria2022_503,Design Space Exploration
+caadria2022_503,Generative Systems
+caadria2022_505,SDG 12
+caadria2022_505,SDG 13
+caadria2022_505,Augmented Reality
+caadria2022_505,Climate Action
+caadria2022_505,Cybernetics
+caadria2022_505,Mixed Reality
+caadria2022_505,Projected Augmented Reality
+caadria2022_505,Projection Mapping
+caadria2022_505,Responsible Consumption and Production
+caadria2022_507,SDG 9
+caadria2022_507,Design Agency
+caadria2022_507,Domain Transfer
+caadria2022_507,Generative Adversarial Networks
+caadria2022_507,Neural Language Model
+caadria2022_507,Semantic Encoding
+caadria2022_508,SDG 11
+caadria2022_508,Artificial Intelligence
+caadria2022_508,Automating Building Performance Simulation
+caadria2022_508,Deep Learning
+caadria2022_508,Generative Design Systems
+caadria2022_508,Surrogate Modeling
+caadria2022_519,SDG 9
+caadria2022_519,Architectural Robotic
+caadria2022_519,Cloud Computing
+caadria2022_519,Gesture Based Programming
+caadria2022_519,Human Computer Interaction
+caadria2022_522,SDG 3
+caadria2022_522,SDG 11
+caadria2022_522,Generative Urban Design
+caadria2022_522,Urbano
+caadria2022_522,Walkability
+caadria2022_523,SDG 11
+caadria2022_523,Architectural Heritage
+caadria2022_523,Designers’ Simulation Toolkit
+caadria2022_523,Energy Consumption
+caadria2022_523,Huizhou
+caadria2022_523,Xidi Village
+caadria2022_525,SDG 9
+caadria2022_525,Design Process
+caadria2022_525,Spatial Design Experience
+caadria2022_525,User Study
+caadria2022_525,Virtual Reality
+caadria2022_54,SDG 3
+caadria2022_54,SDG 7
+caadria2022_54,SDG 11
+caadria2022_54,SDG 12
+caadria2022_54,Building Information Modeling
+caadria2022_54,Multi-Objective Optimization
+caadria2022_54,Sustainable Performance
+caadria2022_54,Transparent Envelope
+caadria2022_55,SDG 12
+caadria2022_55,Digital Fabrication
+caadria2022_55,Rapid Prototyping
+caadria2022_55,Robotic Fabrication
+caadria2022_55,Sustainable Manufacturing
+caadria2022_57,SDG 12
+caadria2022_57,SDG 13
+caadria2022_57,Bio-Inspired Solution
+caadria2022_57,Design Optimization
+caadria2022_57,Design Simulation
+caadria2022_57,Finite Element Analysis Method
+caadria2022_57,Low Carbon Solution
+caadria2022_59,SDG 11
+caadria2022_59,SDG 13
+caadria2022_59,Building Energy Simulation
+caadria2022_59,Monte Carlo Simulation
+caadria2022_59,Sensitivity Analysis
+caadria2022_59,Uncertainty Analysis
+caadria2022_60,SDG 9
+caadria2022_60,SDG 11
+caadria2022_60,Affordable Tools
+caadria2022_60,Participatory Design
+caadria2022_60,Remote Collaboration
+caadria2022_60,Virtual Reality
+caadria2022_68,SDG 11
+caadria2022_68,SDG 13
+caadria2022_68,Convolutional Neural Network
+caadria2022_68,Resilient Communities
+caadria2022_68,Sustainable Cities
+caadria2022_68,Sustainable Communities
+caadria2022_68,Urban Morphology
+caadria2022_69,SDG 9
+caadria2022_69,SDG 11
+caadria2022_69,Collaborative Design
+caadria2022_69,Interdisciplinary Computational Design
+caadria2022_69,Robotic Assembly
+caadria2022_69,Structural Performance Assessment
+caadria2022_69,Timber Joints
+caadria2022_69,Timber Plate Structures
+caadria2022_72,SDG 9
+caadria2022_72,SDG 12
+caadria2022_72,Automation
+caadria2022_72,Computational Design
+caadria2022_72,Construction
+caadria2022_72,Discrete Element Assemblies
+caadria2022_72,Masonry
+caadria2022_72,Reuse
+caadria2022_74,SDG 11
+caadria2022_74,3D Scanning
+caadria2022_74,Cultural Heritage
+caadria2022_74,Digital Heritage
+caadria2022_74,Digital Model
+caadria2022_74,Distributed Museum
+caadria2022_74,Intangible Heritage
+caadria2022_74,Photogrammetry
+caadria2022_74,Portable Museum
+caadria2022_74,Web Platform
+caadria2022_76,SDG 9
+caadria2022_76,SDG 11
+caadria2022_76,Building Information Modeling
+caadria2022_76,Design Documentation
+caadria2022_76,Design Episodes
+caadria2022_76,Design Rationale
+caadria2022_76,Explanation Tags
+caadria2022_77,SDG 3
+caadria2022_77,SDG 13
+caadria2022_77,Energyplus Modeling
+caadria2022_77,Overheating Risk
+caadria2022_77,Parametric Data Visualisation
+caadria2022_77,Passive House
+caadria2022_77,PHPP Modeling
+caadria2022_77,Social Housing
+caadria2022_80,SDG 9
+caadria2022_80,Building Information Modeling
+caadria2022_80,Construction Assemblage
+caadria2022_80,Construction Material
+caadria2022_80,Game Design
+caadria2022_80,Training
+caadria2022_80,Unity
+caadria2022_80,Virtual Construction
+caadria2022_80,Virtual Reality
+caadria2022_82,SDG 11
+caadria2022_82,Auxiliary Structures
+caadria2022_82,Bushfire
+caadria2022_82,Game Engine
+caadria2022_82,Visualization Modeling
+caadria2022_85,SDG 3
+caadria2022_85,SDG 10
+caadria2022_85,SDG 14
+caadria2022_85,3D Printing
+caadria2022_85,Blind
+caadria2022_85,Photogrammetry
+caadria2022_85,Touch Access
+caadria2022_85,Universal Design
+caadria2022_90,SDG 4
+caadria2022_90,SDG 9
+caadria2022_90,Architectural Pedagogy
+caadria2022_90,Conditional Generative Adversarial Nets
+caadria2022_90,Deep Learning
+caadria2022_90,Floor Plan
+caadria2022_90,Space Planning
+caadria2022_93,SDG 16
+caadria2022_93,Land Use
+caadria2022_93,POI
+caadria2022_93,Predictive Power
+caadria2022_93,Theft Crime
+caadria2022_93,Urban Functions

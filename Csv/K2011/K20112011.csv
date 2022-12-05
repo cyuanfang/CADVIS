@@ -1,0 +1,324 @@
+source,target
+caadria2011_001,Folding
+caadria2011_001,Knot
+caadria2011_001,Weaving
+caadria2011_002,Decision Making
+caadria2011_002,Design Automation
+caadria2011_002,Extensibility
+caadria2011_002,Knowledge Based Design
+caadria2011_002,Performance
+caadria2011_003,End-User Programming
+caadria2011_003,Logic Programming
+caadria2011_003,Parametric Modeling
+caadria2011_003,Practice Based Research
+caadria2011_004,Design Model
+caadria2011_004,Design Process
+caadria2011_004,Evaluation
+caadria2011_004,Parametric Design
+caadria2011_004,Synthesis
+caadria2011_005,Computational Landscape Design
+caadria2011_005,Optimization
+caadria2011_005,Parameter
+caadria2011_005,Sensor Network System
+caadria2011_005,Tools Customization
+caadria2011_006,Building Information Modeling
+caadria2011_006,Digital Catalogue
+caadria2011_006,Korean Joinery System
+caadria2011_007,Academic Workshop
+caadria2011_007,Computational Design
+caadria2011_007,Design-Build
+caadria2011_007,Digital Fabrication
+caadria2011_007,Tea House
+caadria2011_008,Cultural Hint
+caadria2011_008,Design Intention
+caadria2011_008,Ice-Ray
+caadria2011_008,Lowest Level Constituent
+caadria2011_008,Shape Grammar
+caadria2011_009,3D Printing
+caadria2011_009,Manufacturing Process
+caadria2011_009,Mould Making
+caadria2011_009,Parametric Modeling
+caadria2011_009,Plastic Casting
+caadria2011_010,Computer Aided Design
+caadria2011_010,Design Exploration
+caadria2011_010,Design Generation
+caadria2011_010,Eye-Tracking
+caadria2011_010,Shape Interpretation
+caadria2011_011,Affordability
+caadria2011_011,Low-Tech
+caadria2011_011,Performative Design
+caadria2011_011,Responsive Design
+caadria2011_012,Evolve
+caadria2011_012,Genetic Algorithm
+caadria2011_012,Multi-Agent
+caadria2011_012,Sunlight
+caadria2011_012,Terrain Context
+caadria2011_013,Computer Aided Design Systems
+caadria2011_013,Graph Visualization
+caadria2011_013,Node-Link Diagrams
+caadria2011_013,Visual Interaction
+caadria2011_013,Visual Interface
+caadria2011_014,Elastic
+caadria2011_014,Responsive
+caadria2011_014,Soft
+caadria2011_014,Transformable
+caadria2011_015,Education
+caadria2011_015,Parametric Design
+caadria2011_015,Physical Interaction
+caadria2011_015,Responsive Architecture
+caadria2011_016,Analysis
+caadria2011_016,Design
+caadria2011_016,Fabrication
+caadria2011_016,Materiality
+caadria2011_016,Performance
+caadria2011_017,Biomimicry
+caadria2011_017,Branching Structures
+caadria2011_017,Lindenmayer Systems
+caadria2011_017,Parametric Modeling
+caadria2011_018,Collaborative Virtual Environment
+caadria2011_018,Informal Interaction
+caadria2011_018,Shared Space
+caadria2011_019,Augmented Reality
+caadria2011_019,Context Immersion
+caadria2011_019,Mixed Reality
+caadria2011_019,Mobile Computing
+caadria2011_019,Ubiquitous Computing
+caadria2011_020,Augmented Reality
+caadria2011_020,Cybrids
+caadria2011_020,Global Positioning System
+caadria2011_020,Interactive Modeler
+caadria2011_020,Locative Design
+caadria2011_020,Mixed Reality
+caadria2011_020,Visualization
+caadria2011_021,Computer Game
+caadria2011_021,Photogrammetry
+caadria2011_021,Point Cloud
+caadria2011_021,Real-Time
+caadria2011_021,Visualization
+caadria2011_022,Environmental Sensor
+caadria2011_022,Pedestrian Movement
+caadria2011_022,Public and Private
+caadria2011_022,Space Syntax
+caadria2011_023,Biofeedback
+caadria2011_023,Empathy Theory
+caadria2011_023,Sensors
+caadria2011_023,Virtual Worlds
+caadria2011_024,3D Virtual Worlds
+caadria2011_024,Opensimulator
+caadria2011_024,Performance Evaluation
+caadria2011_024,Virtual Design Studio
+caadria2011_025,Augmented Reality
+caadria2011_025,Differential Global Positioning System
+caadria2011_025,Geographic Information System
+caadria2011_025,Optical See-Through HMD
+caadria2011_025,Stereovision
+caadria2011_026,Collaborative Ideation Loop
+caadria2011_026,Design Studio
+caadria2011_026,Hybrid Approach
+caadria2011_026,Hybrid Ideation Space
+caadria2011_026,Telepresence
+caadria2011_027,Individual
+caadria2011_027,Intelligible
+caadria2011_027,Interaction
+caadria2011_028,Flow
+caadria2011_028,Hybrid Ideation Space
+caadria2011_028,Immersive
+caadria2011_028,Mental Workload
+caadria2011_028,User Experience
+caadria2011_029,Adaptive
+caadria2011_029,Building Information
+caadria2011_029,Interaction
+caadria2011_029,Interface
+caadria2011_029,Participatory
+caadria2011_030,Interactive Message Wall
+caadria2011_030,Public Display
+caadria2011_030,Second Life
+caadria2011_030,Social Interaction
+caadria2011_030,Virtual Environment
+caadria2011_031,3D Laser Scanner
+caadria2011_031,Physical Space
+caadria2011_031,Point Cloud
+caadria2011_031,Polygon Optimization
+caadria2011_031,Virtual Reality
+caadria2011_032,Media Facade
+caadria2011_032,Public Transport
+caadria2011_032,Responsive Technologies
+caadria2011_032,Smart Environment
+caadria2011_032,Urban Informatics
+caadria2011_033,Computer Aided Design
+caadria2011_033,Expanded Ecology
+caadria2011_033,Human Aided Design
+caadria2011_033,Prosthesis
+caadria2011_033,Second Order Prosthesis
+caadria2011_034,Algorithmic Design
+caadria2011_034,Smart Material
+caadria2011_034,Surface Modeling
+caadria2011_034,Tangible User Interface
+caadria2011_035,Architectural Creativity
+caadria2011_035,Context-Aware Computing
+caadria2011_035,Cyberspace
+caadria2011_035,Locative Media
+caadria2011_035,Ubiquitous Computing
+caadria2011_036,Collaboration
+caadria2011_036,Context Awareness
+caadria2011_036,Ubiquitous Computing
+caadria2011_036,Ubiquitous Office
+caadria2011_036,Work Service Model
+caadria2011_037,Education
+caadria2011_037,Landscape Architecture
+caadria2011_037,Landscape Design
+caadria2011_037,Ontology
+caadria2011_037,Pattern Language
+caadria2011_037,Roberto Burle Marx
+caadria2011_038,Computer Aided Design
+caadria2011_038,Customisation Toolkits
+caadria2011_038,Design Protocol Study
+caadria2011_038,FBS Coding
+caadria2011_038,Mass Customization
+caadria2011_039,Co-Design
+caadria2011_039,Conceptual Design
+caadria2011_039,Decision Support
+caadria2011_039,Requirements
+caadria2011_039,Software
+caadria2011_040,Conceptual Design
+caadria2011_040,Diagrams
+caadria2011_040,Space Configuration
+caadria2011_041,Assessment Method
+caadria2011_041,Design Tools
+caadria2011_041,Human Computer Interaction
+caadria2011_041,Ideation
+caadria2011_042,Agent System
+caadria2011_042,MOOP
+caadria2011_042,Residential Quarter Planning
+caadria2011_042,Urban Design
+caadria2011_043,Computational Modeling
+caadria2011_043,Design Cognition
+caadria2011_043,Interpretation
+caadria2011_043,Visual Association
+caadria2011_044,Array
+caadria2011_044,CCTV
+caadria2011_044,Discrepancy
+caadria2011_044,Virtual
+caadria2011_044,Webcam
+caadria2011_045,Architectural Space Environment
+caadria2011_045,Computational Method
+caadria2011_045,Quality Mapping
+caadria2011_045,Subdivided Enclose Space
+caadria2011_046,Analysis System
+caadria2011_046,Behaviour Monitoring
+caadria2011_046,Office
+caadria2011_046,Personal Workspace
+caadria2011_046,Territory
+caadria2011_047,Computational Analysis
+caadria2011_047,Fractal Analysis
+caadria2011_048,Digital Model
+caadria2011_048,Forensic Analysis
+caadria2011_048,Scenario Building
+caadria2011_048,Virtual Reconstruction
+caadria2011_049,Assemblies
+caadria2011_049,Evolution
+caadria2011_049,Morphogenesis
+caadria2011_049,Performative
+caadria2011_050,Analysis
+caadria2011_050,Energy
+caadria2011_050,Integration
+caadria2011_050,Parametric
+caadria2011_050,Performance
+caadria2011_051,Case Based Design
+caadria2011_051,Case Library
+caadria2011_051,Data Mining
+caadria2011_051,Knowledge Representation
+caadria2011_051,Spatial Topology
+caadria2011_052,Hybrid Design
+caadria2011_052,Innovation Assessment
+caadria2011_052,Shape Grammar
+caadria2011_053,Agent Interaction
+caadria2011_053,Analysis
+caadria2011_053,Pedestrian Behaviour
+caadria2011_054,Design Culture
+caadria2011_054,Education
+caadria2011_054,Parametric Design
+caadria2011_054,Studio
+caadria2011_055,Architectural Education
+caadria2011_055,Creativity
+caadria2011_055,Digital Architecture Design
+caadria2011_055,Digital Fabrication
+caadria2011_055,Performance Based Design
+caadria2011_055,Process Based Designing
+caadria2011_056,PBL
+caadria2011_056,Problem Based Learning
+caadria2011_056,Social Learning
+caadria2011_056,Social Networks
+caadria2011_056,VDS
+caadria2011_056,Web 2.0
+caadria2011_057,Daylight Simulation
+caadria2011_057,Design Analysis
+caadria2011_057,Education
+caadria2011_058,Digital Architecture Curriculum
+caadria2011_058,Digital Design Education
+caadria2011_058,Impact Analysis
+caadria2011_058,Students’ Learning
+caadria2011_059,Blueprint
+caadria2011_059,Computer Aided Architectural Design Philosophy
+caadria2011_059,General
+caadria2011_059,Particular
+caadria2011_060,Constructive Interpretation
+caadria2011_060,Floor Plan
+caadria2011_060,Push-Pull
+caadria2011_060,Reinterpretation
+caadria2011_060,Situation
+caadria2011_061,Computational Design Concepts
+caadria2011_061,Logic
+caadria2011_061,Meaning
+caadria2011_061,Technology
+caadria2011_062,Space Information Model
+caadria2011_062,Space Information Property
+caadria2011_062,Space Information Scale
+caadria2011_063,Displacement
+caadria2011_063,Graph-Like Knowledge
+caadria2011_063,Linking Ideas
+caadria2011_063,Metaphor
+caadria2011_063,Protocol Analysis
+caadria2011_064,Cooccurrence Networks Analysis
+caadria2011_064,Design Collaboration
+caadria2011_064,Face-to-Face Meeting
+caadria2011_064,Room Ware
+caadria2011_064,Semi-Public Discussion Media
+caadria2011_065,Collective Intelligence
+caadria2011_065,Design Communication
+caadria2011_065,Design Process
+caadria2011_065,Protocol Analysis
+caadria2011_066,Collective Intelligence
+caadria2011_066,Cyberworlds
+caadria2011_066,Design
+caadria2011_066,Motivation
+caadria2011_067,Data Analysis
+caadria2011_067,Design for Children
+caadria2011_067,Drawing Processing
+caadria2011_067,Perception and Representation of Environment
+caadria2011_067,Spatial Network
+caadria2011_068,3D Modeling
+caadria2011_068,Building Information Modeling
+caadria2011_068,Computer Aided Architectural Design
+caadria2011_068,Information Database
+caadria2011_068,Virtual Architecture
+caadria2011_069,Building Information Modeling
+caadria2011_069,Building Information Modeling
+caadria2011_069,Domain-Specific Language
+caadria2011_069,Lighting
+caadria2011_069,Parametric Modeling
+caadria2011_069,Spatial Planning
+caadria2011_070,Manga
+caadria2011_070,Multidimensional Scaling
+caadria2011_070,Non-Photorealistic Rendering
+caadria2011_070,Sketching
+caadria2011_070,Storytelling
+caadria2011_071,Bi-Objective Optimization
+caadria2011_071,Interactive Genetic Algorithm
+caadria2011_071,Structural Form
+caadria2011_071,Subjective Evaluation
+caadria2011_072,Daylight
+caadria2011_072,Design Support
+caadria2011_072,Early Design Phase
+caadria2011_072,Energy
+caadria2011_072,Intents

@@ -1,0 +1,400 @@
+<html>
+  <title>2010-2019 Co-Paper</title>
+  <head>
+  <!--
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.13.0/themes/base/jquery-ui.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+  <script src="https://code.jquery.com/ui/1.13.0/jquery-ui.js"></script>
+    <script>
+      $( function() {
+        $( ".widget input[type=submit], .widget a, .widget button" ).button();
+        $( "button, input, a" ).click( function( event ) {
+          event.preventDefault();
+        } );
+      } );
+      </script>
+      -->
+    <style>
+      /* HTML styles */
+      html {
+        width: 100%;
+      }
+      body {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        font-family: sans-serif;
+        font-size: 75%;
+      }
+      main {
+        display: flex;
+        height: 100%;
+      }
+      .button-1 {
+        background-color: #D0E3C4;
+        color: rgb(0, 0, 0);
+        text-align: right;
+        font-size: 1em;
+      }
+      .button-2 {
+        background-color: #b5d4fd;
+        color: rgb(0, 0, 0);
+        text-align: right;
+        font-size: 1em;
+      }
+      .button-3 {
+        background-color: #ffbfd9;
+        color: rgb(0, 0, 0);
+        text-align: right;
+        font-size: 1em;
+      }
+      .button-4 {
+        background-color: #fef9fb;
+        color: rgb(0, 0, 0);
+        text-align: right;
+        font-size: 1em;
+      }
+      .controls {
+        flex-basis: 200px;
+        padding: 0 5px;
+      }
+      .controls .force {
+        background-color: #eee;
+        border-radius: 3px;
+        padding: 5px;
+        margin: 5px 0;
+      }
+      .controls .force p label {
+        margin-right: 0.5em;
+        font-size: 120%;
+        font-weight: bold;
+      }
+      .controls .force p {
+        margin-top: 0;
+      }
+      .controls .force label {
+        display: inline-block;
+      }
+      .controls input[type="checkbox"] {
+        transform: scale(1.2, 1.2);
+      }
+      .controls input[type="range"] {
+        margin: 0 5% 0.5em 5%;
+        width: 90%;
+      }
+      /* alpha viewer */
+      .controls .alpha p {
+        margin-bottom: 0.25em;
+      }
+      .controls .alpha .alpha_bar {
+        height: 0.5em;
+        border: 1px #777 solid;
+        border-radius: 2px;
+        padding: 1px;
+        display: flex;
+      }
+      .controls .alpha .alpha_bar #alpha_value {
+        background-color: #555;
+        border-radius: 1px;
+        flex-basis: 100%;
+      }
+      .controls .alpha .alpha_bar:hover {
+        border-width: 2px;
+        margin: -1px;
+      }
+      .controls .alpha .alpha_bar:active #alpha_value {
+        background-color: #222;
+      }
+
+      header.hide,
+      .controls.hide {
+        display: none;
+      }
+
+      /* SVG styles */
+      svg {
+        flex-basis: 100%;
+        min-width: 200px;
+      }
+      .nodes circle {
+        pointer-events: all;
+      }
+      .nodes text {
+        opacity: 1;
+        transition: opacity 200ms ease-out;
+      }
+      .nodes.hide text {
+        opacity: 0;
+      }
+    </style>
+    <div class="widget">
+      <button onclick="location.href='indexA20102019.html'" class="button-1">Author Network</button>
+      <button onclick="location.href='indexW20102019.html'" class="button-1">Paper Network</button>
+      <button onclick="location.href='indexK20102019.html'" class="button-1">Keywork Network</button>
+      <button onclick="location.href='linechart_B.html'" class="button-4">Betweenness Linechart</button>
+      <button onclick="location.href='linechart_P.html'" class="button-4">Publication Linechart</button>
+        <!--
+      <button onclick="location.href='indexPA20102019.html'" class="button-1">Paper Author Network</button>
+      -->
+      <button onclick="location.href='indexKW20102019.html'" class="button-1">Keywork wordcloud</button>
+      <button onclick="location.href='indexW19962000.html'" class="button-2">1996-2000</button>
+      <button onclick="location.href='indexW19962005.html'" class="button-2">1996-2005</button>
+      <button onclick="location.href='indexW19962010.html'" class="button-2">1996-2010</button>
+      <button onclick="location.href='indexW19962015.html'" class="button-2">1996-2015</button>
+      <button onclick="location.href='indexW19962022.html'" class="button-2">1996-2022</button>
+      <button onclick="location.href='indexW19962000.html'" class="button-3">1996-2000</button>
+      <button onclick="location.href='indexW20012005.html'" class="button-3">2001-2005</button>
+      <button onclick="location.href='indexW20062010.html'" class="button-3">2006-2010</button>
+      <button onclick="location.href='indexW20112015.html'" class="button-3">2011-2015</button>
+      <button onclick="location.href='indexW20162022.html'" class="button-3">2016-2022</button>
+  </div>
+  </head>
+  <body>
+    <!--<header><img width=185 src="nXd3.png"></header>-->
+
+    <main>
+      <div class="controls">
+        <div class="force">
+          <p><label>YEAR</label></p>
+          <label title="The force will push/pull nodes to make links this long">
+            <select onchange="if (this.value) window.location.href=this.value">
+              <option value="static" selected="selected">2010</option>
+              <option value='indexW19961996.html'>1996</option>
+              <option value='indexW19971997.html'>1997</option>
+              <option value='indexW19981998.html'>1998</option>
+              <option value='indexW19991999.html'>1999</option>
+              <option value='indexW20002000.html'>2000</option>
+              <option value='indexW20012001.html'>2001</option>
+              <option value='indexW20022002.html'>2002</option>
+              <option value='indexW20032003.html'>2003</option>
+              <option value='indexW20042004.html'>2004</option>
+              <option value='indexW20052005.html'>2005</option>
+              <option value='indexW20062006.html'>2006</option>
+              <option value='indexW20072007.html'>2007</option>
+              <option value='indexW20082008.html'>2008</option>
+              <option value='indexW20092009.html'>2009</option>
+              <option value='indexW20112011.html'>2011</option>
+              <option value='indexW20122012.html'>2012</option>
+              <option value='indexW20132013.html'>2013</option>
+              <option value='indexW20142014.html'>2014</option>
+              <option value='indexW20152015.html'>2015</option>
+              <option value='indexW20162016.html'>2016</option>
+              <option value='indexW20172017.html'>2017</option>
+              <option value='indexW20182018.html'>2018</option>
+              <option value='indexW20192019.html'>2019</option>
+              <option value='indexW20202020.html'>2020</option>
+              <option value='indexW20212021.html'>2021</option>
+              <option value='indexW20222022.html'>2022</option>
+            </select>
+          </label>
+          <label title="The force will push/pull nodes to make links this long">
+            <select onchange="if (this.value) window.location.href=this.value">
+              <option value="static" selected="selected">2019</option>
+              <option value='indexW20102010.html'>2010</option>
+              <option value='indexW20102011.html'>2011</option>
+              <option value='indexW20102012.html'>2012</option>
+              <option value='indexW20102013.html'>2013</option>
+              <option value='indexW20102014.html'>2014</option>
+              <option value='indexW20102015.html'>2015</option>
+              <option value='indexW20102016.html'>2016</option>
+              <option value='indexW20102017.html'>2017</option>
+              <option value='indexW20102018.html'>2018</option>
+              <option value='indexW20102020.html'>2020</option>
+              <option value='indexW20102021.html'>2021</option>
+              <option value='indexW20102022.html'>2022</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="force">
+          <p>
+            <label
+              ><input
+                type="checkbox"
+                checked
+                onchange="forceProperties.charge.enabled = this.checked; updateAll();"
+              />CHARGE</label
+            >.
+          </p>
+          <label
+            title="Negative strength repels nodes. Positive strength attracts nodes."
+          >
+            strength
+            <output id="charge_StrengthSliderOutput">-30</output>
+            <input
+              type="range"
+              min="-200"
+              max="50"
+              value="-30"
+              step=".1"
+              oninput="d3.select('#charge_StrengthSliderOutput').text(value); forceProperties.charge.strength=value; updateAll();"
+            />
+          </label>
+          <label title="Minimum distance where force is applied">
+            distanceMin
+            <output id="charge_distanceMinSliderOutput">1</output>
+            <input
+              type="range"
+              min="0"
+              max="50"
+              value="1"
+              step=".1"
+              oninput="d3.select('#charge_distanceMinSliderOutput').text(value); forceProperties.charge.distanceMin=value; updateAll();"
+            />
+          </label>
+          <label title="Maximum distance where force is applied">
+            distanceMax
+            <output id="charge_distanceMaxSliderOutput">2000</output>
+            <input
+              type="range"
+              min="0"
+              max="2000"
+              value="2000"
+              step=".1"
+              oninput="d3.select('#charge_distanceMaxSliderOutput').text(value); forceProperties.charge.distanceMax=value; updateAll();"
+            />
+          </label>
+        </div>
+
+        <div class="force">
+          <p>
+            <label
+              ><input
+                type="checkbox"
+                checked
+                onchange="forceProperties.collide.enabled = this.checked; updateAll();"
+              />NO OVERLAP</label
+            >
+          </p>
+          <label>
+            strength
+            <output id="collide_StrengthSliderOutput">.7</output>
+            <input
+              type="range"
+              min="0"
+              max="2"
+              value=".7"
+              step=".1"
+              oninput="d3.select('#collide_StrengthSliderOutput').text(value); forceProperties.collide.strength=value; updateAll();"
+            />
+          </label>
+          <label title="Size of nodes">
+            radius
+            <output id="collide_radiusSliderOutput">5</output>
+            <input
+              type="range"
+              min="0"
+              max="100"
+              value="5"
+              step="1"
+              oninput="d3.select('#collide_radiusSliderOutput').text(value); forceProperties.collide.radius=value; updateAll();"
+            />
+          </label>
+          <label
+            title="Higher values increase rigidity of the nodes (WARNING: high values are computationally expensive)"
+          >
+            iterations
+            <output id="collide_iterationsSliderOutput">1</output>
+            <input
+              type="range"
+              min="1"
+              max="10"
+              value="1"
+              step="1"
+              oninput="d3.select('#collide_iterationsSliderOutput').text(value); forceProperties.collide.iterations=value; updateAll();"
+            />
+          </label>
+        </div>
+
+        <div class="force">
+          <p><label>EDGE LENGTH</label></p>
+          <label title="The force will push/pull nodes to make links this long">
+            distance
+            <output id="link_DistanceSliderOutput">150</output>
+            <input
+              type="range"
+              min="0"
+              max="500"
+              value="150"
+              step="1"
+              oninput="d3.select('#link_DistanceSliderOutput').text(value); forceProperties.link.distance=value; updateAll();"
+            />
+          </label>
+          <label
+            title="Higher values increase rigidity of the links (WARNING: high values are computationally expensive)"
+          >
+            iterations
+            <output id="link_IterationsSliderOutput">1</output>
+            <input
+              type="range"
+              min="1"
+              max="10"
+              value="1"
+              step="1"
+              oninput="d3.select('#link_IterationsSliderOutput').text(value); forceProperties.link.iterations=value; updateAll();"
+            />
+          </label>
+        </div>
+
+        
+        <div class="force">
+          <p><label>NODE SIZE</label></p>
+          <label title="The force will push/pull nodes to make links this long">
+            <select id="centrality" onchange="setCentrality(this.value);">
+              <option value="static" selected="selected">Static</option>
+              <option value="degree">Degree centrality</option>
+              <option value="eigenvector">Eigenvector centrality</option>
+              <option value="betweenness">Betweenness centrality</option>
+            </select>
+          </label>
+        </div>
+        <div class="force">
+          <p><label>LINK WIDTH</label></p>
+          <label
+            style="margin-bottom: 10px"
+            title="The force will push/pull nodes to make links this long"
+          >
+            <select id="link-width" onchange="setLinkWidth(this.value);">
+              <option value="static" selected="selected">Static</option>
+              <option value="weight">Weight</option>
+            </select>
+          </label>
+          <label id="weight-divider-label" style="display: none">
+            Scale Weight
+            <output id="link_WeightDividerOutput">1</output>
+            <input
+              id="threshold"
+              type="range"
+              min="1"
+              max="20"
+              value="5"
+              step="1"
+              oninput="setWeightDivision(this.value);"
+            />
+          </label>
+        </div>
+        <div class="force">
+          <p><label>LABELS</label></p>
+          <label title="The force will push/pull nodes to make links this long">
+            <input
+              id="title-visibility"
+              type="checkbox"
+              name="show-titles"
+              onchange="toggleTitleVisiblity(this.value);"
+              checked
+            />
+            Show labels
+          </label>
+        </div>
+        <button id="open-in-tab">Download SVG</button>
+        <div class="force">
+          <i><b><font size="5" color="#AE0000">Notice.</font>You Can Use the Keyboard to Input <font size="3" color="#FF7300">P,O,I,U,Y,T,R,E,W,Q</font> 
+            from Left to Right to Filter and Display Nodes by Centrality Value</b></i>
+          </div>
+      </div>
+      <svg></svg>
+    </main>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="../Js/codeW20102019.js"></script>
+  </body>
+</html>

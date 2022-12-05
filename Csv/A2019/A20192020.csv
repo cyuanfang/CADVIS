@@ -1,0 +1,940 @@
+source,target
+caadria2019_004,Derek Pung
+caadria2019_004,Kian Wee Chen
+caadria2019_004,Patrick Janssen
+caadria2019_005,Patrick Janssen
+caadria2019_005,Pradeep Alva
+caadria2019_005,Rudi Stouffs
+caadria2019_007,Guohua Ji
+caadria2019_007,Likai Wang
+caadria2019_007,Patrick Janssen
+caadria2019_008,Guohua Ji
+caadria2019_008,Likai Wang
+caadria2019_008,Patrick Janssen
+caadria2019_027,Anirudh Nandavar
+caadria2019_027,Elie Youssef
+caadria2019_027,Frank Petzold
+caadria2019_027,Gerhard Schubert
+caadria2019_038,Helga Tauscher
+caadria2019_038,Rudi Stouffs
+caadria2019_040,Michio Matsubayashi
+caadria2019_045,Barrak Darweesh
+caadria2019_045,Hao Zheng
+caadria2019_045,Heewon Lee
+caadria2019_045,Li Yang
+caadria2019_054,Bauke de Vries
+caadria2019_054,Dennis Claessens
+caadria2019_054,Herm Hofmeyer
+caadria2019_054,Sjonnie Boonstra
+caadria2019_070,Matthias Hank Haeusler
+caadria2019_070,Michael White
+caadria2019_070,Yannis Zavoleas
+caadria2019_074,Lu Wang
+caadria2019_074,Nan Bai
+caadria2019_077,Jessie Rogers
+caadria2019_077,Marc Aurel Schnabel
+caadria2019_077,Tane Jacob Moleta
+caadria2019_080,Alessandra Fabbri
+caadria2019_080,Geoff King
+caadria2019_080,Matthias Hank Haeusler
+caadria2019_080,Nicole Gardner
+caadria2019_080,Stephen Green
+caadria2019_080,Yannis Zavoleas
+caadria2019_081,Alessandra Fabbri
+caadria2019_081,Aron Sheldon
+caadria2019_081,Cristina Ramos
+caadria2019_081,Matthias Hank Haeusler
+caadria2019_081,Nicole Gardner
+caadria2019_081,Tiara Dobbs
+caadria2019_081,Yannis Zavoleas
+caadria2019_091,Bianca Ilha Pereira
+caadria2019_093,Fatemeh Shahsavari
+caadria2019_093,Rasool Koosha
+caadria2019_093,Wei Yan
+caadria2019_099,Biao Li
+caadria2019_099,Jianan Xu
+caadria2019_100,Biao Li
+caadria2019_100,Jianan Xu
+caadria2019_103,Igor Lacroix
+caadria2019_103,Lilian Silva
+caadria2019_103,Neander Silva
+caadria2019_104,Alessandra Fabbri
+caadria2019_104,Matthias Hank Haeusler
+caadria2019_104,Michael Chernyavsky
+caadria2019_104,Nicole Gardner
+caadria2019_104,Ryan Johan
+caadria2019_104,Yannis Zavoleas
+caadria2019_106,Javier G. Fernandez
+caadria2019_106,Naresh Sanandiya
+caadria2019_106,Ryan Teo
+caadria2019_106,Samuel Halim
+caadria2019_106,Stylianos Dritsas
+caadria2019_106,Yadunund Vijay
+caadria2019_107,Dermott McMeel
+caadria2019_109,Jaeyeol Song
+caadria2019_109,Jin-Kook Lee
+caadria2019_109,Jinsung Kim
+caadria2019_117,Leyla Deniz Kiraz
+caadria2019_117,Tuba Kocaturk
+caadria2019_126,Alessandra Fabbri
+caadria2019_126,David Madden
+caadria2019_126,Jennifer Mei Yee Ng
+caadria2019_126,Matthias Hank Haeusler
+caadria2019_126,Nariddh Khean
+caadria2019_126,Nicole Gardner
+caadria2019_126,Yannis Zavoleas
+caadria2019_127,Hyunjae Nam
+caadria2019_131,Felix Raspall
+caadria2019_131,Sihan Wang
+caadria2019_131,Zack Xuereb Conti
+caadria2019_132,Nobuyoshi Yabuki
+caadria2019_132,Tomohiro Fukuda
+caadria2019_132,Yuehan Zhu
+caadria2019_134,Chuanfei Yu
+caadria2019_134,Jiaxin Zhang
+caadria2019_134,Yunqin Li
+caadria2019_136,Davide Lombardi
+caadria2019_136,Theodoros Dounas
+caadria2019_142,Duong Nguyen
+caadria2019_142,Marc Aurel Schnabel
+caadria2019_142,Tane Jacob Moleta
+caadria2019_143,Shohei Matsukawa
+caadria2019_143,Yuri Kato
+caadria2019_164,Daniela Silva
+caadria2019_165,Chuanwen Luo
+caadria2019_165,Lu Yin
+caadria2019_165,Mingyu Jin
+caadria2019_170,Teng-Wen Chang
+caadria2019_170,Yi-Sin Wu
+caadria2019_171,António Leitão
+caadria2019_171,Inês Caetano
+caadria2019_171,Maria Sammer
+caadria2019_172,António Leitão
+caadria2019_172,Catarina Belém
+caadria2019_173,Jia Ying Soh
+caadria2019_173,Jonathan Ming-En Ng
+caadria2019_173,Samuel Yu De Ho
+caadria2019_173,Stylianos Dritsas
+caadria2019_173,Truman Wei Cheng Ng
+caadria2019_176,Alice Sandstrom
+caadria2019_176,Hyoung-June Park
+caadria2019_180,Kristof Crolla
+caadria2019_180,Sining Wang
+caadria2019_183,Aaron Paterson
+caadria2019_183,Marian Macken
+caadria2019_183,Sarosh Mulla
+caadria2019_184,Wang Leung Thomas Chung
+caadria2019_184,Wenzhi Huangfu
+caadria2019_187,Tat Lin Lee
+caadria2019_187,Ying Yi Tan
+caadria2019_190,Kristof Crolla
+caadria2019_190,Zion Chan
+caadria2019_194,António Leitão
+caadria2019_194,Guilherme Santos
+caadria2019_194,Renata Castelo Branco
+caadria2019_195,Alexandra C. Paio
+caadria2019_195,Filipe JS Brandao
+caadria2019_196,Erik Champion
+caadria2019_196,Mafkereseb Kassahun Bekele
+caadria2019_197,Kaijie Qian
+caadria2019_198,Elizabeth Teo
+caadria2019_198,Pheeraphat Ratchakitprakarn
+caadria2019_198,Rebekah Low
+caadria2019_198,Stylianos Dritsas
+caadria2019_198,Yu Xie
+caadria2019_198,Yun Jie Pang
+caadria2019_199,Ralph Spencer Steenblik
+caadria2019_199,Will Wang
+caadria2019_202,Chunxia Yang
+caadria2019_202,Zhuoxing Gu
+caadria2019_202,Ziying Yao
+caadria2019_204,Gabriela Celani
+caadria2019_204,Ning Gu
+caadria2019_204,Victor Calixto
+caadria2019_211,Anastasia Globa
+caadria2019_211,Beau B. Beza
+caadria2019_211,Rui Wang
+caadria2019_221,Daragh Byrne
+caadria2019_221,Jeremy Ficca
+caadria2019_221,Luis Borunda
+caadria2019_221,Manuel Ladron de Guevara
+caadria2019_221,Ramesh Krishnamurti
+caadria2019_223,Cheng Sun
+caadria2019_223,Chunxing Wang
+caadria2019_223,Tianyu Zhao
+caadria2019_223,Yongjie Pan
+caadria2019_223,Yunsong Han
+caadria2019_225,Chin Koi Khoo
+caadria2019_225,H. Koon Wee
+caadria2019_227,Hongtao Ma
+caadria2019_227,Jiahui Chang
+caadria2019_227,Jie Liu
+caadria2019_227,Qingqing Xu
+caadria2019_227,Weiguo Xu
+caadria2019_234,Chris Bamborough
+caadria2019_240,Emmanuel Beaudry Marchand
+caadria2019_240,Sana Boudhraâ
+caadria2019_240,Stéphane Safin
+caadria2019_240,Tomás Dorta
+caadria2019_241,Sam Condrad Joyce
+caadria2019_241,Verina Cristie
+caadria2019_242,Marie Davidova
+caadria2019_245,Li Haiqing
+caadria2019_245,Li Yunqin
+caadria2019_245,Wang Xueqiang
+caadria2019_245,Zhang Jiaxin
+caadria2019_252,Hong-Cing Tung
+caadria2019_252,Pei-Hsien Hsu
+caadria2019_256,Surapong Lertsithichai
+caadria2019_259,Alpana Sivam
+caadria2019_259,Jorge Ochoa Paniagua
+caadria2019_259,Ning Gu
+caadria2019_259,Sahar Soltani
+caadria2019_259,Tim McGinley
+caadria2019_266,Aswin Indraprastha
+caadria2019_266,Bima Dwi Pranata Putra
+caadria2019_270,Mengjie Gu
+caadria2019_270,Ming Mao
+caadria2019_270,Qingfeng Ye
+caadria2019_270,Quan Liu
+caadria2019_270,Xintian Li
+caadria2019_273,Gakuhito Hirasawa
+caadria2019_273,Keita Kado
+caadria2019_275,Dan Luo
+caadria2019_275,Weiguo Xu
+caadria2019_275,Yuan Gao
+caadria2019_280,Harald Kloft
+caadria2019_280,Hendrik Lindemann
+caadria2019_280,Norman Hack
+caadria2019_283,Alexandros Tsamis
+caadria2019_283,Daniel Rosenberg
+caadria2019_285,James Holth
+caadria2019_285,Marc Aurel Schnabel
+caadria2019_285,Scott Meekings
+caadria2019_285,Tane Jacob Moleta
+caadria2019_286,Tiara Dobbs
+caadria2019_290,Chenlong Ma
+caadria2019_290,Ke Xiang
+caadria2019_290,Shuyan Zhu
+caadria2019_298,Akito Hotta
+caadria2019_298,Gen Karoji
+caadria2019_298,Kensuke Hotta
+caadria2019_298,Yasushi Ikeda
+caadria2019_305,Erik Champion
+caadria2019_305,Hafizur Rahaman
+caadria2019_307,Binh Vinh Duc Nguyen
+caadria2019_307,Chengzhi Peng
+caadria2019_307,Tsung-Hsien Wang
+caadria2019_318,António Leitão
+caadria2019_318,Catarina Belém
+caadria2019_318,Helena Martinho
+caadria2019_318,Maria da Glória Gomes
+caadria2019_318,Roel Loonen
+caadria2019_326,Chae-Seok Lee
+caadria2019_326,Ji-Hyun Lee
+caadria2019_326,Meereh Kim
+caadria2019_326,Minkyu Choi
+caadria2019_326,Po Yan Lai
+caadria2019_326,Taeha Yi
+caadria2019_326,Valentin Porcellini
+caadria2019_328,Kristina Boychenko
+caadria2019_329,Philip F. Yuan
+caadria2019_329,Weiran Zhu
+caadria2019_329,Yao Zhao
+caadria2019_330,M. K. Pokhrel
+caadria2019_330,T. N. Anderson
+caadria2019_330,T. T. Lie
+caadria2019_332,Ji-Hyun Lee
+caadria2019_332,Sukjoo Hong
+caadria2019_332,Urvashi Dwivedi
+caadria2019_332,Valentin Porcellini
+caadria2019_332,Zhuming Chang
+caadria2019_337,Dimitris Papanikolaou
+caadria2019_342,Cyrus Qureshi
+caadria2019_342,Marc Aurel Schnabel
+caadria2019_342,Tane Jacob Moleta
+caadria2019_344,Frank Petzold
+caadria2019_344,Gerhard Schubert
+caadria2019_344,Ivan Bratoev
+caadria2019_344,Vadym Strelchenko
+caadria2019_345,Jane Burry
+caadria2019_345,Max Marschall
+caadria2019_350,Bige Tuncer
+caadria2019_350,Johannes Müller
+caadria2019_350,Ludovica Tomarchio
+caadria2019_350,Peijun He
+caadria2019_350,Pieter Herthogs
+caadria2019_350,Stephanie Hasler
+caadria2019_354,Kensuke Hotta
+caadria2019_354,Mohammed Aqil Cheddadi
+caadria2019_354,Yasushi Ikeda
+caadria2019_360,Jing Liang
+caadria2019_360,Lin Luo
+caadria2019_362,Jaejong Lee
+caadria2019_362,Kensuke Hotta
+caadria2019_362,Yasushi Ikeda
+caadria2019_365,Ali Motamedi
+caadria2019_365,Worawan Natephra
+caadria2019_367,James Forren
+caadria2019_369,Urs Hirschberg
+caadria2019_378,Antony Pelosi
+caadria2019_378,Gerard Finch
+caadria2019_378,Guy Marriage
+caadria2019_378,Morten Gjerde
+caadria2019_379,Benay Gursoy
+caadria2019_379,Elena Vazquez
+caadria2019_379,José Pinto Duarte
+caadria2019_385,Andrzej Zarzycki
+caadria2019_388,Daniel Brown
+caadria2019_388,Hamish Beattie
+caadria2019_388,Sara Kindon
+caadria2019_396,Nobuyoshi Yabuki
+caadria2019_396,Rui Cao
+caadria2019_396,Tomohiro Fukuda
+caadria2019_398,Adam Hannouch
+caadria2019_399,Daniel Dias-da-Costa
+caadria2019_399,Maryam Houda
+caadria2019_403,Rizal Muslimin
+caadria2019_403,Xuhui Lin
+caadria2019_404,Choo Seungyeon
+caadria2019_404,Gu Hyeongmo
+caadria2019_404,Kim Inhan
+caadria2019_404,Lee Woojun
+caadria2019_404,Park Hyejin
+caadria2019_406,Adam Fitriawijaya
+caadria2019_406,jeng Taysheng
+caadria2019_406,Tsai Hsin-Hsuan
+caadria2019_407,Daniel Prohasky
+caadria2019_407,David Leggett
+caadria2019_407,Paul Loh
+caadria2019_411,Liang Yan
+caadria2019_411,Nobuyoshi Yabuki
+caadria2019_411,Tomohiro Fukuda
+caadria2019_413,Adam Barnstorff
+caadria2019_413,Chandler Ahrens
+caadria2019_413,Joshua Gelbard
+caadria2019_413,Roger Chamberlain
+caadria2019_413,Scott Mitchell
+caadria2019_416,Haruyuki Fujii
+caadria2019_416,U Keisen
+caadria2019_416,Yuki Kobayashi
+caadria2019_419,Ebrahim Poustinchi
+caadria2019_422,Peng Tang
+caadria2019_422,Xiao Wang
+caadria2019_422,Xing Shi
+caadria2019_426,Hyunsoo Lee
+caadria2019_426,Jisun Lee
+caadria2019_428,Brandon Wang
+caadria2019_428,Marc Aurel Schnabel
+caadria2019_428,Tane Jacob Moleta
+caadria2019_437,Chris Brisbin
+caadria2019_437,Matthew Rofe
+caadria2019_437,Ning Gu
+caadria2019_437,Pan Liao
+caadria2019_437,Sahar Soltani
+caadria2019_439,Henry Yu
+caadria2019_439,Tian Tian Lo
+caadria2019_439,Zuo-Peng Xiao
+caadria2019_442,Bing Zhao
+caadria2019_442,Philip F. Yuan
+caadria2019_442,Zeynab Kasseb
+caadria2019_447,Chi-Li Cheng
+caadria2019_447,June-Hao Hou
+caadria2019_449,Chenyu Huang
+caadria2019_449,Jiawei Yao
+caadria2019_449,Philip F. Yuan
+caadria2019_449,Yuqiong Lin
+caadria2019_452,Ji-Hyun Lee
+caadria2019_452,Meereh Kim
+caadria2019_452,Minkyu Choi
+caadria2019_452,Taeha Yi
+caadria2019_453,Ethan Kerber
+caadria2019_453,Rushi Dai
+caadria2019_453,Sigrid Brell-Cokcan
+caadria2019_459,Andre Brown
+caadria2019_459,Hossein Behmanesh
+caadria2019_462,Immanuel Koh
+caadria2019_462,Jeffrey Huang
+caadria2019_462,Pedro Amorim
+caadria2019_464,Alessandra Fabbri
+caadria2019_464,Ben Doherty
+caadria2019_464,Matthias Hank Haeusler
+caadria2019_464,Nicole Gardner
+caadria2019_464,Sophie Scott
+caadria2019_473,Andrew Butler
+caadria2019_473,Emily Leung
+caadria2019_473,Matthias Hank Haeusler
+caadria2019_473,Nicole Gardner
+caadria2019_473,Rob Asher
+caadria2019_478,Adam Fingrut
+caadria2019_478,Darwin Lau
+caadria2019_478,Kristof Crolla
+caadria2019_490,Christiane M. Herr
+caadria2019_490,Thomas Fischer
+caadria2019_491,Biao Li
+caadria2019_491,Chenyi Cai
+caadria2019_491,Peng Tang
+caadria2019_493,Christiane M. Herr
+caadria2019_493,Michael Grau
+caadria2019_493,Thomas Fischer
+caadria2019_530,Erica Cochran Hameen
+caadria2019_530,Jie Shi
+caadria2019_530,Shihan Wang
+caadria2019_530,Siliang Lu
+caadria2019_530,Yue Zou
+caadria2019_535,Jaeyeol Song
+caadria2019_535,Jin-Kook Lee
+caadria2019_535,Jinsung Kim
+caadria2019_546,Dominik Holzer
+caadria2019_551,Bhargava Ram Kummamuru
+caadria2019_551,Ingrid Paoletti
+caadria2019_551,Maia Zheliazkova
+caadria2019_553,Leetee Wang
+caadria2019_553,Marianne Sanche
+caadria2019_553,Matias del Campo
+caadria2019_553,Sandra Manninger
+caadria2019_600,Alexander Binder
+caadria2019_600,Bige Tuncer
+caadria2019_600,Ramanathan Subramanian
+caadria2019_602,António Leitão
+caadria2019_602,José Freitas
+caadria2019_610,Iman Sayah
+caadria2019_610,Marc Aurel Schnabel
+caadria2019_611,Gloria Ha
+caadria2019_611,Rizal Muslimin
+caadria2019_611,Sarah Yap
+caadria2019_624,Dhileep Kumar Jayashankar
+caadria2019_624,Javier G. Fernandez
+caadria2019_624,Kenneth Tracy
+caadria2019_624,Naresh Sanandiya
+caadria2019_624,Sachin Sean Gupta
+caadria2019_625,Kateryna Konieva
+caadria2019_625,Katja Knecht
+caadria2019_625,Reinhard Koenig
+caadria2019_626,Abel Maciel
+caadria2019_626,Alvaro Lopez Rodriguez
+caadria2019_626,Eri Sumitiomo
+caadria2019_626,Soomeen Hahm
+caadria2019_632,Carlos Banon
+caadria2019_632,Felix Raspall
+caadria2019_632,Jenn Chong Tay
+caadria2019_636,Dave Pigram
+caadria2019_636,Jon Engholt
+caadria2019_637,Dongchen Han
+caadria2019_637,Hong Zhang
+caadria2019_637,Jie Huang
+caadria2019_637,Weiwen Cui
+caadria2019_638,Bige Tuncer
+caadria2019_638,Elias Jakobus Willemse
+caadria2019_638,Roland Bouffanais
+caadria2019_639,Benjamin Dillenburger
+caadria2019_639,Demetris Shammas
+caadria2019_639,Maria Pachi
+caadria2019_639,Marirena Kladeftira
+caadria2019_639,Mathias Bernhard
+caadria2019_640,Hanshuang Tong
+caadria2019_640,Runzhou Zhang
+caadria2019_640,Ruocheng Zhang
+caadria2019_640,Weixin Huang
+caadria2019_643,Alina Hramyka
+caadria2019_643,Brittney Dillon
+caadria2019_643,Mohammed Makki
+caadria2019_643,Neil Grewal
+caadria2019_646,Jeroen van Ameijde
+caadria2019_647,Alessandra Fabbri
+caadria2019_647,Daniel Camacho
+caadria2019_647,Matthias Hank Haeusler
+caadria2019_647,Nicole Gardner
+caadria2019_647,Tiara Dobbs
+caadria2019_647,Yannis Zavoleas
+caadria2019_648,Kyle Schumann
+caadria2019_648,Ryan Luke Johns
+caadria2019_650,Tania Papasotiriou
+caadria2019_651,Brenda Vale
+caadria2019_651,Iman Sayah
+caadria2019_651,Marzieh Imani
+caadria2019_651,Michael Donn
+caadria2019_657,Liming Zhang
+caadria2019_657,Philip F. Yuan
+caadria2019_657,Zhewen Chen
+caadria2019_658,Christian Lange
+caadria2019_658,Donn Holohan
+caadria2019_659,Jinxi Jin
+caadria2019_659,Philip F. Yuan
+caadria2019_659,Xiang Wang
+caadria2019_659,Xiao Zhang
+caadria2019_659,Zhe Guo
+caadria2019_660,Benjamin Dillenburger
+caadria2019_660,Mania Aghaei Meibodi
+caadria2019_660,Rena Giesecke
+caadria2019_663,Nadja Gaudilliere
+caadria2019_664,Liming Zhang
+caadria2019_664,Philip F. Yuan
+caadria2019_664,Xiang Wang
+caadria2019_664,Yifan Zhou
+caadria2019_664,Zhewen Chen
+caadria2019_665,Hua Chai
+caadria2019_665,Jinxi Jin
+caadria2019_665,Li Han
+caadria2019_665,Philip F. Yuan
+caadria2019_665,Xiao Zhang
+caadria2019_666,Bingyu Cheng
+caadria2019_666,Lijing Yang
+caadria2019_666,Nachuan Deng
+caadria2019_666,Weixin Huang
+caadria2019_666,Zhi Zhou
+caadria2019_670,Jinxi Jin
+caadria2019_670,Junbang Su
+caadria2019_670,Philip F. Yuan
+caadria2019_670,Weizhe Gao
+caadria2019_670,Xiang Wang
+caadria2019_670,Xiao Zhang
+caadria2019_670,Ye Xia
+caadria2019_670,Youyuan Luo
+caadria2019_671,Biayna Bogosian
+caadria2019_671,Dane Clemenson
+caadria2019_671,Kristine Mun
+caadria2020_008,Guohua Ji
+caadria2020_008,Kian Wee Chen
+caadria2020_008,Likai Wang
+caadria2020_008,Patrick Janssen
+caadria2020_009,Guohua Ji
+caadria2020_009,Kian Wee Chen
+caadria2020_009,Likai Wang
+caadria2020_009,Patrick Janssen
+caadria2020_011,Chen-Cheng Chen
+caadria2020_011,Chenyun Yan
+caadria2020_011,Kai Xiao
+caadria2020_011,Xiang Wang
+caadria2020_011,Zhe Guo
+caadria2020_012,Anna-Maria Chatzi
+caadria2020_012,Lisa-Marie Wesseler
+caadria2020_015,Hao Zheng
+caadria2020_015,Jingxuan Wei
+caadria2020_015,Keyao An
+caadria2020_015,Yue Ren
+caadria2020_016,Leo Lin Meng
+caadria2020_016,Matthias Hank Haeusler
+caadria2020_016,Nicole Gardner
+caadria2020_021,Charlotte Firth
+caadria2020_021,Kate Dunn
+caadria2020_021,Madison King
+caadria2020_021,Matthias Hank Haeusler
+caadria2020_022,Bastian Wibranek
+caadria2020_022,Leon Wietschorke
+caadria2020_022,Oliver Tessmann
+caadria2020_022,Timm Glaetzer
+caadria2020_023,Chenjun Liu
+caadria2020_024,Hao Zheng
+caadria2020_024,Yue Ren
+caadria2020_025,Hyoung-June Park
+caadria2020_028,Nobuyoshi Yabuki
+caadria2020_028,Tomohiro Fukuda
+caadria2020_028,Yixi Xia
+caadria2020_031,Hyunsoo Lee
+caadria2020_031,Nayeon Kim
+caadria2020_032,Chunxia Yang
+caadria2020_032,Zhuoxing Gu
+caadria2020_035,António Leitão
+caadria2020_035,Catarina Belém
+caadria2020_035,Inês Pereira
+caadria2020_037,Jungwon Yoon
+caadria2020_037,Seok-won Choi
+caadria2020_043,Ana Pereira Roders
+caadria2020_043,Anping Xie
+caadria2020_043,Nan Bai
+caadria2020_043,Pirouz Nourian
+caadria2020_045,Hao Zheng
+caadria2020_045,Yue Ren
+caadria2020_046,Han Jie Lee
+caadria2020_046,Jielin Chen
+caadria2020_046,Palak Mehta
+caadria2020_046,Patrick Janssen
+caadria2020_046,Pradeep Alva
+caadria2020_046,Zhuoli Lin
+caadria2020_047,Han Jie Lee
+caadria2020_047,Ji Zhang
+caadria2020_047,Patrick Janssen
+caadria2020_047,Zhuoli Lin
+caadria2020_048,Derek Pung
+caadria2020_048,Do Phuong Tung Bui
+caadria2020_048,Patrick Janssen
+caadria2020_051,Marc Aurel Schnabel
+caadria2020_051,Mitra Homolja
+caadria2020_051,Sayyed Amir Hossain Maghool
+caadria2020_052,Joann Wang
+caadria2020_054,Chuan Liu
+caadria2020_054,Hao Zheng
+caadria2020_054,Jiaqi Shen
+caadria2020_054,Yue Ren
+caadria2020_056,Marc Aurel Schnabel
+caadria2020_056,Shuva Chowdhury
+caadria2020_060,Joanna Maria Lesna
+caadria2020_060,Paul Nicholas
+caadria2020_062,Ming Lu
+caadria2020_062,Philip F. Yuan
+caadria2020_063,Chunxiao Wang
+caadria2020_063,Shuai Lu
+caadria2020_064,Hua Chai
+caadria2020_064,Philip F. Yuan
+caadria2020_064,Yige Liu
+caadria2020_066,Nadja Gaudilliere
+caadria2020_068,Krishnendra Shekhawat
+caadria2020_068,Pinki pinki
+caadria2020_069,Marie Davidova
+caadria2020_069,Yannis Zavoleas
+caadria2020_071,Stan Carroll
+caadria2020_072,Aysha Fida
+caadria2020_072,Urvi Sheth
+caadria2020_074,Dafna Fisher-Gewirtzman
+caadria2020_074,Yaala Trossman Haifler
+caadria2020_078,Antony Pelosi
+caadria2020_078,Gabriella Joyce
+caadria2020_081,Andre Brown
+caadria2020_081,Marc Aurel Schnabel
+caadria2020_081,Sam Mclennan
+caadria2020_081,Tane Jacob Moleta
+caadria2020_082,Antony Pelosi
+caadria2020_082,Celine Cheng
+caadria2020_086,Hugo Mulder
+caadria2020_088,Gakuhito Hirasawa
+caadria2020_088,Genki Furusho
+caadria2020_088,Keita Kado
+caadria2020_088,Yusuke Nakamura
+caadria2020_089,Dimitrie Stefanescu
+caadria2020_089,Eleni Papadonikolaki
+caadria2020_089,Paul Poinet
+caadria2020_090,Garvin Goepel
+caadria2020_090,Kristof Crolla
+caadria2020_091,Hao Zheng
+caadria2020_091,Yue Ren
+caadria2020_093,Bob Martens
+caadria2020_093,Tomo Cerovsek
+caadria2020_094,Chunxia Yang
+caadria2020_094,Zhuoxing Gu
+caadria2020_098,Dermott McMeel
+caadria2020_098,Marie Davidova
+caadria2020_099,Chun Man Tu
+caadria2020_099,June-Hao Hou
+caadria2020_100,Cheli Hershcovich
+caadria2020_100,Michael Laufer
+caadria2020_100,Rene van Hout
+caadria2020_100,Vladislav Rinsky
+caadria2020_100,Yasha Jacob Grobman
+caadria2020_106,Chuanfei Yu
+caadria2020_106,Jieren Tian
+caadria2020_107,Jeremy Graham
+caadria2020_107,Leo Lin Meng
+caadria2020_107,Matthias Hank Haeusler
+caadria2020_113,Jun Sik Kim
+caadria2020_113,Kevin Sweet
+caadria2020_115,Jia Ding Zhong
+caadria2020_115,Jin Yeu Tsou
+caadria2020_115,Ming Chun Chao Sara
+caadria2020_118,Jeroen van Ameijde
+caadria2020_118,Ka Lok Chow
+caadria2020_119,Yuan Sung Hsiao
+caadria2020_126,Chi-Fu Hsiao
+caadria2020_126,Ching-Han Lee
+caadria2020_126,Chun-Yen Chen
+caadria2020_126,Teng-Wen Chang
+caadria2020_128,Zi-Ru Chen
+caadria2020_129,Virginia Melnyk
+caadria2020_132,Jerzy Wojtowicz
+caadria2020_132,Karolina Dąbrowska-Żółtak
+caadria2020_132,Stefan Wrona
+caadria2020_137,Andre Brown
+caadria2020_137,Marc Aurel Schnabel
+caadria2020_137,Maria Rogers
+caadria2020_137,Qiaoliang Xu
+caadria2020_137,Tane Jacob Moleta
+caadria2020_141,Danilo Pico De Sá
+caadria2020_141,Davi Lopes Mezencio
+caadria2020_141,Eloisa Dezen-Kempter
+caadria2020_141,Erica De Matos Miranda
+caadria2020_141,Ulisses Dias
+caadria2020_146,Surapong Lertsithichai
+caadria2020_149,Anders Kruse Aagaard
+caadria2020_149,Lynn Hyun Kieffer
+caadria2020_149,Niels Martin Larsen
+caadria2020_154,Benjamin Hagedorn
+caadria2020_154,Jürgen Döllner
+caadria2020_154,Matthias Trapp
+caadria2020_154,Vladeta Stojanovic
+caadria2020_156,Guohua Ji
+caadria2020_156,Hainan Yan
+caadria2020_160,Caitlin Bruce
+caadria2020_160,Jeongbin Ok
+caadria2020_160,Kevin Sweet
+caadria2020_161,Daiki Kido
+caadria2020_161,Nobuyoshi Yabuki
+caadria2020_161,Tomohiro Fukuda
+caadria2020_163,Immanuel Koh
+caadria2020_164,Che-Wei Lin
+caadria2020_164,Shih-Yuan Wang
+caadria2020_164,Wei-Tse Hung
+caadria2020_164,Yi-Heng Lu
+caadria2020_164,Yu-Hsuan Pang
+caadria2020_164,Yu-Ting Sheng
+caadria2020_165,Gabriel Wurzer
+caadria2020_165,Wolfgang E. Lorenz
+caadria2020_167,Andrew Li
+caadria2020_167,Rudi Stouffs
+caadria2020_168,Adam Fingrut
+caadria2020_172,Xinyu Xia
+caadria2020_172,Ziyu Tong
+caadria2020_173,JueLun Zhou
+caadria2020_173,Ziyu Tong
+caadria2020_177,Thomas Fischer
+caadria2020_177,Thomas Wortmann
+caadria2020_178,Chenxi Wang
+caadria2020_178,Letong Gao
+caadria2020_178,Manchen Liang
+caadria2020_178,Weixin Huang
+caadria2020_178,Xia Su
+caadria2020_178,Yuchun Zhang
+caadria2020_178,Yue Luo
+caadria2020_180,Avishek Das
+caadria2020_180,Mads Brath Jensen
+caadria2020_184,Akito Hotta
+caadria2020_184,Kensuke Hotta
+caadria2020_184,Noboru Kawagishi
+caadria2020_184,Takaaki Fuji
+caadria2020_188,Eri Sumitomo
+caadria2020_188,Fumiya Matsunaga
+caadria2020_188,Hikaru Ikeda
+caadria2020_188,Issei Takeuchi
+caadria2020_188,Takaharu Suzuki
+caadria2020_188,Yasushi Ikeda
+caadria2020_189,Hannah Rushton
+caadria2020_189,Marc Aurel Schnabel
+caadria2020_190,Jose Rafael Holguin
+caadria2020_190,Justyna Karakiewicz
+caadria2020_190,Thomas Kvan
+caadria2020_193,Chi Liu
+caadria2020_193,Felix Raspall
+caadria2020_193,Guo Li Zhang
+caadria2020_193,Qi Huan Luo
+caadria2020_193,Sihan Wang
+caadria2020_193,Weishun Xu
+caadria2020_195,Hong Wu Du
+caadria2020_195,Yan Li
+caadria2020_195,Zhen Zhang
+caadria2020_200,Carlos Banon
+caadria2020_200,Felix Raspall
+caadria2020_200,Hui Ping Toh
+caadria2020_200,Sihan Wang
+caadria2020_203,Kensuke Hotta
+caadria2020_203,Sen Chen
+caadria2020_203,Yahan Xiao
+caadria2020_203,Yasushi Ikeda
+caadria2020_209,Chitraj Bissoonauth
+caadria2020_209,Christiane M. Herr
+caadria2020_209,Thomas Fischer
+caadria2020_222,Chengyu Sun
+caadria2020_222,Wei Hu
+caadria2020_223,Hongyuan Mei
+caadria2020_223,Qi Guo
+caadria2020_224,António Leitão
+caadria2020_224,Renata Castelo Branco
+caadria2020_230,Aaron Sprecher
+caadria2020_230,Karen Lee Bar-Sinai
+caadria2020_230,Tom Shaked
+caadria2020_231,Robert Doe
+caadria2020_232,Tian Tian Lo
+caadria2020_232,Xinrui Gao
+caadria2020_233,Aaron Sprecher
+caadria2020_233,Karen Lee Bar-Sinai
+caadria2020_233,Tom Shaked
+caadria2020_234,Ezio Blasetti
+caadria2020_234,Hang Zhang
+caadria2020_237,Michael Kleiss
+caadria2020_237,Sida Dai
+caadria2020_240,Djordje Stojanovic
+caadria2020_240,Milica Vujovic
+caadria2020_241,Alissa N. Antle
+caadria2020_241,Halil Erhan
+caadria2020_241,Naghmi Shireen
+caadria2020_241,Robert Woodbury
+caadria2020_242,Cristina Voto
+caadria2020_242,Rocío Agra
+caadria2020_242,Rodrigo Martin Iglesias
+caadria2020_249,Ebrahim Poustinchi
+caadria2020_249,Joshua Fehrenbach
+caadria2020_249,Tyler Holmes
+caadria2020_253,Christiane M. Herr
+caadria2020_254,Tian Tian Lo
+caadria2020_254,Wanyu Pei
+caadria2020_254,Xiangmin Guo
+caadria2020_257,Christopher Hernandez
+caadria2020_257,Colby Johnson
+caadria2020_257,Eda Begum Birol
+caadria2020_257,Jenny Sabin
+caadria2020_257,Yao Lu
+caadria2020_258,Aswin Indraprastha
+caadria2020_258,Beatricia Beatricia
+caadria2020_258,M. Donny Koerniawan
+caadria2020_259,Jinmo Rhee
+caadria2020_259,Pedro Veloso
+caadria2020_259,Ramesh Krishnamurti
+caadria2020_260,Hongwu DU
+caadria2020_260,Qing WANG
+caadria2020_260,Yan LI
+caadria2020_261,Geoff Kimm
+caadria2020_261,Mark Burry
+caadria2020_267,Andrea Macruz
+caadria2020_267,Marcus Farr
+caadria2020_270,Madison Randall
+caadria2020_270,Mohammed Makki
+caadria2020_270,Tina Kordrostami
+caadria2020_272,Ahmed M. Abuzuraiq
+caadria2020_272,Halil Erhan
+caadria2020_272,John Dill
+caadria2020_272,Maryam Zarei
+caadria2020_272,Osama Alsalman
+caadria2020_272,Robert Woodbury
+caadria2020_273,Ma Chenlong
+caadria2020_273,Zhu Shuyan
+caadria2020_274,Hoyoung Maeng
+caadria2020_274,Kyung Hoon Hyun
+caadria2020_276,I-Ting Chuang
+caadria2020_281,Ahmed Hassab
+caadria2020_281,Sherif Abdelmohsen
+caadria2020_301,Bin Li
+caadria2020_301,Marc Aurel Schnabel
+caadria2020_301,Tane Jacob Moleta
+caadria2020_301,Weihong Guo
+caadria2020_304,Thomas Fischer
+caadria2020_304,Thomas Wortmann
+caadria2020_306,Benjamin Dillenburger
+caadria2020_306,Marirena Kladeftira
+caadria2020_306,Mathias Bernhard
+caadria2020_306,Reza Kakooee
+caadria2020_306,Yuta Akizuki
+caadria2020_313,Rohit Priyadarshi Sanatani
+caadria2020_315,Daekwon Park
+caadria2020_315,Guohua Ji
+caadria2020_315,Heng Lu
+caadria2020_315,Mengzeshan Du
+caadria2020_315,Shiyu Feng
+caadria2020_315,Weiyi Wang
+caadria2020_316,Klara Czynska
+caadria2020_320,Chengzhi Peng
+caadria2020_320,Jiahui Cheng
+caadria2020_320,Zhuoqun Zhang
+caadria2020_332,Benjamin Dillenburger
+caadria2020_332,Hyunchul Kwon
+caadria2020_332,Matthias Leschok
+caadria2020_332,Nik Eftekhar
+caadria2020_332,Yoana Taseva
+caadria2020_334,Waldemar Marzęcki
+caadria2020_337,Pawel Rubinowicz
+caadria2020_342,Hyunsoo Lee
+caadria2020_342,Yoojin Han
+caadria2020_346,Frederick Peter Ortner
+caadria2020_346,Jeffrey Huang
+caadria2020_347,Amanda Ng Qi Boon
+caadria2020_347,Clement Lork
+caadria2020_347,Lynette Cheah
+caadria2020_347,Markus Hudert
+caadria2020_347,Michael Budig
+caadria2020_347,Oliver Heckmann
+caadria2020_351,Daekwon Park
+caadria2020_351,Heng Lu
+caadria2020_351,HuaDong Yan
+caadria2020_351,Ziyu Tong
+caadria2020_354,Bige Tuncer
+caadria2020_354,Ludovica Tomarchio
+caadria2020_354,Peijun He
+caadria2020_354,Pieter Herthogs
+caadria2020_359,Antonia Valencia
+caadria2020_359,Philip F. Yuan
+caadria2020_359,Tomas Vivanco Larrain
+caadria2020_361,Alexander Geht
+caadria2020_361,Ezri Tarazi
+caadria2020_361,Michael Weizmann
+caadria2020_361,Yasha Jacob Grobman
+caadria2020_363,Abhipsa Pal
+caadria2020_363,Kenneth Joseph Tracy
+caadria2020_363,Pei Zhi Chia
+caadria2020_363,Wi Leen Chan
+caadria2020_363,Ying Yi Tan
+caadria2020_366,Elena Vazquez
+caadria2020_366,Julio Diarte
+caadria2020_367,Xiong Chen
+caadria2020_367,Yiqiang Xiao
+caadria2020_367,Zhichao Ma
+caadria2020_369,Michael Budig
+caadria2020_369,Oliver Heckmann
+caadria2020_369,Ray Chern Xi Cheng
+caadria2020_369,Sky Lo Tian Tian
+caadria2020_369,Zack Xuereb Conti
+caadria2020_371,Hwiwon Chun
+caadria2020_371,Kihoon Son
+caadria2020_371,Kyung Hoon Hyun
+caadria2020_375,Ammar Kalo
+caadria2020_375,Kenneth Tracy
+caadria2020_375,Mark Tam
+caadria2020_377,Ji Rong Lu
+caadria2020_377,Teng-Wen Chang
+caadria2020_377,Yi-Sin Wu
+caadria2020_384,Trevor Ryan Patt
+caadria2020_387,Chieh-I Lin
+caadria2020_387,Kuan-Ling Lin
+caadria2020_387,Sheng-Fen Chien
+caadria2020_391,António Leitão
+caadria2020_391,Inês Caetano
+caadria2020_391,Inês Pereira
+caadria2020_391,Sara Garcia
+caadria2020_395,Dhileep Kumar Jayashankar
+caadria2020_395,Kenneth Tracy
+caadria2020_395,Sachin Sean Gupta
+caadria2020_395,Stella Yi Ning Loo
+caadria2020_396,António Leitão
+caadria2020_396,Goncalo Araujo
+caadria2020_396,Helena Martinho
+caadria2020_398,June-Hao Hou
+caadria2020_398,Li-Min Tseng
+caadria2020_402,Mohammed Ezzat
+caadria2020_403,Mona Ghandi
+caadria2020_409,Giulio Paparella
+caadria2020_409,Roberto Naboni
+caadria2020_412,Ozguc Bertug Capunaman
+caadria2020_421,Brady Peters
+caadria2020_421,Krystal Kramer
+caadria2020_421,Nicholas Hoban
+caadria2020_423,Ahmed M. Abuzuraiq
+caadria2020_423,Alyssa Haas
+caadria2020_423,Halil Erhan
+caadria2020_423,Maryam Zarei
+caadria2020_423,Osama Alsalman
+caadria2020_423,Robert Woodbury
+caadria2020_426,Garvin Goepel
+caadria2020_426,Kristof Crolla
+caadria2020_427,Dominik Holzer
+caadria2020_427,Paul Loh
+caadria2020_431,Bimal Balakrishnan
+caadria2020_431,Jayedi Aman
+caadria2020_431,Jong Bum Kim
+caadria2020_434,Christian Lange
+caadria2020_434,Dominic Lim Co
+caadria2020_434,Lidia Ratoi
+caadria2020_435,Christine Yogiaman
+caadria2020_435,Kenneth Tracy
+caadria2020_435,Michael Yeow
+caadria2020_436,Jenny Sabin
+caadria2020_436,Teng Teng
+caadria2020_443,Ahmed M. Abuzuraiq
+caadria2020_443,Halil Erhan
+caadria2020_444,Baptiste Higgs
+caadria2020_444,Ben Doherty
+caadria2020_446,Dahngyu Cho
+caadria2020_446,Eunseo Shin
+caadria2020_446,Jin-Kook Lee
+caadria2020_446,Jinsung Kim
+caadria2020_446,Jungsik Choi
+caadria2020_456,Elodie Hochsheid
+caadria2020_456,Gilles Halin
+caadria2020_456,Henri-Jean Gless
+caadria2020_456,Siala Aida
+caadria2020_456,Veronika Bolshakova

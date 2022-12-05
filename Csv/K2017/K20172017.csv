@@ -1,0 +1,387 @@
+source,target
+caadria2017_001,Building Information Modeling
+caadria2017_001,Daylight Illuminance
+caadria2017_001,Facade Panels
+caadria2017_001,Parametric Modeling
+caadria2017_001,Parametric Sustainability
+caadria2017_002,3D Printing
+caadria2017_002,Carbon Fiber
+caadria2017_002,Digital Fabrication
+caadria2017_002,Node Optimization
+caadria2017_002,Structural Performance
+caadria2017_003,Digital Fabrication
+caadria2017_003,Digital Workflow
+caadria2017_003,Electronics Prototyping
+caadria2017_003,Tools Making
+caadria2017_004,Decision Support
+caadria2017_004,Digital Intervention
+caadria2017_004,Gamification
+caadria2017_004,Mass Housing
+caadria2017_004,User Oriented
+caadria2017_005,Architectural Robotic
+caadria2017_005,Digital Fabrication
+caadria2017_005,Form-Finding
+caadria2017_008,Computational Design
+caadria2017_008,Digital Fabrication
+caadria2017_008,G-code
+caadria2017_008,JAVA
+caadria2017_008,Kuka
+caadria2017_009,Digital Fabrication
+caadria2017_009,Fabric Casting
+caadria2017_009,Robotic Production
+caadria2017_015,Building Information Modeling
+caadria2017_015,Navigation
+caadria2017_015,Spatial Cognition
+caadria2017_015,Wayshowing
+caadria2017_015,Whiteout
+caadria2017_016,Social Property
+caadria2017_016,Space Syntax
+caadria2017_016,Spatial Cognition
+caadria2017_016,Visibility Analysis
+caadria2017_017,Building Information Modeling
+caadria2017_017,Building Safety Diagnosis
+caadria2017_017,Design for Safety
+caadria2017_017,Laser scanning
+caadria2017_017,Reverse Engineering
+caadria2017_018,Stereotomy
+caadria2017_018,Waterjet
+caadria2017_018,Wave Blocks
+caadria2017_018,Wire Cutting
+caadria2017_018,Workflow
+caadria2017_021,3D Simulation
+caadria2017_021,Numerical Measurement
+caadria2017_021,Privacy
+caadria2017_021,Traditional Korean Palace
+caadria2017_023,Creative Design
+caadria2017_023,Design Methods
+caadria2017_023,Ekphrastic Expression
+caadria2017_027,Computational Urbanism
+caadria2017_027,Data Driven Design
+caadria2017_027,New Workflow Model
+caadria2017_027,Software Development
+caadria2017_027,Urban Planning
+caadria2017_028,Physics Simulation
+caadria2017_028,Quadrangulation
+caadria2017_028,UV Unwrapping
+caadria2017_028,Virtual Reality
+caadria2017_029,Architectural Heritage
+caadria2017_029,Building Information Modeling
+caadria2017_029,Digital Survey
+caadria2017_029,Tibet
+caadria2017_029,Unmanned Aerial Vehicle
+caadria2017_030,Audio-Visual Integration
+caadria2017_030,Subjective Preference of Seats
+caadria2017_030,Virtual Building Environment
+caadria2017_031,3D Printing
+caadria2017_031,Additive Manufacturing
+caadria2017_031,Construction
+caadria2017_031,Design Optimization
+caadria2017_031,Digital Fabrication
+caadria2017_031,File-to Factory
+caadria2017_033,3D Modeling
+caadria2017_033,Building Information Modeling
+caadria2017_033,Construction Site Monitoring
+caadria2017_033,Oblique Photogrammetry
+caadria2017_033,Unmanned Aerial Vehicle
+caadria2017_035,Building Information Modeling
+caadria2017_035,Parametric Design
+caadria2017_035,Physical Computing
+caadria2017_035,Tangible Interaction
+caadria2017_037,Architecture
+caadria2017_037,Discrete Components
+caadria2017_037,Double-Curvature
+caadria2017_037,Facade
+caadria2017_037,Panelisation
+caadria2017_040,Data Interpretation
+caadria2017_040,Digital Decay
+caadria2017_040,Digital Design Method
+caadria2017_040,Glitch
+caadria2017_040,Glitch Space
+caadria2017_041,3D Printing
+caadria2017_041,Additive Manufacturing
+caadria2017_041,Digital Fabrication
+caadria2017_041,Robotic
+caadria2017_041,Wood Composites
+caadria2017_042,Parametric Modeling
+caadria2017_042,Scripting
+caadria2017_042,Urban Analysis
+caadria2017_042,Urban Modeling
+caadria2017_043,Aesthetic Judgment
+caadria2017_043,Choice Modeling
+caadria2017_043,Design Evaluation
+caadria2017_043,Generative Design
+caadria2017_043,Revealed Preference
+caadria2017_046,Combinatorics
+caadria2017_046,Configurators
+caadria2017_046,Housing
+caadria2017_046,Mass Customization
+caadria2017_046,Web Technologies
+caadria2017_047,Chinese Architecture
+caadria2017_047,Digital Paradigm
+caadria2017_047,Digital Workflow
+caadria2017_047,Project Delivery
+caadria2017_047,Shop
+caadria2017_048,Biomimicry
+caadria2017_048,Design Approach
+caadria2017_048,Generative Design
+caadria2017_048,Sponge Spicules
+caadria2017_051,Decision Tree
+caadria2017_051,Energy Performance
+caadria2017_051,Familiar and Unfamiliar
+caadria2017_051,S3VM
+caadria2017_052,Architectural Education
+caadria2017_052,Online Experiment
+caadria2017_052,Performance Evaluation
+caadria2017_052,Virtual Reality
+caadria2017_054,Algorithmic Based Analysis
+caadria2017_054,Analysis
+caadria2017_054,Building Performance
+caadria2017_054,Generative Design
+caadria2017_054,Performance Based Design
+caadria2017_055,Collaborative Design
+caadria2017_055,Computer Aided Design
+caadria2017_055,Building Information Modeling Portability
+caadria2017_055,Generative Design
+caadria2017_055,Parametric Facade Design
+caadria2017_056,Aesthetic Judgment
+caadria2017_056,Angular and Rectilinear
+caadria2017_056,Architecture
+caadria2017_056,Curve
+caadria2017_056,Experimental Study
+caadria2017_056,Geometric Contour
+caadria2017_056,Rounded
+caadria2017_056,Space Environment
+caadria2017_057,Adaptive City
+caadria2017_057,Computational Interchange
+caadria2017_057,Emergent Urban Strategies
+caadria2017_057,Urban Autopoiesis
+caadria2017_057,Urban Metabolism
+caadria2017_062,Augmented Reality
+caadria2017_062,Building Information Modeling
+caadria2017_062,Campus Space Management
+caadria2017_062,Computer Aided Facilities Management
+caadria2017_062,User Experience
+caadria2017_063,Biomimicry
+caadria2017_063,Computation
+caadria2017_063,Form-Finding
+caadria2017_063,Multi-Agent System
+caadria2017_063,Stigmergy
+caadria2017_067,Brazil
+caadria2017_067,Building Information Modeling
+caadria2017_067,Public Administration
+caadria2017_069,3D Printing
+caadria2017_069,Design Computation
+caadria2017_069,Design to Production
+caadria2017_069,Digital Fabrication
+caadria2017_069,Spatial Lattices
+caadria2017_070,Call Detail Record
+caadria2017_070,Machine Learning
+caadria2017_070,Original-Destination Matrix
+caadria2017_070,Urban Design Tools
+caadria2017_072,Architecture
+caadria2017_072,Generative Art
+caadria2017_072,Mathematical Logic
+caadria2017_072,Thai Pattern
+caadria2017_072,Visual Algorithm
+caadria2017_074,Cognitive Overload
+caadria2017_074,Epistemic Actions
+caadria2017_074,Generative Design
+caadria2017_074,Parametric Modeling
+caadria2017_074,Selection
+caadria2017_079,Architecture
+caadria2017_079,Augmented Reality
+caadria2017_079,Simultaneous Localization and Mapping
+caadria2017_079,Urban Environment
+caadria2017_079,Visualization
+caadria2017_080,Design Space
+caadria2017_080,Dynamic Relaxation
+caadria2017_080,Form-Finding
+caadria2017_080,Object Structures
+caadria2017_080,Topology-Driven
+caadria2017_081,Augmented Reality
+caadria2017_081,Computational Fluid Dynamics
+caadria2017_081,Indoor Greenery
+caadria2017_081,Indoor Thermal Environment
+caadria2017_081,Interdisciplinary Computational Design
+caadria2017_085,Apartment
+caadria2017_085,Building Information Modeling Add-In
+caadria2017_085,Building Information Modeling System
+caadria2017_085,G-SEED
+caadria2017_085,GBT
+caadria2017_086,Design Data
+caadria2017_086,Design Decoder
+caadria2017_086,Design Space Exploration
+caadria2017_086,Parametric Design
+caadria2017_086,Visual Analysis
+caadria2017_094,Aberration
+caadria2017_094,Algorithm
+caadria2017_094,Camoufleur
+caadria2017_094,Diffraction
+caadria2017_094,Envisioned
+caadria2017_094,Facade
+caadria2017_094,Surveillance
+caadria2017_095,Generative Three Dimensional Modeling
+caadria2017_095,Hanok
+caadria2017_095,Korean Traditional Structures
+caadria2017_095,Parametric Design
+caadria2017_096,Chinese Scholar Garden
+caadria2017_096,Landscape Design
+caadria2017_096,Overview Space
+caadria2017_096,Purview Interface
+caadria2017_096,VGA Analysis
+caadria2017_101,Cellular Automata
+caadria2017_101,Generative Urbanism
+caadria2017_101,Integrated Speculation
+caadria2017_104,Lightweight Structures
+caadria2017_104,Parametric Design
+caadria2017_104,Robotic Weaving
+caadria2017_104,Textile-Reinforced Concrete
+caadria2017_104,Textile-Reinforcement
+caadria2017_105,Evolutionary Design
+caadria2017_105,Form Based Code
+caadria2017_105,Neural Network
+caadria2017_105,Neuroevolution
+caadria2017_105,Urban Planning
+caadria2017_107,Multi-Agent System
+caadria2017_107,Open Space
+caadria2017_107,Space Syntax
+caadria2017_107,Visibility
+caadria2017_109,Bamboo
+caadria2017_109,Digital Construction
+caadria2017_109,Natural Material
+caadria2017_110,3D Cities
+caadria2017_110,3D Reconstruction
+caadria2017_110,Cities In Video Games
+caadria2017_110,Interaction
+caadria2017_110,Video Games
+caadria2017_113,Big Data
+caadria2017_113,Environmental Behavior Study
+caadria2017_113,Indoor Positioning Systems
+caadria2017_113,Ski Resort
+caadria2017_113,Spatial Temporal Behavior
+caadria2017_113,Wi-Fi
+caadria2017_115,Architecture
+caadria2017_115,Computational Design
+caadria2017_115,Deployable
+caadria2017_115,Digital Fabrication
+caadria2017_115,Reciprocal Frame Structures
+caadria2017_115,Space Frame
+caadria2017_118,Architectural Design Process
+caadria2017_118,Case Study
+caadria2017_118,Genetic Algorithm
+caadria2017_118,Multi-Objective
+caadria2017_122,Ancient Mechanisms Recovery
+caadria2017_122,Digital Fabrication
+caadria2017_122,Innovative Design
+caadria2017_123,Design Cognition
+caadria2017_123,Design Exploration
+caadria2017_123,Digital Tools
+caadria2017_123,Low Cost Conditions
+caadria2017_123,Project Based Learning
+caadria2017_124,Architectural Design Optimization
+caadria2017_124,Design Tools
+caadria2017_124,Model Based Optimization
+caadria2017_124,Sustainable Design
+caadria2017_125,Bamboo
+caadria2017_125,Craftsmanship
+caadria2017_125,Form-Finding
+caadria2017_125,Materiality
+caadria2017_127,AEC
+caadria2017_127,Building Information Modeling
+caadria2017_127,Building Information Modeling Workflow
+caadria2017_127,Chinese Construction Practice
+caadria2017_127,Cross-Disciplinary Collaboration
+caadria2017_129,Agent Based Modeling
+caadria2017_129,Generative Design
+caadria2017_129,Informal Urbanism
+caadria2017_129,Network Analysis
+caadria2017_129,Responsive Masterplanning
+caadria2017_131,Augmented Reality
+caadria2017_131,Digital Construction
+caadria2017_131,Human Machine Interaction
+caadria2017_132,Algorithmic Based Building Information Modeling
+caadria2017_132,Algorithmic Design
+caadria2017_132,Collaborative Design
+caadria2017_132,Programming
+caadria2017_132,Version Control
+caadria2017_134,Autonomous Car
+caadria2017_134,Infrastructure
+caadria2017_134,Localization
+caadria2017_134,Robotic
+caadria2017_135,Automated Design Process
+caadria2017_135,Building Information Modeling
+caadria2017_135,Korean Building Act
+caadria2017_135,Rule-Making
+caadria2017_135,Visual Language
+caadria2017_136,Building Information Modeling
+caadria2017_136,Energy Simulation
+caadria2017_136,Window Wall Ratio
+caadria2017_142,Architectural Detailing
+caadria2017_142,Functionally Graded Material
+caadria2017_142,Interlocking Joints
+caadria2017_142,Multi-Material Additive Manufacturing
+caadria2017_145,Design Process
+caadria2017_145,Form-Making
+caadria2017_145,Human Computer Interaction
+caadria2017_145,Human Data
+caadria2017_147,Digital Reconstruction
+caadria2017_147,Historical Building
+caadria2017_147,Streetscape
+caadria2017_147,Virtual Reality
+caadria2017_149,3D Printing
+caadria2017_149,Automation
+caadria2017_149,Digital Fabrication
+caadria2017_149,Indeterminacy
+caadria2017_149,Robotic
+caadria2017_155,Architectural Design Optimization
+caadria2017_155,Generic Solvers
+caadria2017_155,Multi-Criteria Decision Making
+caadria2017_155,Optimizaiton Techniques
+caadria2017_163,Architecture
+caadria2017_163,Bio-Constructs
+caadria2017_163,Bio-Fabrication
+caadria2017_163,Design Computation
+caadria2017_163,Synthetic Biology
+caadria2017_165,2-Manifold Meshes
+caadria2017_165,Complex Architectural Surfaces
+caadria2017_165,Digital Fabrication
+caadria2017_165,Quad-Edge Panels
+caadria2017_165,Unfolding
+caadria2017_168,Architectural Prototype
+caadria2017_168,Breathable Wall System
+caadria2017_168,Computational Fluid Dynamics
+caadria2017_168,Physical and Digital Simulation
+caadria2017_168,Responsive Architecture
+caadria2017_174,Cell Phone Application
+caadria2017_174,Differential Box-Counting
+caadria2017_174,Fractal Analysis
+caadria2017_174,Fractal Dimension
+caadria2017_175,Carrier Component Mesh
+caadria2017_175,Digital Fabrication
+caadria2017_175,Dynamic Envelope
+caadria2017_175,Interactive Architecture
+caadria2017_175,Sensor Interaction
+caadria2017_182,Algorithmic Design
+caadria2017_182,Glitch Aesthetics
+caadria2017_182,Process
+caadria2017_182,Theory
+caadria2017_183,Computational Fluid Dynamics
+caadria2017_183,Daylight Simulation
+caadria2017_183,Design Pedagogy
+caadria2017_183,Environmental Analysis
+caadria2017_183,Parametric Design
+caadria2017_185,Agile
+caadria2017_185,Architecture
+caadria2017_185,Collaboration
+caadria2017_185,Immaterial Architecture
+caadria2017_185,Parametric Paradox
+caadria2017_185,Pavilion
+caadria2017_189,Design Thinking
+caadria2017_189,Micro-Acoustic Pattern
+caadria2017_189,Robotic Subtractive Manufacturing
+caadria2017_189,Sound Scattering
+caadria2017_190,Computer Numerical Control
+caadria2017_190,Cutting
+caadria2017_190,Digital Fabrication
+caadria2017_190,Sustainability
+caadria2017_190,Visual Augmentation

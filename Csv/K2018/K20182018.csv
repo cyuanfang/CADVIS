@@ -1,0 +1,528 @@
+source,target
+caadria2018_008,Cable-Robot
+caadria2018_008,Cross-Disciplinarily
+caadria2018_008,Fabrication
+caadria2018_008,In-Situ Fabrication
+caadria2018_008,Inflatable Architecture
+caadria2018_008,Large-Scale
+caadria2018_008,Robotic
+caadria2018_010,Computational Design
+caadria2018_010,Concurrent Modeling Environment
+caadria2018_010,Processing
+caadria2018_010,Tangible Interaction
+caadria2018_016,Adaptive Detailing
+caadria2018_016,Building Information Modeling
+caadria2018_016,Communication Protocols
+caadria2018_016,Design Variants
+caadria2018_016,Early Design Stages
+caadria2018_018,Environmental Behavior Study
+caadria2018_018,Innovation Incubator
+caadria2018_018,Social Behavior Analysis
+caadria2018_018,Social Networks
+caadria2018_018,Wi-Fi IPS
+caadria2018_022,Agent
+caadria2018_022,Discrete
+caadria2018_022,Simulation
+caadria2018_022,Swarm
+caadria2018_025,Human Building Interface
+caadria2018_025,Human Computer Interaction
+caadria2018_025,Mobile Robot
+caadria2018_025,Responsive Architecture
+caadria2018_029,Adaptive Facade
+caadria2018_029,Cellular Automata
+caadria2018_029,Dynamic Shading
+caadria2018_029,Hourly Based Metric
+caadria2018_029,Performance Evaluation
+caadria2018_033,Culturomics
+caadria2018_033,Fame Pattern
+caadria2018_033,Google Ngram
+caadria2018_033,Pritzker Prize
+caadria2018_033,Self-Organizing Map
+caadria2018_037,Architectural Design Optimization
+caadria2018_037,Energy Consumption
+caadria2018_037,Responsive Facade
+caadria2018_037,Visual Comfort
+caadria2018_039,Generative Design
+caadria2018_039,Quasicrystal Structures
+caadria2018_039,Spatial Tessellation
+caadria2018_044,Augmented Reality
+caadria2018_044,Diminished Reality
+caadria2018_044,Environmental Design
+caadria2018_044,Green View Index
+caadria2018_044,Segmentation
+caadria2018_046,Clothing Classification
+caadria2018_046,Clothing Insulation
+caadria2018_046,IR Temperature Sensor
+caadria2018_046,Optimization
+caadria2018_046,Skin Temperature
+caadria2018_049,Adaptive Environment
+caadria2018_049,Brain–Computer Interface
+caadria2018_049,Electroencephalogram
+caadria2018_049,Mindfulness Training
+caadria2018_049,Reinforcement Learning
+caadria2018_050,Design Exchange
+caadria2018_050,Design Studio
+caadria2018_050,Software and Equipment
+caadria2018_050,Virtual Reality
+caadria2018_052,Choreographed Architecture
+caadria2018_052,Conceptual Design Media
+caadria2018_052,Human Body
+caadria2018_052,Motion Capture
+caadria2018_052,Space Design
+caadria2018_054,Environmental Parametrics
+caadria2018_054,Generative Design
+caadria2018_054,High Performance Facade
+caadria2018_054,Multi-Objective Optimization
+caadria2018_056,Design Analysis
+caadria2018_056,Design Evaluation
+caadria2018_056,Graphics Processing Unit
+caadria2018_056,Insolation
+caadria2018_056,Isovist
+caadria2018_057,Building Information Modeling
+caadria2018_057,Building Information Modeling
+caadria2018_057,Human Machine Interface
+caadria2018_057,Industry Foundation Classes
+caadria2018_057,Integration
+caadria2018_057,Unity
+caadria2018_057,Virtual Reality
+caadria2018_057,Virtual Reality
+caadria2018_059,Ceiling Height
+caadria2018_059,Design Alternatives
+caadria2018_059,Parametric Design
+caadria2018_059,Prospect-Refuge
+caadria2018_059,Window Design
+caadria2018_062,Furniture Semantics
+caadria2018_062,Indoor Representation Method
+caadria2018_062,IndoorGML
+caadria2018_062,Semantic Space
+caadria2018_062,Spatial Subdivision
+caadria2018_065,Architecture
+caadria2018_065,Computation
+caadria2018_065,Evolution
+caadria2018_065,Urban
+caadria2018_065,Variation
+caadria2018_066,Architectural Education
+caadria2018_066,Interaction
+caadria2018_066,Virtual Reality
+caadria2018_067,Building Performance
+caadria2018_067,Curved Facade
+caadria2018_067,Daylight
+caadria2018_067,Design Optimization
+caadria2018_067,Office Building
+caadria2018_068,Customised Sandwich Structured Composites
+caadria2018_068,Free-Form Shell
+caadria2018_068,Material Distribution
+caadria2018_068,Mathematical Design
+caadria2018_068,Optimization
+caadria2018_068,Robotic Hot-Wire Cutting
+caadria2018_070,Aperiodic
+caadria2018_070,Architectronics
+caadria2018_070,Crystal
+caadria2018_070,Lattice
+caadria2018_070,Quasicrystal
+caadria2018_076,Co-Working
+caadria2018_076,Manual Craft
+caadria2018_076,Mixed Reality
+caadria2018_076,Projector And Camera System
+caadria2018_077,Adaptable Model
+caadria2018_077,Bamboo
+caadria2018_077,Construction Process
+caadria2018_077,Natural Material
+caadria2018_077,Remote Locaton
+caadria2018_080,Architectural Robotic
+caadria2018_080,Digital Fabrication
+caadria2018_080,Material Studies
+caadria2018_080,Parametric Design
+caadria2018_082,Computational Fluid Dynamics Simulation
+caadria2018_082,Lightweight Temporary Building
+caadria2018_082,Optimization Design
+caadria2018_082,PCMs
+caadria2018_083,Deep Learning
+caadria2018_083,Material Computation
+caadria2018_083,Material Performance Model
+caadria2018_083,Neural Network
+caadria2018_083,Robotic Automation
+caadria2018_085,Machine Learning
+caadria2018_085,Open Data
+caadria2018_085,Smart City
+caadria2018_085,Social Media
+caadria2018_085,Web Scraping
+caadria2018_086,Algorithmic Design
+caadria2018_086,Architectural Visualization
+caadria2018_086,Film Grammar
+caadria2018_086,Render
+caadria2018_097,Adaptive Material
+caadria2018_097,Cellular Material
+caadria2018_097,Dynamic Thermal Insulation
+caadria2018_097,Thermal Design and Optimization
+caadria2018_101,BIPV
+caadria2018_101,Honeybee
+caadria2018_101,Key Words: Grasshopper
+caadria2018_101,Ladybug
+caadria2018_101,Productive Facade
+caadria2018_101,Vertical Farming
+caadria2018_103,Crowdsourcing
+caadria2018_103,Multiple Perspective Narrative
+caadria2018_103,Panoramic Video
+caadria2018_103,Spatial Content
+caadria2018_103,Storytelling
+caadria2018_107,Computational Fluid Dynamics
+caadria2018_107,Daylight
+caadria2018_107,Mixed Reality
+caadria2018_107,Thermal Environment
+caadria2018_107,Ventilation
+caadria2018_115,Computational Design
+caadria2018_115,Design Methods
+caadria2018_115,Ethics
+caadria2018_115,Information Processing
+caadria2018_115,Software Embedded Design
+caadria2018_118,Assembly
+caadria2018_118,Augmented Reality
+caadria2018_118,Tou-Kung
+caadria2018_121,Additive Manufacturing
+caadria2018_121,Analog
+caadria2018_121,Carbon Fiber
+caadria2018_121,Composites
+caadria2018_121,Digital Fabrication
+caadria2018_121,Form-Finding
+caadria2018_122,Collaboration
+caadria2018_122,Data
+caadria2018_122,De-Localised Workspaces
+caadria2018_122,Open Source
+caadria2018_122,Web Based Software Platform
+caadria2018_125,Collaboration
+caadria2018_125,Communication
+caadria2018_125,Hololens
+caadria2018_125,Mixed Reality
+caadria2018_125,Virtual
+caadria2018_126,Action Research
+caadria2018_126,Education
+caadria2018_126,Machine Learning
+caadria2018_126,Neural Network
+caadria2018_126,Supervised Learning
+caadria2018_130,Building Information Modeling
+caadria2018_130,Building Information Modeling Implementation
+caadria2018_130,Guideline
+caadria2018_130,Japan
+caadria2018_130,Standardization
+caadria2018_132,Digital Design Theory
+caadria2018_132,New Materialism
+caadria2018_132,Perception
+caadria2018_132,Real Virtuality
+caadria2018_132,Visual Uncertainty
+caadria2018_134,Compact City
+caadria2018_134,Geographic Information System
+caadria2018_134,Land Use
+caadria2018_134,Metropolitan Form Analysis
+caadria2018_134,Mixed-Use
+caadria2018_140,Kinetic Architecture
+caadria2018_140,Mechanism Linkage
+caadria2018_140,Theo Jansen’s Mechanism
+caadria2018_142,Dynamic Daylight Performance Simulation
+caadria2018_142,Parametric Design
+caadria2018_142,Perforated Solar Screens
+caadria2018_142,The Northeast China
+caadria2018_154,Control System
+caadria2018_154,Design Tools
+caadria2018_154,Digital Fabrication
+caadria2018_154,Smart Dynamic Casting
+caadria2018_156,Additive Manufacturing
+caadria2018_156,Architectural Robotic
+caadria2018_156,Digital Fabrication
+caadria2018_156,Functionally Graded Material
+caadria2018_158,Big Data
+caadria2018_158,Data Visualization
+caadria2018_158,Design Trends
+caadria2018_158,Parametric Design Tools
+caadria2018_158,Social Networks
+caadria2018_161,Agent Based Modeling
+caadria2018_161,Urban Design
+caadria2018_161,Virtual Reality
+caadria2018_162,Augmented Reality
+caadria2018_162,Grasshopper
+caadria2018_162,Parametric Design
+caadria2018_162,Procedural
+caadria2018_162,Virtual Reality
+caadria2018_165,Computational
+caadria2018_165,Form-Finding
+caadria2018_165,Robotic Fabrication
+caadria2018_165,Strained Gridshell
+caadria2018_165,Structural Optimization
+caadria2018_167,Human Computer Interaction
+caadria2018_167,Mesh Simplification
+caadria2018_167,Point Cloud
+caadria2018_167,Tangible Model
+caadria2018_170,Grasshopper
+caadria2018_170,Parametric Modeling
+caadria2018_170,Rule Based
+caadria2018_170,SGI
+caadria2018_170,Shape Grammar
+caadria2018_173,Automation
+caadria2018_173,Building Information Modeling
+caadria2018_173,CityGML
+caadria2018_173,Conversion
+caadria2018_173,Semantic
+caadria2018_174,Information and Data
+caadria2018_174,Lambda Calculus
+caadria2018_174,Space
+caadria2018_174,Synthesis
+caadria2018_174,Topography And Topology
+caadria2018_180,Building Information Modeling Based Model Checking
+caadria2018_180,Decision Tables
+caadria2018_180,Expert System
+caadria2018_180,Precast Concrete
+caadria2018_180,Rule Based Checking
+caadria2018_181,3D Printing
+caadria2018_181,Parametric Design
+caadria2018_181,Topology Optimization
+caadria2018_182,Computational Design
+caadria2018_182,Design Creativity
+caadria2018_182,Design Synthesis
+caadria2018_182,Digital Environment
+caadria2018_182,Sketching
+caadria2018_188,Cycle Pathway
+caadria2018_188,Infrastructure Generation
+caadria2018_188,Route Choice
+caadria2018_188,Slime Mold
+caadria2018_188,Topography Analysis
+caadria2018_190,Interactive Art
+caadria2018_190,Negroponte
+caadria2018_190,Responsive Architecture
+caadria2018_190,Responsive Behaviour
+caadria2018_197,Immersive
+caadria2018_197,Methodology Ecosystem
+caadria2018_197,Photogrammetry
+caadria2018_197,Simulation
+caadria2018_197,Virtual Reality
+caadria2018_198,Carbon Fiber
+caadria2018_198,Integrated Ceiling Systems
+caadria2018_198,Open Collaborative Workspace
+caadria2018_198,Robotic Onsite Weaving
+caadria2018_199,Constraint Handling
+caadria2018_199,Evolutionary Design
+caadria2018_199,Evolutionary Effectiveness
+caadria2018_199,Locality
+caadria2018_199,Time Efficiency
+caadria2018_209,Augmented Reality
+caadria2018_209,Environment Visualization
+caadria2018_209,Fast Response
+caadria2018_209,Outdoor Ventilation
+caadria2018_210,Building Morphology Generation
+caadria2018_210,Design
+caadria2018_210,Dynamic Model
+caadria2018_210,Environmental Performance
+caadria2018_210,Physical Wind Tunnel
+caadria2018_210,Wind Environment Visualization
+caadria2018_211,Behavior
+caadria2018_211,Data Visualization
+caadria2018_211,On-Site Experiment
+caadria2018_211,UWB Interior Positioning Technology
+caadria2018_212,Knitted Textiles
+caadria2018_212,Perforated Panels
+caadria2018_212,Textile-Reinforced Composites
+caadria2018_215,Additive Manufacturing
+caadria2018_215,Digital Design
+caadria2018_215,Space Frame
+caadria2018_216,3D Printing
+caadria2018_216,Form-Finding
+caadria2018_216,Material Performance
+caadria2018_216,Structural Performance
+caadria2018_216,Topology Optimization
+caadria2018_217,Eye-Tracking
+caadria2018_217,Protocol Analysis
+caadria2018_217,Street Space
+caadria2018_217,Virtual Reality
+caadria2018_228,Algorithmic Design
+caadria2018_228,Evolutionary Computation
+caadria2018_228,Generative Design
+caadria2018_228,Multi-Objective Optimization
+caadria2018_228,Parametric Design
+caadria2018_232,Digital Design
+caadria2018_232,Digital Hardware
+caadria2018_232,Human Computer Interaction
+caadria2018_232,Pedagogy
+caadria2018_232,Physical Computing
+caadria2018_235,Computational Design
+caadria2018_235,Digital Fabrication
+caadria2018_235,Reciprocal Frame Structures
+caadria2018_235,RF Growth Morphology
+caadria2018_235,Spaceframes
+caadria2018_237,Case Based Reasoning
+caadria2018_237,Conversation
+caadria2018_237,Function Behavior Structures Framework
+caadria2018_237,Internet of Things Environment
+caadria2018_237,Service Recommendation
+caadria2018_241,Transit-Oriented Development
+caadria2018_241,Urban Network Analysis
+caadria2018_241,Walkability
+caadria2018_243,Climate Responsive Urban Design
+caadria2018_243,Outdoor Thermal Comfort
+caadria2018_243,Traditional Arcade-Street Neighborhood
+caadria2018_243,Urban Geometry
+caadria2018_245,Algorithmic Methodology
+caadria2018_245,Design Decision Tools
+caadria2018_245,Knowledge Based System
+caadria2018_245,Urban Form
+caadria2018_257,Architectural Design Optimization
+caadria2018_257,Form Diversity
+caadria2018_257,K-Means Clustering
+caadria2018_259,Equality
+caadria2018_259,Feminism
+caadria2018_259,Gender
+caadria2018_259,Robotic
+caadria2018_259,Women
+caadria2018_264,Computational Design
+caadria2018_264,Data Processing
+caadria2018_264,Data Visualization
+caadria2018_264,Transdata
+caadria2018_268,Building Information Modeling
+caadria2018_268,Computer Aided Design Drawings
+caadria2018_268,Conversion
+caadria2018_268,Generative
+caadria2018_268,Grasshopper
+caadria2018_270,3D Printing
+caadria2018_270,Bespoke Complexity
+caadria2018_270,Digital Instruction
+caadria2018_270,Mass Customization
+caadria2018_270,Multi-Material Grading
+caadria2018_270,Robotic Deposition
+caadria2018_270,Structural Optimization
+caadria2018_273,Cellular Structures
+caadria2018_273,Large Pavilion Design
+caadria2018_273,Parametric Design Method
+caadria2018_273,Shell Structures
+caadria2018_273,Thin Paperboard
+caadria2018_276,Acoustic Ceiling Treatment
+caadria2018_276,Computational Design
+caadria2018_276,Digital Fabrication
+caadria2018_276,Faceted Geometries
+caadria2018_276,Retroreflection
+caadria2018_278,Algorithmic Design
+caadria2018_278,Collaborative Design
+caadria2018_278,Design Strategies
+caadria2018_278,Design Workflow
+caadria2018_278,Process
+caadria2018_280,Kansei Engeneering
+caadria2018_280,Mixed Reality
+caadria2018_280,Sight Depth
+caadria2018_281,Airflow Simulation
+caadria2018_281,Computational Fluid Dynamics
+caadria2018_281,Natural Ventilation
+caadria2018_281,Pneumatic Facade
+caadria2018_282,Automated Construction
+caadria2018_282,Digital Fabrication
+caadria2018_282,File-to Factory
+caadria2018_284,Augmented Reality
+caadria2018_284,Communication
+caadria2018_284,Gamification
+caadria2018_284,Public Participation
+caadria2018_284,Visualization
+caadria2018_287,Digital Fabrication
+caadria2018_287,Digital Prototyping
+caadria2018_287,Fibre Reinforced Concrete
+caadria2018_287,Parametric Design
+caadria2018_287,Prefabrication
+caadria2018_290,Artificial Neural Networks
+caadria2018_290,Automatic Design
+caadria2018_290,Main Pedestrian Entrance of Building Site
+caadria2018_292,Evolutionary Design
+caadria2018_292,Industrialized Construction
+caadria2018_292,Optimization
+caadria2018_292,Precast Concrete
+caadria2018_293,Agent Based Simulation
+caadria2018_293,Network Analysis
+caadria2018_293,Physarum Polycephalum
+caadria2018_293,Self-Organization
+caadria2018_293,Urban Development Process
+caadria2018_297,Building Information Modeling
+caadria2018_297,Facility Management
+caadria2018_297,Internet of Things
+caadria2018_297,Management System
+caadria2018_301,Academia
+caadria2018_301,Computation
+caadria2018_301,Pedagogy
+caadria2018_301,Sci-Fi
+caadria2018_301,Teaching
+caadria2018_302,3D Positioning
+caadria2018_302,Digital Fabrication
+caadria2018_302,Guided Construction
+caadria2018_302,Human Computer Interaction
+caadria2018_302,Wearable Robotic
+caadria2018_303,Deep Learning
+caadria2018_303,Design Requirements
+caadria2018_303,Korean Building Act
+caadria2018_303,Natural Language Processing
+caadria2018_303,Semantic Analysis
+caadria2018_304,3D Printing
+caadria2018_304,Bamboo
+caadria2018_304,Digital Fabrication
+caadria2018_304,Material Individuality
+caadria2018_304,Visual Sensing
+caadria2018_306,Adaptive Form
+caadria2018_306,Dynamic Design
+caadria2018_306,Interactive Stairs
+caadria2018_306,Kinetic Structures
+caadria2018_306,Stair Design
+caadria2018_309,Immersive Experience
+caadria2018_309,Site Visit
+caadria2018_309,Virtual Reality
+caadria2018_310,Geographic Information System
+caadria2018_310,Historical Evolution
+caadria2018_310,Kulangsu
+caadria2018_310,Space Syntax
+caadria2018_310,Urban Morphology
+caadria2018_314,Chair
+caadria2018_314,Deep Learning
+caadria2018_314,Design Feature
+caadria2018_314,Image Recognition
+caadria2018_314,Interior Design Elements
+caadria2018_316,Motion
+caadria2018_316,Projective Geometry
+caadria2018_316,Shape Study
+caadria2018_316,Shifting Perspective
+caadria2018_316,Time Dimension
+caadria2018_322,Citizen Design Science
+caadria2018_322,Crowdsourcing
+caadria2018_322,Human Computation
+caadria2018_322,Human Computer Interaction
+caadria2018_322,Participatory Design
+caadria2018_324,Continuous Curvilinear Surfaces
+caadria2018_324,Environmental Responsive Architecture
+caadria2018_324,Shape Memory Polymer
+caadria2018_324,Wood Fabrication
+caadria2018_332,Design
+caadria2018_332,Design Methods
+caadria2018_332,Generative Systems
+caadria2018_332,Information Processing
+caadria2018_332,Optimization
+caadria2018_332,Public Space Design
+caadria2018_332,Simulation
+caadria2018_332,Urban Planning
+caadria2018_333,Ambient Devices
+caadria2018_333,Geometrically Induced Thermodynamics
+caadria2018_333,Internet of Things
+caadria2018_333,Modular Electronic System
+caadria2018_333,Responsive Environment
+caadria2018_337,Agent
+caadria2018_337,Avatar
+caadria2018_337,Multi-Agent Simulation
+caadria2018_337,Space Syntax
+caadria2018_337,Virtual Reality
+caadria2018_337,Wayfinding Simulation
+caadria2018_342,3D Printing
+caadria2018_342,Natural Ventilation
+caadria2018_342,Nozzle Profiles
+caadria2018_342,Rapid Prototyping
+caadria2018_342,Wind Velocity
+caadria2018_343,Interlocking Archimedean Spiral-Patterns
+caadria2018_343,Interpolation Layer
+caadria2018_343,Kerfing
+caadria2018_343,Positive & Negative Gaussian Curvatures
+caadria2018_343,Relief-Cut Patterns
+caadria2018_343,Transformative Formwork
+caadria2018_365,Architecture
+caadria2018_365,Design Process
+caadria2018_365,Design Research
+caadria2018_365,Music
+caadria2018_365,Parametric Digital Design
+caadria2018_365,Spatial Improvisation

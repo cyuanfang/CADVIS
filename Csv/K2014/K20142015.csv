@@ -1,0 +1,737 @@
+source,target
+caadria2014_002,Media Facade
+caadria2014_002,Non-Euclidian Space
+caadria2014_002,Responsive Architecture
+caadria2014_002,Ruled Surfaces
+caadria2014_003,Algorithmic Design
+caadria2014_003,Combinatorial Rigidity
+caadria2014_003,Panel-Hinge Framework
+caadria2014_003,Panel-Hinge Graph
+caadria2014_013,Architectural Prototype
+caadria2014_013,Computational Fluid Dynamics
+caadria2014_013,Urban Aerodynamics
+caadria2014_013,Wind Tunnel Simulation
+caadria2014_013,Windbreak
+caadria2014_014,Flow Map
+caadria2014_014,Geographic Information System
+caadria2014_014,Spatial Network Analysis
+caadria2014_014,Transportation Data
+caadria2014_014,Visual Analysis
+caadria2014_022,Co-Design
+caadria2014_022,Ideation
+caadria2014_022,Immersive
+caadria2014_022,Representation
+caadria2014_022,Studio
+caadria2014_027,Diversity
+caadria2014_027,Enumeration
+caadria2014_027,Floor Plan
+caadria2014_027,Open Building
+caadria2014_027,ZDD
+caadria2014_028,Data Analysis
+caadria2014_028,Data Visualization
+caadria2014_028,Integrated Design Environment
+caadria2014_028,Multi-Modal Data Collection
+caadria2014_028,Public Space
+caadria2014_029,3D Scanning
+caadria2014_029,Earthquakes
+caadria2014_029,Heritage Intervention
+caadria2014_029,Replica
+caadria2014_029,Tarapacá
+caadria2014_031,Collective Design
+caadria2014_031,Representation
+caadria2014_031,Semiotics
+caadria2014_034,Human Computer Interface
+caadria2014_034,Spatial 3D Visualization
+caadria2014_034,Spatial Design
+caadria2014_034,Urban Interaction Design
+caadria2014_034,Wireless Sensor Technology
+caadria2014_037,Adaptive Architecture
+caadria2014_037,Physical Computing
+caadria2014_037,Responsive Material Systems
+caadria2014_042,ArchiCAD EcoDesigner
+caadria2014_042,Building Energy Modeling
+caadria2014_042,Building Information Modeling
+caadria2014_042,Energy Rating
+caadria2014_042,FirstRate 5
+caadria2014_043,Computational Analysis
+caadria2014_043,Isovist
+caadria2014_043,Virtual Reality
+caadria2014_043,Visual Space
+caadria2014_043,Walk-Through
+caadria2014_044,Digital Fabrication
+caadria2014_044,Dynamic-Mesh Relaxation
+caadria2014_044,Form-Finding
+caadria2014_044,Geometric Rationalisation
+caadria2014_044,Pattern
+caadria2014_046,Computational Fluid Dynamics Simulation 
+caadria2014_046,Urban Aerodynamics
+caadria2014_046,Wind Discomfort
+caadria2014_047,Biomimicry
+caadria2014_047,Design-Build
+caadria2014_047,Pedagogy
+caadria2014_047,Simulation
+caadria2014_052,Binocular Disparity
+caadria2014_052,Depth Perception
+caadria2014_052,High Dynamic Range Imagery
+caadria2014_052,Luminance Contrast
+caadria2014_052,Stereo Display
+caadria2014_054,Academic Curriculum
+caadria2014_054,Building Information Modeling
+caadria2014_054,Epistemology
+caadria2014_054,Parametric Design
+caadria2014_054,Practice
+caadria2014_054,Teaching
+caadria2014_056,Architectural Design
+caadria2014_056,Creativity
+caadria2014_056,Design Studio
+caadria2014_056,Virtual Reality
+caadria2014_057,Architecture
+caadria2014_057,Design Education
+caadria2014_057,History of Art
+caadria2014_057,Mobile Learning
+caadria2014_060,Form-Finding
+caadria2014_060,Material Computation
+caadria2014_060,Responsive Material Systems
+caadria2014_061,Late Modernism
+caadria2014_061,Parametric Architecture
+caadria2014_061,Pattern
+caadria2014_061,Performative Drawing
+caadria2014_061,Simulation
+caadria2014_069,Computational Creativity
+caadria2014_069,Evolutionary Creativity
+caadria2014_069,Robots
+caadria2014_070,CGA
+caadria2014_070,Geodesign
+caadria2014_070,Public Housing
+caadria2014_070,Urban Structures
+caadria2014_071,Multi-Agent System
+caadria2014_071,Pedestrian Simulation
+caadria2014_071,Performance Oriented Generative Design
+caadria2014_071,Projection
+caadria2014_071,Space Syntax
+caadria2014_075,Artificial Life
+caadria2014_075,Generative Design
+caadria2014_075,Space Planning
+caadria2014_077,Computational Design
+caadria2014_077,Digital Manufacturing
+caadria2014_077,Fractal Geometry
+caadria2014_080,Multi-Objective Evolutionary Algorithm
+caadria2014_080,Transportation Network
+caadria2014_080,Urban Density
+caadria2014_080,Urban Structures
+caadria2014_083,Architectural Epistemology
+caadria2014_083,Parasitical Architecture
+caadria2014_085,Abstract Geometry
+caadria2014_085,Generative Design
+caadria2014_085,Higher-Order Programs
+caadria2014_088,Agent Based Modeling
+caadria2014_088,Generative Design
+caadria2014_088,Object Oriented Design
+caadria2014_088,Unplanned Settlements
+caadria2014_090,3D Sketching
+caadria2014_090,Design Tools
+caadria2014_090,Early Design Stages
+caadria2014_090,HCI
+caadria2014_090,Urban Design
+caadria2014_095,Arduino
+caadria2014_095,Decentralised Control
+caadria2014_095,Interactive
+caadria2014_095,Kinetic Cladding Components
+caadria2014_095,Responsiveness
+caadria2014_096,Coastal Infrastructure
+caadria2014_096,Computational Fluid Dynamics
+caadria2014_096,Curvilinear Surfaces
+caadria2014_096,Habitat Engineering
+caadria2014_096,Performance Design Theory
+caadria2014_099,Digital Fabrication
+caadria2014_099,Generative Design
+caadria2014_099,Glass
+caadria2014_099,Traditional Craft
+caadria2014_100,Generative Design
+caadria2014_100,Middle-East
+caadria2014_100,Parametric Modeling
+caadria2014_100,Regionalism
+caadria2014_100,Splines
+caadria2014_102,Form-Finding
+caadria2014_102,Frei Otto
+caadria2014_102,Generative Design
+caadria2014_102,Parametric Urbanism
+caadria2014_105,Big Data
+caadria2014_105,City Analysis
+caadria2014_105,Compact City
+caadria2014_105,Geographic Information System
+caadria2014_108,Craft
+caadria2014_108,Digital Design
+caadria2014_108,Fabrication
+caadria2014_108,Gothic
+caadria2014_108,William Morris
+caadria2014_109,Computation
+caadria2014_109,Goethe
+caadria2014_109,Morphogenesis
+caadria2014_109,Pulse
+caadria2014_114,3D Printing
+caadria2014_114,Boolean Operations
+caadria2014_114,Computer Aided Design
+caadria2014_114,Solid Modeller
+caadria2014_116,Brand Cluster
+caadria2014_116,Brand Identity
+caadria2014_116,Design Trends
+caadria2014_116,Style Analysis
+caadria2014_118,China
+caadria2014_118,Concrete
+caadria2014_118,Cost Evaluation
+caadria2014_118,Generative Design
+caadria2014_118,Local Materialisation
+caadria2014_118,Structural Design
+caadria2014_120,Concrete Formwork
+caadria2014_120,Differentiation
+caadria2014_120,Robotic Fabrication
+caadria2014_120,Spatial Extrusion
+caadria2014_124,Collaborative Design
+caadria2014_124,Digital Fabrication
+caadria2014_124,Digital Formfinding
+caadria2014_124,Digital Workflow
+caadria2014_136,Design Studio
+caadria2014_136,Pedagogy
+caadria2014_136,Representational Media
+caadria2014_139,Gravity Model
+caadria2014_139,Green Space
+caadria2014_139,Regular Grids
+caadria2014_139,Space Partitioning
+caadria2014_139,Voronoi Algorithm
+caadria2014_142,Building Information Modeling
+caadria2014_142,Concrete Usage Index
+caadria2014_142,CUI
+caadria2014_142,Green Mark
+caadria2014_142,Sustainable Design
+caadria2014_145,Gamification
+caadria2014_145,Hybrid Model of Interaction
+caadria2014_145,Infinite Computing
+caadria2014_145,Information Aesthetics
+caadria2014_145,Narrative Visualisation
+caadria2014_147,Geometric Investigation
+caadria2014_147,Timber Construction
+caadria2014_147,Universal Joint
+caadria2014_150,3D Modeling
+caadria2014_150,Digital Fabrication
+caadria2014_150,Grasshopper
+caadria2014_150,Rhinoceros
+caadria2014_150,Tessellation
+caadria2014_156,Design Process
+caadria2014_156,Human Behavior
+caadria2014_156,Robots
+caadria2014_156,Scan
+caadria2014_161,Design Technology
+caadria2014_161,Feedback
+caadria2014_161,Immersive Virtual Environment
+caadria2014_161,Prototype
+caadria2014_161,Virtual Reality
+caadria2014_163,Design Computation
+caadria2014_163,Education
+caadria2014_164,Architecture
+caadria2014_164,Prototype
+caadria2014_164,Technics
+caadria2014_164,Tools
+caadria2014_164,Tools-Making
+caadria2014_167,Complexity
+caadria2014_167,Design Process
+caadria2014_167,Digital Fabrication
+caadria2014_167,Parametric Design
+caadria2014_170,Convex Voids
+caadria2014_170,Open Space
+caadria2014_170,Solid Voids
+caadria2014_170,User Guided Feature Recognition
+caadria2014_171,Design Tools
+caadria2014_171,Idea Linking
+caadria2014_171,Mobile
+caadria2014_171,On Site
+caadria2014_173,Computational Design
+caadria2014_173,Lightweight Structures
+caadria2014_173,Robotic Fabrication
+caadria2014_173,Visual Programming
+caadria2014_177,Complex Geometry
+caadria2014_177,Design Tools
+caadria2014_177,Discrete Growth Model
+caadria2014_177,Form Generation
+caadria2014_177,Form Growth
+caadria2014_177,Geometry System
+caadria2014_182,Evolutionary Design
+caadria2014_182,Evolutionary Performance
+caadria2014_182,Genotype Fitness Mapping
+caadria2014_182,Locality
+caadria2014_184,Parametric Urbanism
+caadria2014_184,Quadrilateral Mesh Generation
+caadria2014_184,Street Networks
+caadria2014_184,Urban Optioneering
+caadria2014_201,Bending-Active Structures
+caadria2014_201,Digital Fabrication
+caadria2014_201,Form-Finding
+caadria2014_201,Geodesics
+caadria2014_201,Grid Shell
+caadria2014_201,Wood
+caadria2014_202,Campus Planning
+caadria2014_202,Design Rules
+caadria2014_202,Driving Force
+caadria2014_202,Future Scenarios
+caadria2014_202,Parametric Modeling
+caadria2014_204,Folded Surfaces
+caadria2014_204,Interactive Architecture
+caadria2014_204,Kinetic Systems
+caadria2014_204,Origami Geometry
+caadria2014_206,Biometrics Sensing
+caadria2014_206,Computational Design
+caadria2014_206,Electrodermal Activity
+caadria2014_206,Human Computer Interaction
+caadria2014_206,Space Perception
+caadria2014_206,Virtual Reality
+caadria2014_212,Colour
+caadria2014_212,Digital Design
+caadria2014_212,Goethe
+caadria2014_212,Pedagogy
+caadria2014_218,Art
+caadria2014_218,Escher
+caadria2014_218,Rule Based Design
+caadria2014_218,Rules as Template
+caadria2014_218,Shape
+caadria2014_218,Shape Grammar
+caadria2014_226,Parametric Design
+caadria2014_226,Parametric Modeling
+caadria2014_226,Parametric Variations
+caadria2014_226,Parametric Visualization
+caadria2014_234,Computational Design
+caadria2014_234,Grasshopper
+caadria2014_234,Parametric Design
+caadria2014_234,Social Media
+caadria2014_234,Urban Analysis
+caadria2014_237,Brick
+caadria2014_237,Ceramics
+caadria2014_237,Digital Tools
+caadria2014_237,Fabrication
+caadria2014_237,Tectonics
+caadria2014_237,Vernacular Technology
+caadria2014_244,Additive Manufacturing
+caadria2014_244,Cloud Manufacturing
+caadria2014_244,Collaborative Design
+caadria2014_244,Open Source Design
+caadria2014_244,Peer-To-Peer Production
+caadria2014_246,Computational Design Education
+caadria2014_246,Computer Science Education Research
+caadria2014_246,Empirical Research
+caadria2014_246,Programming
+caadria2014_249,Decision Making
+caadria2014_249,Dynamic Building Envelopes
+caadria2014_249,Immersive Simulation
+caadria2014_249,Interactive Environment
+caadria2014_249,Participatory Design
+caadria2014_252,Collaboration
+caadria2014_252,Collaboration Support Tools
+caadria2014_252,Design
+caadria2014_252,Distributed Cognition
+caadria2014_252,Mobile Computing
+caadria2014_254,3D Modeling
+caadria2014_254,Facade Reconstruction
+caadria2014_254,Game
+caadria2014_254,Visualization
+caadria2014_255,Data Visualization
+caadria2014_255,Social Network Analysis
+caadria2014_255,Tools Development
+caadria2014_256,Computational Thinking
+caadria2014_256,Digital Craft
+caadria2014_256,Ethics
+caadria2014_258,Helicoid
+caadria2014_258,Oblique
+caadria2014_258,Surface
+caadria2014_258,Tessellation
+caadria2014_258,Urban
+caadria2014_260,Cloud Computing
+caadria2014_260,Collaborative Design
+caadria2014_260,Communication Process in Spatial Design
+caadria2014_260,Distributed Synchronization
+caadria2014_260,Virtual Environment
+caadria2014_264,Computational Design Education
+caadria2014_264,Computer Aided Design
+caadria2014_264,Computer Aided Manufacturing
+caadria2014_264,Design Aides
+caadria2014_264,Digital Fabrication
+caadria2014_264,Generative Design
+caadria2014_274,Building Performance Simulation
+caadria2014_274,Generative Design
+caadria2014_274,Optimization
+caadria2014_274,Parametric Design
+caadria2014_276,2D
+caadria2014_276,3D
+caadria2014_276,Building Information Modeling
+caadria2014_276,Planning
+caadria2014_276,Visualization
+caadria2014_279,Environmental Design
+caadria2014_279,Genetic Algorithm
+caadria2014_279,Optimization
+caadria2014_279,Urban Morphology
+caadria2014_279,Urban Simulation
+caadria2014_288,Architectural Education
+caadria2014_288,Digital Design
+caadria2014_288,Fabrication
+caadria2014_291,Agent Modeling
+caadria2014_291,Designer-User Interaction
+caadria2014_291,Innovation
+caadria2014_291,Multi-Agent System
+caadria2014_291,Simulation
+caadria2014_291,Situated Computing
+caadria2014_298,Design Cognition
+caadria2014_298,Parametric Modeling
+caadria2014_298,Protocol Studies
+caadria2015_002,Building Information Modeling
+caadria2015_002,Collaboration
+caadria2015_002,Education
+caadria2015_002,Role-Playing
+caadria2015_004,Electroactive Materials
+caadria2015_004,Model Based Control
+caadria2015_004,Programmable Windows.
+caadria2015_010,Cellular Structures
+caadria2015_010,Computer Numerical Control
+caadria2015_010,Fabrication
+caadria2015_010,Non-Standard Wall
+caadria2015_010,Parametric Modeling
+caadria2015_010,Wood Construction
+caadria2015_012,Building Information Modeling
+caadria2015_012,FM
+caadria2015_012,Groupware
+caadria2015_012,Sensors
+caadria2015_012,Web Application
+caadria2015_013,3D Printing
+caadria2015_013,Climate Data Visualization
+caadria2015_013,Climate Torus
+caadria2015_014,Design Cognition
+caadria2015_014,Language
+caadria2015_014,Parametric Design
+caadria2015_014,Protocol Analysis
+caadria2015_014,Spatial Language
+caadria2015_015,Fulldome
+caadria2015_015,Immersive
+caadria2015_015,Interface
+caadria2015_015,Parametric Design
+caadria2015_015,Real-Time
+caadria2015_016,Architectural Design Education
+caadria2015_016,Cultural Behavior
+caadria2015_016,Design Analysis
+caadria2015_016,Evaluation
+caadria2015_016,Human Behaviour Simulation
+caadria2015_016,Social
+caadria2015_023,Building Facade
+caadria2015_023,Complex Geometry
+caadria2015_023,Parametric Design
+caadria2015_023,Structural Fragmentation
+caadria2015_023,Surface Tessellation  
+caadria2015_030,Innovation
+caadria2015_030,Interactive Architecture
+caadria2015_030,Pedagogy
+caadria2015_030,Robotic
+caadria2015_030,Studio
+caadria2015_031,Membrane
+caadria2015_031,Modular
+caadria2015_031,Parametric
+caadria2015_031,Pavilion
+caadria2015_031,Tensegrity
+caadria2015_032,Augmented Reality
+caadria2015_032,Design Collaboration
+caadria2015_032,Visualization
+caadria2015_033,Material Intelligence
+caadria2015_033,Phototropism
+caadria2015_033,Responsive Facade
+caadria2015_043,Animation
+caadria2015_043,Associative Parametric Modeling
+caadria2015_043,Conceptual Design Methods and Tools
+caadria2015_043,Free-Form Modeling
+caadria2015_043,Performance-Driven Design
+caadria2015_048,Algorithmic Design
+caadria2015_048,Glitch Aesthetics
+caadria2015_048,Process
+caadria2015_048,Processing
+caadria2015_048,Theory
+caadria2015_049,Convergence
+caadria2015_049,Environmental Performance
+caadria2015_049,Multidisciplinary Design
+caadria2015_049,Optimization
+caadria2015_049,Optioneering
+caadria2015_049,Parametric Design
+caadria2015_054,Customised Software Development
+caadria2015_054,Design Analysis
+caadria2015_054,Design Optimization
+caadria2015_054,Grasshopper
+caadria2015_054,Stadium Design
+caadria2015_060,Bottom-Up Design
+caadria2015_060,Cellular Automata
+caadria2015_060,Design Computation
+caadria2015_060,DLA
+caadria2015_060,Fractal Geometry
+caadria2015_060,Generative Design
+caadria2015_061,Agent Analysis
+caadria2015_061,Attraction Placement
+caadria2015_061,Theme Park Management
+caadria2015_061,Visitor Traffic Flow
+caadria2015_064,Architecture
+caadria2015_064,Computational Design
+caadria2015_064,Foldable Structures
+caadria2015_064,Parametric Modeling
+caadria2015_064,Robotic Fabrication
+caadria2015_064,Wood Panels
+caadria2015_065,Attribute Information
+caadria2015_065,Building Information Modeling
+caadria2015_065,Existing Buildings
+caadria2015_065,Graph
+caadria2015_065,Schematic Diagram
+caadria2015_066,Building Information Modeling
+caadria2015_066,Digital Survey
+caadria2015_066,Laser scanning
+caadria2015_066,Preservation
+caadria2015_066,Retrofit
+caadria2015_067,Building Information Modeling
+caadria2015_067,Data Interoperability
+caadria2015_067,Energy Property
+caadria2015_067,Industry Foundation Classes
+caadria2015_069,Architectural Design Criteria
+caadria2015_069,Architectural Information Modeling
+caadria2015_069,Parametric Design
+caadria2015_069,Semantic Ontology
+caadria2015_070,Collaborative Robotic
+caadria2015_070,Creative Robotic
+caadria2015_070,Digital Fabrication
+caadria2015_070,New Design Tools
+caadria2015_070,Robots in Architecture
+caadria2015_072,Building Massing Optimisation
+caadria2015_072,Daylight Performance Evaluation
+caadria2015_072,Environmentally Conscious
+caadria2015_072,Parametric Modeling
+caadria2015_072,Performance-Driven Design
+caadria2015_073,Design Pattern
+caadria2015_073,Parametric Modeling
+caadria2015_073,Protocol Studies
+caadria2015_077,Building Envelope
+caadria2015_077,Building Integrated Photovoltaics
+caadria2015_077,Climatic Simulations
+caadria2015_077,Digital Algorithm
+caadria2015_078,Collaborative Design
+caadria2015_078,Constrained Design Hysteresis
+caadria2015_078,Digital Fabrication
+caadria2015_078,Mass Customization
+caadria2015_078,Parametric Design
+caadria2015_081,Aesthetic Judgment
+caadria2015_081,Computational Design
+caadria2015_081,Feelings
+caadria2015_081,Human Computer Interaction
+caadria2015_081,Neuroaesthetics
+caadria2015_081,Space Geometry
+caadria2015_081,Space Perception
+caadria2015_081,Virtual Reality
+caadria2015_084,Depth Perception
+caadria2015_084,Head-Coupled Perspective
+caadria2015_084,Virtual Architecture
+caadria2015_084,Virtual Reality
+caadria2015_086,Complex System
+caadria2015_086,Experiment
+caadria2015_086,Generative Design
+caadria2015_086,Parametric Design
+caadria2015_086,Simulation
+caadria2015_087,Design Studio
+caadria2015_087,Education
+caadria2015_087,Game Mechanics
+caadria2015_090,Augmented Reality
+caadria2015_090,Design Cognition
+caadria2015_090,Human Computer Interaction
+caadria2015_090,Interactive Environment
+caadria2015_090,Virtual
+caadria2015_092,Building Information Modeling
+caadria2015_092,Fire Simulation
+caadria2015_092,Residential Building
+caadria2015_096,Building Volume Simulation
+caadria2015_096,Interactive
+caadria2015_096,Kinematic Model
+caadria2015_096,Physical Model
+caadria2015_096,Rapid Prototyping
+caadria2015_096,Virtual Reality
+caadria2015_099,Auxetic Material
+caadria2015_099,Cellular Structures
+caadria2015_099,Material Distribution
+caadria2015_099,Negative Poisson’s Ratio
+caadria2015_099,Optimization
+caadria2015_102,Collaborative Design
+caadria2015_102,Design Workflow
+caadria2015_102,Digital Fabrication
+caadria2015_102,File-to Production
+caadria2015_102,Pedagogy
+caadria2015_105,Arup Beam
+caadria2015_105,Digital Fabrication
+caadria2015_105,Emergent Structural Design
+caadria2015_105,Multi-Material 3D Printing
+caadria2015_105,Topology Optimization
+caadria2015_108,Building Information Modeling
+caadria2015_109,Computational Fluid Dynamics
+caadria2015_109,Pedestrian Comfort
+caadria2015_109,Visualization
+caadria2015_109,Wind
+caadria2015_111,Islamic Geometric Pattern
+caadria2015_111,Key-Shape
+caadria2015_111,Metamorphosis
+caadria2015_111,Parametric Design
+caadria2015_111,Shape Code
+caadria2015_114,Description
+caadria2015_114,Description Grammars
+caadria2015_114,Representation
+caadria2015_114,Shape Grammar
+caadria2015_117,Interactive Media
+caadria2015_117,Narratives
+caadria2015_117,Storytelling
+caadria2015_117,Video Games
+caadria2015_119,Building Information Modeling
+caadria2015_119,Geographic Information System
+caadria2015_119,Info-Convergence
+caadria2015_119,Interoperability 
+caadria2015_119,Spatial Data Model Standards
+caadria2015_119,Spatial Information
+caadria2015_122,Depth Sensing
+caadria2015_122,Human Computer Interface
+caadria2015_122,Multi-Modal Interface
+caadria2015_122,Responsive Environment
+caadria2015_122,Surface Computing
+caadria2015_124,Building Information Modeling
+caadria2015_124,Computational Design Analysis
+caadria2015_124,Performance Evaluation In The Early Design Stages.
+caadria2015_126,Augmenting Kashgar Project
+caadria2015_126,Baudriallard
+caadria2015_126,Digital Heritage
+caadria2015_126,Game Design
+caadria2015_126,Research Through Design
+caadria2015_130,Architectural Practice
+caadria2015_130,Creativity
+caadria2015_130,SPSS
+caadria2015_130,Tools
+caadria2015_130,Variance
+caadria2015_137,Architecture
+caadria2015_137,Communication
+caadria2015_137,Design
+caadria2015_137,Digital Media
+caadria2015_139,Cellular Automata
+caadria2015_139,Design Research
+caadria2015_139,Design Tools
+caadria2015_139,Generative Design
+caadria2015_142,Cross-Laminated Timber
+caadria2015_142,Folding Structures
+caadria2015_142,Parametric Modeling
+caadria2015_145,Digital Fabrication
+caadria2015_145,Simulation
+caadria2015_145,Structural Performance
+caadria2015_145,Topology Optimization
+caadria2015_145,Wood Tectonic
+caadria2015_150,Design
+caadria2015_150,Digital Craft
+caadria2015_150,Heritage
+caadria2015_150,Jacquard Loom
+caadria2015_150,Storytelling
+caadria2015_156,Construction Strategy
+caadria2015_156,Machinecraft
+caadria2015_156,Robotic 3D-Printing
+caadria2015_156,Robotic Fabrication
+caadria2015_157,Building Information Modeling
+caadria2015_157,Building Information Modeling Workflow
+caadria2015_157,Parametric Modeling
+caadria2015_162,Dynamic Relaxation
+caadria2015_162,Flat Lock Seams
+caadria2015_162,Panelisation
+caadria2015_164,Building Design and Operation
+caadria2015_164,Building Information Modeling
+caadria2015_164,Design Science
+caadria2015_164,DesignGhost
+caadria2015_164,Occupant Behavior
+caadria2015_164,Post Occupancy Evaluation
+caadria2015_164,Visibility Graph Analysis
+caadria2015_168,Genetic Algorithm
+caadria2015_168,Green Space
+caadria2015_168,Index of Distribution
+caadria2015_170,Affective Computing
+caadria2015_170,Chinese Calligraphy Art
+caadria2015_170,Human Computer Interaction
+caadria2015_172,Evolutionary Algorithm
+caadria2015_172,Parametric Modeling
+caadria2015_172,Performance Based Design
+caadria2015_172,Surrogate Modeling
+caadria2015_176,Digital Pattern
+caadria2015_176,Emotional Effects
+caadria2015_176,Facade Design
+caadria2015_176,Perforated Pattern
+caadria2015_178,Iteration
+caadria2015_178,Parametric Modeling
+caadria2015_178,Taxonomy
+caadria2015_179,3D Computer Aided Design
+caadria2015_179,Airport
+caadria2015_179,Building Information Modeling
+caadria2015_179,Space and Asset Management
+caadria2015_181,Design Research
+caadria2015_181,Generative Design
+caadria2015_181,Multi-Agent System
+caadria2015_185,Cork
+caadria2015_185,Morphogenesis
+caadria2015_185,Performance
+caadria2015_185,Shading System
+caadria2015_188,Augmented Reality
+caadria2015_188,Data Visualization
+caadria2015_188,Design Decision Support
+caadria2015_190,Ambient Display
+caadria2015_190,Horticultural Interaction Game
+caadria2015_190,Nature Display
+caadria2015_194,BCF
+caadria2015_194,Building Information Modeling
+caadria2015_194,Carbon Footprint Assessment
+caadria2015_202,Computer Vision
+caadria2015_202,Digital Workflow
+caadria2015_202,Material Feedback
+caadria2015_202,Robotic Fabrication
+caadria2015_202,Robotic Workshop
+caadria2015_203,Building Information Modeling
+caadria2015_203,Curriculum
+caadria2015_203,Education  
+caadria2015_206,Design Pattern
+caadria2015_206,Knowledge Repository
+caadria2015_206,Parametric Design
+caadria2015_208,Craft
+caadria2015_208,Design Cognition
+caadria2015_208,Digital Fabrication
+caadria2015_208,Distributed Cognition
+caadria2015_208,Embodiment
+caadria2015_209,Augmented Reality
+caadria2015_209,Cultural Heritage
+caadria2015_209,Heritage Visualization
+caadria2015_210,Fabrication
+caadria2015_210,Parametric
+caadria2015_210,Parametric Modeling
+caadria2015_210,Robots
+caadria2015_210,Simulation
+caadria2015_213,Cognitive Processes
+caadria2015_213,Computer Aided Architectural Design
+caadria2015_213,Spatial Thinking Training
+caadria2015_218,Adjustable Mold
+caadria2015_218,Architectural Panel
+caadria2015_218,Complex Shape
+caadria2015_218,Fiber Composites
+caadria2015_218,Fiber Reinforced Polymer
+caadria2015_220,Collaborative Design
+caadria2015_220,Folding Surfaces
+caadria2015_220,Physical and Digital Simulation
+caadria2015_220,Solar Simulation
+caadria2015_226,Computational Making
+caadria2015_226,Generative Fabrication
+caadria2015_226,Hot-Wire Cutting
+caadria2015_226,Robots in Architecture
+caadria2015_226,Shape Grammar
+caadria2015_226,Stereotomy
+caadria2015_233,Generative Design
+caadria2015_233,Lindenmayer Systems
+caadria2015_233,Spatial Layouts
+caadria2015_237,Computational Design
+caadria2015_237,Early Design Stages
+caadria2015_246,Authorship
+caadria2015_246,Crowdsourcing
+caadria2015_246,Digital Media
+caadria2015_246,Digital Property
+caadria2015_246,Open Innovation
+caadria2015_246,Ownership
+caadria2015_246,Physical Prototyping

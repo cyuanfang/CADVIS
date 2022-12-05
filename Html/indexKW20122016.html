@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title></title>
+<link rel="stylesheet" type="text/css" href="../wordcloud/inspector.css">
+<link rel="stylesheet" href="//code.jquery.com/ui/1.13.0/themes/base/jquery-ui.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+  <script src="https://code.jquery.com/ui/1.13.0/jquery-ui.js"></script>
+    <script>
+      $( function() {
+        $( ".widget input[type=submit], .widget a, .widget button" ).button();
+        $( "button, input, a" ).click( function( event ) {
+          event.preventDefault();
+        } );
+      } );
+      </script>
+<head>
+    <div class="widget">
+        <button onclick="location.href='indexA20122016.html'" style="background-color:#D0E3C4">Author Network</button>
+        <button onclick="location.href='indexW20122016.html'" style="background-color:#D0E3C4">Paper Network</button>
+        <button onclick="location.href='indexK20122016.html'" style="background-color:#D0E3C4">Keywork Network</button>
+        <button onclick="location.href='linechart_B.html'" class="button-4">Betweenness Linechart</button>
+      <button onclick="location.href='linechart_P.html'" class="button-4">Publication Linechart</button>
+        <!--
+      <button onclick="location.href='indexPA20122016.html'" style="background-color:#D0E3C4">Paper Author Network</button>
+      -->
+        <button onclick="location.href='indexKW20122016.html'" style="background-color:#D0E3C4">Keywork wordcloud</button>
+        <button onclick="location.href='indexKW20082012.html'" style="background-color:#b5d4fd">2008-2012</button>
+        <button onclick="location.href='indexKW20082017.html'" style="background-color:#b5d4fd">2008-2017</button>
+        <button onclick="location.href='indexKW20082022.html'" style="background-color:#b5d4fd">2008-2022</button>
+        <button onclick="location.href='indexKW20082012.html'" style="background-color:#ffbfd9">2008-2012</button>
+        <button onclick="location.href='indexKW20132017.html'" style="background-color:#ffbfd9">2013-2017</button>
+        <button onclick="location.href='indexKW20182022.html'" style="background-color:#ffbfd9">2018-2022</button>
+    </div>
+    <div class="force">
+        <p><label>YEAR</label></p>
+        <label title="The force will push/pull nodes to make links this long">
+          <select onchange="if (this.value) window.location.href=this.value">
+            <option value="static" selected="selected">2012</option>
+            <option value='indexKW20082008.html'>2008</option>
+            <option value='indexKW20092009.html'>2009</option>
+            <option value='indexKW20102010.html'>2010</option>
+            <option value='indexKW20112011.html'>2011</option>
+            <option value='indexKW20132013.html'>2013</option>
+            <option value='indexKW20142014.html'>2014</option>
+            <option value='indexKW20152015.html'>2015</option>
+            <option value='indexKW20162016.html'>2016</option>
+            <option value='indexKW20172017.html'>2017</option>
+            <option value='indexKW20182018.html'>2018</option>
+            <option value='indexKW20192019.html'>2019</option>
+            <option value='indexKW20202020.html'>2020</option>
+            <option value='indexKW20212021.html'>2021</option>
+            <option value='indexKW20222022.html'>2022</option>
+          </select>
+        </label>
+        <label title="The force will push/pull nodes to make links this long">
+          <select onchange="if (this.value) window.location.href=this.value">
+            <option value="static" selected="selected">2016</option>
+            <option value='indexKW20122012.html'>2012</option>
+            <option value='indexKW20122013.html'>2013</option>
+            <option value='indexKW20122014.html'>2014</option>
+            <option value='indexKW20122015.html'>2015</option>
+            <option value='indexKW20122017.html'>2017</option>
+            <option value='indexKW20122018.html'>2018</option>
+            <option value='indexKW20122019.html'>2019</option>
+            <option value='indexKW20122020.html'>2020</option>
+            <option value='indexKW20122021.html'>2021</option>
+            <option value='indexKW20122022.html'>2022</option>
+          </select>
+        </label>
+      </div>    
+</head>
+<body>
+<script type="module">
+
+import define from "../Js/IndexKW20122016.js";
+import {Runtime, Library, Inspector} from "../wordcloud/runtime.js";
+
+const runtime = new Runtime();
+const main = runtime.module(define, Inspector.into(document.body));
+
+</script>

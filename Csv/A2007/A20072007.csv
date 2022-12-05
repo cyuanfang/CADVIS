@@ -1,0 +1,170 @@
+source,target
+caadria2007_005,Neri Oxman
+caadria2007_005,Jesse L. Rosenberg
+caadria2007_013,Yuan-Bang Cheng
+caadria2007_013,Teng-Wen Chang
+caadria2007_021,Mao-Lin Chiu
+caadria2007_021,Guan-Cheng Lee
+caadria2007_029,Sherif Abdelmohsen
+caadria2007_029,Ellen Yi-Luen Do
+caadria2007_037,Worawut Wutthikornthanawat
+caadria2007_037,Pinyo Jinuntuya
+caadria2007_049,Vishal Singh
+caadria2007_049,John S. Gero
+caadria2007_057,Tahar Kouide
+caadria2007_057,G. Paterson
+caadria2007_069,Hao-Hsiu Chiu
+caadria2007_081,Jumphon Lertlakkhanakul
+caadria2007_081,Choungkyu Ryu
+caadria2007_081,Jin-Won Choi
+caadria2007_089,Yasunobu Onishi
+caadria2007_089,Mitsuo Morozumi
+caadria2007_089,Riken Homma
+caadria2007_089,Takahiro Maruyama
+caadria2007_097,Rong Du
+caadria2007_097,Yuan Gao
+caadria2007_107,Peng Ji
+caadria2007_113,Li Li
+caadria2007_113,Jingwen Gu
+caadria2007_119,Ahmed Mokhtar
+caadria2007_127,Ning Gu
+caadria2007_127,Leman Figen Gül
+caadria2007_127,Mary Lou Maher
+caadria2007_133,Martin Tamke
+caadria2007_133,Olaf Kobiella
+caadria2007_145,Robert Golda
+caadria2007_157,Krzysztof Koszewski
+caadria2007_157,Jan Slyk
+caadria2007_157,Stefan Wrona
+caadria2007_165,Huai-Wie Liu
+caadria2007_165,Ji-Hyun Lee
+caadria2007_171,Ashik Vaskor Mannan
+caadria2007_171,M. Saleh Uddin
+caadria2007_179,Rob Saunders
+caadria2007_179,Mary Lou Maher
+caadria2007_179,Kathryn Merrick
+caadria2007_185,Somwrita Sarkar
+caadria2007_185,John S. Gero
+caadria2007_185,Rob Saunders
+caadria2007_191,Biao Li
+caadria2007_203,Felix Heidrich
+caadria2007_203,Peter Russell
+caadria2007_203,Thomas Stachelhaus
+caadria2007_211,Suzana Said
+caadria2007_211,Mohamed R. Embi
+caadria2007_219,Wei Yan
+caadria2007_227,Zhong Tang
+caadria2007_233,Ali Ghaffarian Hoseini
+caadria2007_233,Rahinah Ibrahim
+caadria2007_241,Kenny T.C. Tse
+caadria2007_241,Andy Wong
+caadria2007_241,Francis Wong
+caadria2007_249,Paul Nicholas
+caadria2007_249,Mark Burry
+caadria2007_263,Abeer Shaheen
+caadria2007_263,H. Elkadi
+caadria2007_273,Davood Chitchian
+caadria2007_273,H.C. Bekkering
+caadria2007_283,Michael A. Ambrose
+caadria2007_289,Putthinun Sawasratanathon
+caadria2007_289,Pinyo Jinuntuya
+caadria2007_295,Atsuko Kaga
+caadria2007_295,Hahm Joohyung
+caadria2007_301,Larry Barrow
+caadria2007_301,Shaima Al Arayedh
+caadria2007_309,Odilo Schoch
+caadria2007_321,Bechir Kenzari
+caadria2007_329,Zhya Jacobs
+caadria2007_337,Ting-Fung Ho
+caadria2007_345,Rachelle Villalon
+caadria2007_353,Elys John
+caadria2007_361,Chien Jung Lo
+caadria2007_361,Mao-Lin Chiu
+caadria2007_361,Ming-Nan Liu
+caadria2007_369,Taysheng Jeng
+caadria2007_369,Hsuan-Cheng Lin
+caadria2007_369,Yang-Ting Shen
+caadria2007_369,Cheng-An Pan
+caadria2007_369,Chun-I Chen
+caadria2007_381,Thomas Fischer
+caadria2007_381,Christiane Marger Herr
+caadria2007_391,Nimish Biloria
+caadria2007_399,Halil I. Erhan
+caadria2007_399,Fatiha. D. Jebbar
+caadria2007_411,Youpei Hu
+caadria2007_411,Wowo Ding
+caadria2007_411,Gang Yuan
+caadria2007_423,Dominik Holzer
+caadria2007_423,Mark Burry
+caadria2007_423,Richard Hough
+caadria2007_433,Theodoros Dounas
+caadria2007_433,Kotsiopoulos M. Anastasios
+caadria2007_441,Ju-Hung Lan
+caadria2007_451,Chiu-Shui Chan
+caadria2007_459,Kui Yue
+caadria2007_459,Ramesh Krishnamurti
+caadria2007_467,Paul Varghese
+caadria2007_467,Arif N. Merchant
+caadria2007_475,Alexander Koutamanis
+caadria2007_475,Gilles Halin
+caadria2007_475,Thomas Kvan
+caadria2007_483,Ih-Cheng Lai
+caadria2007_483,Teng-Wen Chang
+caadria2007_489,Herman Neuckermans
+caadria2007_489,Martin Wolpers
+caadria2007_489,Mathias Casaer
+caadria2007_489,Ann Heylighen
+caadria2007_503,Reika Sato
+caadria2007_503,Bin Lu
+caadria2007_503,Mayumi Oyama-Higa
+caadria2007_503,Tsuneo Jozen
+caadria2007_503,Nagae Katsuya
+caadria2007_511,Jörg Rügemer
+caadria2007_519,David Porter
+caadria2007_519,Raid Hanna
+caadria2007_529,Paul Murty
+caadria2007_529,Terry Purcell
+caadria2007_537,Chuan Fei Yu
+caadria2007_543,Lixin Fang
+caadria2007_543,Qi Zhou
+caadria2007_549,Chuang-Yu Huang
+caadria2007_561,Xiangyu Wang
+caadria2007_569,José R. Kós
+caadria2007_577,Jules Moloney
+caadria2007_585,José Luis Menegotto
+caadria2007_593,Tomohiro Fukuda
+caadria2007_593,Atsuko Kaga
+caadria2007_593,Masahiro Kawaguchi
+caadria2007_593,Wookhyun Yeo
+caadria2007_599,Beng-Kiang Tan
+caadria2007_599,Daniel Hii Jun Chung
+caadria2007_611,Kittisak Arpornwicharnop
+caadria2007_611,Pinyo Jinuntuya
+caadria2007_611,Pizzanu Kanongchaiyos
+caadria2007_619,Jingping Qian
+caadria2007_619,Chiu-Shui Chan
+caadria2007_625,Marc Aurel Schnabel
+caadria2007_633,Kalliopi Maravelea
+caadria2007_633,M. Grant
+caadria2007_639,Pinyo Jinuntuya
+caadria2007_639,Jirayod Theppipit
+caadria2007_645,Ji-Hyun Lee
+caadria2007_645,Tian-Chiu Li
+caadria2007_657,Sirin Chotsiri
+caadria2007_657,Siwarak Suwannasan
+caadria2007_657,Wipaporn Lamool
+caadria2007_657,Monchai Bunyavipakul
+caadria2007_659,Zi-Ru Chen
+caadria2007_661,Wipaporn Lamool
+caadria2007_661,Sirin Chotsiri
+caadria2007_661,S. Suvarnnasara
+caadria2007_661,Monchai Bunyavipakul
+caadria2007_667,P.G. Shivshankar
+caadria2007_667,Vennila Thirumavalavan
+caadria2007_675,Joseph Chuen-Huei Huang
+caadria2007_677,R. Anbusivan
+caadria2007_683,Bahram Tayyar
+caadria2007_687,Liang Chen
+caadria2007_689,Daniel Hii Jun Chung
+caadria2007_693,Yue Kui
+caadria2007_693,Ramesh Krishnamurti

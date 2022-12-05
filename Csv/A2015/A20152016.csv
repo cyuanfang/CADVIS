@@ -1,0 +1,407 @@
+source,target
+caadria2015_002,Riva Tomasowa
+caadria2015_004,Sotirios D. Kotsopoulos
+caadria2015_004,Federico Casalegno
+caadria2015_010,Oscar Gámez
+caadria2015_010,Jean-Claude Bignon
+caadria2015_010,Gilles Duchanois
+caadria2015_012,Yuki Nakama
+caadria2015_012,Yasunobu Onishi
+caadria2015_012,Kazuhisa Iki
+caadria2015_013,Chengde Wu
+caadria2015_013,Mark J. Clayton
+caadria2015_014,Ju Hyun Lee
+caadria2015_014,Michael Ostwald
+caadria2015_014,Ning Gu
+caadria2015_015,Nathan Melenbrink
+caadria2015_015,Nathan King
+caadria2015_016,Seung Wan Hong
+caadria2015_016,Yehuda E. Kalay
+caadria2015_016,Davide Schaumann
+caadria2015_023,Michael Weizmann
+caadria2015_023,Oded Amir
+caadria2015_023,Yasha Jacob Grobman
+caadria2015_030,Mahesh Daas
+caadria2015_030,Andrew John Wit
+caadria2015_031,Gernot Riether
+caadria2015_031,Andrew John Wit
+caadria2015_031,Steven T. Putt
+caadria2015_032,Pei-Hsien Hsu
+caadria2015_033,Arman Hadilou
+caadria2015_043,Malgorzata A. Zboinska
+caadria2015_048,Matthew Austin
+caadria2015_048,Gavin Perin
+caadria2015_049,Dominik Holzer
+caadria2015_054,Daniel Joseph
+caadria2015_054,Alan Kim
+caadria2015_054,Andrew Butler
+caadria2015_054,Matthias Hank Haeusler
+caadria2015_060,Jaclyn K. Sun
+caadria2015_060,Geoff Kimm
+caadria2015_060,Suleiman Alhadidi
+caadria2015_061,Kyung Hoon Hyun
+caadria2015_061,Aram Min
+caadria2015_061,Sun-Joong Kim
+caadria2015_061,Ji-Hyun Lee
+caadria2015_064,J. Meyer
+caadria2015_064,Gilles Duchanois
+caadria2015_064,Jean-Claude Bignon
+caadria2015_064,A. Bouali
+caadria2015_065,Michio Matsubayashi
+caadria2015_065,Shun Watanabe
+caadria2015_066,R. Vital
+caadria2015_066,J. Cory
+caadria2015_067,Jungsik Choi
+caadria2015_067,Inhan Kim
+caadria2015_067,Minchan Kim
+caadria2015_069,Chieh-Jen Lin
+caadria2015_070,Eliot Rosenberg
+caadria2015_070,Matthias Hank Haeusler
+caadria2015_070,Jeffrey Koh
+caadria2015_072,Fei Si
+caadria2015_072,Tsung-Hsien Wang
+caadria2015_073,Rongrong Yu
+caadria2015_073,John S. Gero
+caadria2015_077,Galit Shiff
+caadria2015_077,Yael Gilad
+caadria2015_077,Amos Ophir
+caadria2015_078,Kane Yanagawa
+caadria2015_081,Avishag Shemesh
+caadria2015_081,Moshe Bar
+caadria2015_081,Yasha Jacob Grobman
+caadria2015_084,Mohammad Rahmani Asl
+caadria2015_084,Chengde Wu
+caadria2015_084,Gil Rosen-Thal
+caadria2015_084,Wei Yan
+caadria2015_086,Weixin Huang
+caadria2015_086,Weiguo Xu
+caadria2015_087,Tane Jacob Moleta
+caadria2015_090,Jawad Altabtabai
+caadria2015_090,Wei Yan
+caadria2015_092,Chengde Wu
+caadria2015_092,Henan Li
+caadria2015_092,Wei Yan
+caadria2015_096,Tomohiro Fukuda
+caadria2015_096,Toshiki Tokuhara
+caadria2015_096,Nobuyoshi Yabuki
+caadria2015_099,Daekwon Park
+caadria2015_099,Juhun Lee
+caadria2015_099,Alejandra Romo
+caadria2015_102,Paul Loh
+caadria2015_105,A. Hosny
+caadria2015_105,N. Jacobson
+caadria2015_105,Z. Seibold
+caadria2015_108,Stylianos Dritsas
+caadria2015_109,Rafael Moya
+caadria2015_111,Mostafa W. Alani
+caadria2015_111,Carlos R. Barrios
+caadria2015_114,Rudi Stouffs
+caadria2015_117,Andrzej Zarzycki
+caadria2015_119,Jungrim Ryu
+caadria2015_119,Seung Yeon Choo
+caadria2015_122,Kuan-Ying Wu
+caadria2015_122,June-Hao Hou
+caadria2015_124,Ömer H. Çavuşoğlu 
+caadria2015_126,Serdar Aydin
+caadria2015_126,Marc Aurel Schnabel
+caadria2015_130,Raid Hanna
+caadria2015_137,Krisanee Meechao
+caadria2015_139,Christiane Marger Herr
+caadria2015_139,Ryan C. Ford
+caadria2015_142,Milena Stavric
+caadria2015_142,Thomas Bogensperger
+caadria2015_145,Philip F. Yuan
+caadria2015_145,Hua Chai
+caadria2015_150,Thomas Fischer
+caadria2015_156,Cristina Nan
+caadria2015_157,Patrick Janssen
+caadria2015_162,Hiroshi Amano
+caadria2015_164,Tim Mcginley
+caadria2015_164,Darren Fong
+caadria2015_168,Ziyu Tong
+caadria2015_170,Yu Chen Chen
+caadria2015_170,Chao-Ming Wang
+caadria2015_172,Thian-Siong Choo
+caadria2015_172,Patrick Janssen
+caadria2015_176,Youngeun Oh
+caadria2015_176,Hyun Soo Lee
+caadria2015_178,Patrick Janssen
+caadria2015_178,Rudi Stouffs
+caadria2015_179,Eonyong Kim
+caadria2015_179,Jongtaek Yun
+caadria2015_179,Sanghyun Cho
+caadria2015_181,Igor Pantic
+caadria2015_181,Soomeen Hahm
+caadria2015_185,Maria João De Oliveira
+caadria2015_185,Vasco Moreira Rato
+caadria2015_188,Stefan Krakhofer
+caadria2015_188,Martin Kaftan
+caadria2015_190,Yi-Sin Wu
+caadria2015_190,Teng-Wen Chang
+caadria2015_194,Chi-Ming Lu
+caadria2015_194,Jia-Yih Chen
+caadria2015_194,Cheng-An Pan
+caadria2015_194,Taysheng Jeng
+caadria2015_202,Felix Amtsberg
+caadria2015_202,Felix Raspall
+caadria2015_202,Andreas Trummer
+caadria2015_203,Walaiporn Nakapan
+caadria2015_206,Sheng-Fen Chien
+caadria2015_206,Hsiu-Pai Su
+caadria2015_206,Yu-Wei Huang
+caadria2015_208,Shani Sharif
+caadria2015_208,T. Russell Gentry
+caadria2015_209,Lorena C. de S. Moreira
+caadria2015_209,Regina Coeli Ruschel
+caadria2015_210,Kevin Sweet
+caadria2015_213,Sorachai Kornkasem
+caadria2015_213,John B. Black
+caadria2015_218,Kihong Ku
+caadria2015_218,Daniel Hii Jun Chung
+caadria2015_220,Nancy Y. Cheng
+caadria2015_220,Mehrnoush Latifi
+caadria2015_220,Nicholas Williams
+caadria2015_220,Daniel Prohasky
+caadria2015_220,Jane Burry
+caadria2015_226,Ardavan Bidgoli
+caadria2015_226,Daniel Cardoso-Llach
+caadria2015_233,Ruwan A. Fernando
+caadria2015_233,Robin Drogemuller
+caadria2015_237,Frano. Bazalo
+caadria2015_237,Tane Jacob Moleta
+caadria2015_246,Wendy W. Fok
+caadria2016_003,Tane Jacob Moleta
+caadria2016_003,Timothy G. Voss
+caadria2016_013,Gideon D.P.A. Aschwanden
+caadria2016_023,Bewketu Kassa
+caadria2016_023,Hyoung-June Park
+caadria2016_033,Marc Aurel Schnabel
+caadria2016_033,Yingyi Zhang
+caadria2016_045,Annisa R. Rizal
+caadria2016_045,Ben Doherty
+caadria2016_045,Matthias Hank Haeusler
+caadria2016_055,Sangho Lee
+caadria2016_055,Seyun An
+caadria2016_055,Soyeon Kim
+caadria2016_055,Yountaik Leem
+caadria2016_063,Derek Kawiti
+caadria2016_063,James Durcan
+caadria2016_063,Marc Aurel Schnabel
+caadria2016_073,Jin-Kook Lee
+caadria2016_073,Seokyung Park
+caadria2016_085,Guohua Ji
+caadria2016_095,Michael Ostwald
+caadria2016_095,Ning Gu
+caadria2016_095,Rongrong Yu
+caadria2016_105,Dong Yan
+caadria2016_105,Weixin Huang
+caadria2016_105,Zhida Song
+caadria2016_115,Rudi Stouffs
+caadria2016_125,I-Chih Chen
+caadria2016_125,June-Hao Hou
+caadria2016_135,Deedee Min
+caadria2016_135,Ji-Hyun Lee
+caadria2016_147,António Leitão
+caadria2016_147,B. Ferreira
+caadria2016_147,G. Barreto
+caadria2016_147,Sofia Feist
+caadria2016_157,Akshata Mohanty
+caadria2016_157,Patrick Janssen
+caadria2016_157,Ruize Li
+caadria2016_167,Hsiu-Pai Su
+caadria2016_167,Sheng-Fen Chien
+caadria2016_177,Giacomo Nannicini
+caadria2016_177,Thomas Wortmann
+caadria2016_187,Camilo Cruz
+caadria2016_187,Justyna Karakiewicz
+caadria2016_187,Michael Kirley
+caadria2016_197,Yannis Zavoleas
+caadria2016_209,Guohua Ji
+caadria2016_209,Likai Wang
+caadria2016_209,Zilong Tan
+caadria2016_219,Daniel Prohasky
+caadria2016_219,Jane Burry
+caadria2016_219,Jesse Mccarty 
+caadria2016_219,Mehrnoush Latifi
+caadria2016_219,Rafael Moya Castro
+caadria2016_219,Simon Watkins
+caadria2016_229,Abel Tablada
+caadria2016_229,Ji Zhang
+caadria2016_229,Nyuk Hien Wong
+caadria2016_229,Rudi Stouffs
+caadria2016_229,Yuezhong Liu
+caadria2016_239,Daniel J. Prohasky
+caadria2016_239,Jane Burry
+caadria2016_239,Rafael Moya Castro
+caadria2016_239,Simon Watkins
+caadria2016_249,Taichi Kuma
+caadria2016_259,Jia-Yih Chen
+caadria2016_259,Shao-Chu Huang
+caadria2016_271,Chin Koi Khoo
+caadria2016_271,Flora Salim
+caadria2016_281,Diego Pinochet
+caadria2016_291,Akito Hotta
+caadria2016_291,Kensuke Hotta
+caadria2016_301,J. Hollick
+caadria2016_301,Sambit Datta
+caadria2016_301,Teng-Wen Chang
+caadria2016_311,Kuan-Lin Chen
+caadria2016_311,Ming-Ying Wu
+caadria2016_311,Yu-Chun Huang
+caadria2016_321,Min-Nan Liao
+caadria2016_321,Sambit Datta
+caadria2016_321,Teng-Wen Chang
+caadria2016_321,Yi-Sin Wu
+caadria2016_333,Benjamin Strobel
+caadria2016_333,Frank Petzold
+caadria2016_333,Gerhard Schubert
+caadria2016_343,Aswin Indraprastha
+caadria2016_343,Nova Asriana
+caadria2016_353,Feng Yuan
+caadria2016_353,Shuyi Huang
+caadria2016_353,Tong Xiao
+caadria2016_363,Alexander Lee
+caadria2016_363,Matthias Hank Haeusler
+caadria2016_363,Suleiman Alhadidi
+caadria2016_373,Mary Katherine Heinrich
+caadria2016_373,Phil Ayres
+caadria2016_383,A. Hauck
+caadria2016_383,C. Beorkrem
+caadria2016_383,J. Ellinger
+caadria2016_383,P. Bernstein
+caadria2016_395,J. P. Ugarte
+caadria2016_395,M. Leef
+caadria2016_405,Alessandro Liuti
+caadria2016_405,Keryn Liew
+caadria2016_405,Lian Chen Ng
+caadria2016_415,Adam Fingrut
+caadria2016_415,Kristof Crolla
+caadria2016_425,Firza Utama Sjarifudin
+caadria2016_435,Chieh-Jen Lin
+caadria2016_445,François Guéna
+caadria2016_445,Joaquim Silvestre
+caadria2016_445,Yasushi Ikeda
+caadria2016_457,Kokfu Lok
+caadria2016_457,Szu-Yin Chen
+caadria2016_457,Tay-Sheng Jeng
+caadria2016_467,Eonyong Kim
+caadria2016_467,Hanjong Jun
+caadria2016_467,Mikyoung Kim
+caadria2016_467,Seungyeul Ji
+caadria2016_477,C. C. Hsu
+caadria2016_477,Mao-Lin Chiu
+caadria2016_477,Y. P. Ma
+caadria2016_487,Inhan Kim
+caadria2016_487,Jihye Shin
+caadria2016_487,Jungsik Choi
+caadria2016_497,Jaehong Jun
+caadria2016_497,Jungrim Ryu
+caadria2016_497,Seunghyeon Lee
+caadria2016_497,Seungyeon Choo
+caadria2016_507,Inhan Kim
+caadria2016_507,Jiyong Lee
+caadria2016_507,Jungsik Choi
+caadria2016_517,Pei Wen Lu
+caadria2016_517,Yang-Ting Shen
+caadria2016_529,David Jenny
+caadria2016_529,Fabio Gramazio
+caadria2016_529,Matthias Kohler
+caadria2016_529,Romana Rust
+caadria2016_539,D. Goldbach
+caadria2016_539,E. Lublasser
+caadria2016_539,Johannes Braumann
+caadria2016_539,Sigrid Brell-Cokcan
+caadria2016_549,Christiane M. Herr
+caadria2016_549,Thomas Fischer
+caadria2016_559,Baris Cokcan
+caadria2016_559,Johannes Braumann
+caadria2016_559,Martin Trautz
+caadria2016_559,W. Winter
+caadria2016_569,Dharman Gersch
+caadria2016_569,Nicholas Williams
+caadria2016_579,Rachel Tan
+caadria2016_579,Stylianos Dritsas
+caadria2016_589,Kostas Grigoriadis
+caadria2016_601,Stephen Harfield
+caadria2016_601,Wajdy Qattan
+caadria2016_611,Stylianos Dritsas
+caadria2016_621,Ji Ho Lee
+caadria2016_621,Ji-Hyun Lee
+caadria2016_631,Jane Burry
+caadria2016_631,Pantea Alambeigi
+caadria2016_631,Sipei Zhao
+caadria2016_631,Xiaojun Qiu
+caadria2016_641,B. Heiermann
+caadria2016_641,D. Baerlecken
+caadria2016_641,J. Reitz
+caadria2016_641,K. Wright
+caadria2016_641,N. Mueller
+caadria2016_651,Jane Burry
+caadria2016_651,Malte Wagenfeld
+caadria2016_651,Paul Loh
+caadria2016_663,Ali Motamedi
+caadria2016_663,Masahiro Hosokawa
+caadria2016_663,Nobuyoshi Yabuki
+caadria2016_663,Takashi Michikawa
+caadria2016_663,Tomohiro Fukuda
+caadria2016_673,Fredrik JöRnebrant
+caadria2016_673,Mattias Roupé
+caadria2016_673,Mikael Johansson
+caadria2016_673,Mikael Viklund Tallgren
+caadria2016_673,Petru Andrei Tomsa
+caadria2016_683,Davide Pierini
+caadria2016_683,Marc Aurel Schnabel
+caadria2016_683,Serdar Aydin
+caadria2016_683,Tane Jacob Moleta
+caadria2016_683,Tomás Dorta
+caadria2016_693,Henry Skates
+caadria2016_693,Karine Dupre
+caadria2016_693,Ruwan Fernando
+caadria2016_703,Ali Motamedi
+caadria2016_703,Nobuyoshi Yabuki
+caadria2016_703,Takashi Michikawa
+caadria2016_703,Tomohiro Fukuda
+caadria2016_703,Yakui Ding
+caadria2016_713,Ali Motamedi
+caadria2016_713,Nobuyoshi Yabuki
+caadria2016_713,Takashi Michikawa
+caadria2016_713,Tomohiro Fukuda
+caadria2016_713,Yusuke Sato
+caadria2016_725,Ronglou Zhou
+caadria2016_725,Ziyu Tong
+caadria2016_735,Jose Pedro Sousa
+caadria2016_735,Pedro De Azambuja Varela
+caadria2016_735,Pedro Martins
+caadria2016_745,Seiichi Suzuki E.
+caadria2016_755,David Leggett
+caadria2016_755,Paul Loh
+caadria2016_755,Timothy Cameron
+caadria2016_767,Pedro De Azambuja Varela
+caadria2016_767,Timothy R. Merritt
+caadria2016_777,Andry Widyowijatnoko
+caadria2016_777,Rakhmat F. Aditra
+caadria2016_787,Andrew Kudless
+caadria2016_787,Chris Knapp
+caadria2016_787,Jonathan Nelson
+caadria2016_787,Sascha Bohnenberger
+caadria2016_797,Guillaume Habert
+caadria2016_797,Isolda Agustí-Juan
+caadria2016_809,Walaiporn Nakapan
+caadria2016_819,Hedda H. Askland
+caadria2016_819,Nicholas C. Foulcher
+caadria2016_819,Ning Gu
+caadria2016_829,Matthew Austin
+caadria2016_829,Wajdy Qattan
+caadria2016_839,Keisuke Toyoda
+caadria2016_839,Tsukasa Takenaka
+caadria2016_839,Yasushi Ikeda
+caadria2016_851,Benay Gursoy
+caadria2016_861,Jennifer Shields
+caadria2016_861,John S. Gero
+caadria2016_861,Rongrong Yu
+caadria2016_871,B. Gardiner
+caadria2016_871,P. Tombesi
+caadria2016_871,S. Colabella
+caadria2016_881,François Guéna
+caadria2016_881,Joaquim Silvestre
+caadria2016_881,Yasushi Ikeda
